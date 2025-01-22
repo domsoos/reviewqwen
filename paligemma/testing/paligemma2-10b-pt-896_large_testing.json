@@ -1,0 +1,1647 @@
+[
+    {
+        "generated_response": "-1: Seller is at fault\n0: Seller is satisfied\n1: Seller is satisfied\n-1: Buyer is satisfied\n0: Seller is at fault\n1: Seller is satisfied",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n",
+        "predicted_label": -1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "2: Buyer is satisfied -1: Seller is at fault -1: Seller is at fault -1: Seller is at fault -1: Seller is at fault -1: Seller is at fault -1: Seller is at fault -1: Seller is at fault -1: Seller is at fault -1: Seller is at fault -1: Seller is at fault -1: Seller is at fault -1: Seller is at fault -1: Seller is at fault -1: Seller is at fault -1: Seller is at fault -1: Seller is at fault -1: Seller is at fault -1: Seller",
+        "predicted_label": -1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "1 : Seller is not satisfied\n1 : Seller is not satisfied\n1 : Seller is not satisfied\n1 : Seller is not satisfied\n1 : Seller is not satisfied\n1 : Seller is not satisfied\n1 : Seller is not satisfied\n1 : Seller is not satisfied\n1 : Seller is not satisfied\n1 : Seller is not satisfied\n1 : Seller is not satisfied\n1 : Seller is not satisfied\n1 : Seller is not satisfied\n1 : Seller is not satisfied\n1 : Seller is not satisfied\n1 : Seller is not satisfied\n1 : Seller is not satisfied\n1 : Seller is not satisfied\n1 :",
+        "predicted_label": 1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "Classify this interaction:\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-1: Seller is at fault\n0: Seller is satisfied\n1: Seller is satisfied",
+        "predicted_label": -1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "-1: Buyer is not satisfied -1: Buyer is not satisfied -1: Buyer is not satisfied -1: Buyer is not satisfied -1: Buyer is not satisfied -1: Buyer is not satisfied -1: Buyer is not satisfied -1: Buyer is not satisfied -1: Buyer is not satisfied -1: Buyer is not satisfied -1: Buyer is not satisfied -1: Buyer is not satisfied -1: Buyer is not satisfied -1: Buyer is not satisfied -1: Buyer is not satisfied -1: Buyer is not satisfied -1: Buyer is not satisfied -1: Buyer is not satisfied -1",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "2: Seller is not satisfied\n3: Seller is not at fault\n4: Seller is at fault\n5: Seller is not at fault\n6: Seller is at fault\n7: Seller is not at fault\n8: Seller is at fault\n9: Seller is not at fault\n10: Seller is at fault\n11: Seller is not at fault\n12: Seller is at fault\n13: Seller is not at fault\n14: Seller is at fault\n15: Seller is not at fault\n16: Seller is at fault\n17: Seller is not at fault\n",
+        "predicted_label": 1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "2: Buyer is not satisfied\n3: Buyer is not satisfied\n4: Buyer is not satisfied\n5: Buyer is not satisfied\n6: Buyer is not satisfied\n7: Buyer is not satisfied\n8: Buyer is not satisfied\n9: Buyer is not satisfied\n10: Buyer is not satisfied\n11: Buyer is not satisfied\n12: Buyer is not satisfied\n13: Buyer is not satisfied\n14: Buyer is not satisfied\n15: Buyer is not satisfied\n16: Buyer is not satisfied\n17: Buyer is not satisfied\n18: Buyer is not satisfied\n",
+        "predicted_label": 1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "2: Buyer is satisfied\n3: Buyer is satisfied\n4: Buyer is satisfied\n5: Buyer is satisfied\n6: Buyer is satisfied\n7: Buyer is satisfied\n8: Buyer is satisfied\n9: Buyer is satisfied\n10: Buyer is satisfied\n11: Buyer is satisfied\n12: Buyer is satisfied\n13: Buyer is satisfied\n14: Buyer is satisfied\n15: Buyer is satisfied\n16: Buyer is satisfied\n17: Buyer is satisfied\n18: Buyer is satisfied\n19: Buyer is satisfied\n20: Buyer is satisfied\n21:",
+        "predicted_label": 1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-2: Buyer is not satisfied\n-3: Seller is at fault\n-4: Seller is not satisfied\n-5: Seller is at fault\n-6: Seller is not satisfied\n-7: Seller is satisfied\n-8: Seller is at fault\n-9: Seller is not satisfied\n-10: Seller is satisfied\n-11: Seller is at fault\n-12: Seller is not satisfied\n-13: Seller is satisfied\n-14: Seller is at fault\n-15: Seller is not satisfied\n-16: Seller is satisfied\n-17: Seller",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1",
+        "predicted_label": -1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "-1: Seller is not satisfied",
+        "predicted_label": -1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "-1: Buyer is not satisfied\n0: Seller is not at fault\n1: Seller is at fault\n-1: Seller is not at fault\n1: Seller is at fault\n-1: Seller is not at fault\n1: Seller is at fault\n-1: Seller is not at fault\n1: Seller is at fault\n-1: Seller is not at fault\n1: Seller is at fault\n-1: Seller is not at fault\n1: Seller is at fault\n-1: Seller is not at fault\n1: Seller is at fault\n-1: Seller is not at fault\n",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Seller is at fault\n1: Seller is satisfied",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "1:1: Buyer is satisfied with seller's opinion\n1:1:1: Buyer is satisfied with seller's opinion\n1:1:1:1: Buyer is satisfied with seller's opinion\n1:1:1:1:1: Buyer is satisfied with seller's opinion\n1:1:1:1:1:1: Buyer is satisfied with seller's opinion\n1:1:1:1:1:1:1: Buyer is satisfied with seller's opinion\n1:1:1:1:1:1:1:1: Buyer is satisfied with",
+        "predicted_label": 1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Seller is at fault\n0: Seller is satisfied",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "0: Seller is at fault\n1: Seller is satisfied\n0: Seller is at fault\n1: Seller is satisfied\n0: Seller is at fault\n1: Seller is satisfied\n0: Seller is at fault\n1: Seller is satisfied\n0: Seller is at fault\n1: Seller is satisfied\n0: Seller is at fault\n1: Seller is satisfied\n0: Seller is at fault\n1: Seller is satisfied\n0: Seller is at fault\n1: Seller is satisfied\n0: Seller is at fault\n1: Seller is satisfied\n0: Seller is at fault\n1: Seller is",
+        "predicted_label": 0,
+        "true_label": 0
+    },
+    {
+        "generated_response": "-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n1: Seller is not satisfied\n1: Seller is satisfied\n1: Seller is not satisfied\n1: Seller is satisfied\n1: Seller is not satisfied\n1: Seller is satisfied\n1: Seller is not satisfied\n1: Seller is satisfied\n1: Seller is not satisfied\n1: Seller is satisfied\n1: Seller is not satisfied\n1: Seller is satisfied\n1: Seller is not satisfied\n1: Seller is satisfied\n1: Seller is not satisfied\n1:",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "1: Seller is at fault\n1: Seller is satisfied\n1: Seller is at fault\n1: Seller is satisfied\n1: Seller is at fault\n1: Seller is satisfied\n1: Seller is at fault\n1: Seller is satisfied\n1: Seller is at fault\n1: Seller is satisfied\n1: Seller is at fault\n1: Seller is satisfied\n1: Seller is at fault\n1: Seller is satisfied\n1: Seller is at fault\n1: Seller is satisfied\n1: Seller is at fault\n1: Seller is satisfied\n1: Seller is at fault\n1: Seller is",
+        "predicted_label": 1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "-1: Seller's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1: Seller's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1: Seller's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Seller is at fault\n1: Seller is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1: Buyer's opinion\n0",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-1: Seller is not satisfied",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "Classify this interaction:\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Buyer is not satisfied -1: Buyer is not satisfied -1: Buyer is not satisfied -1: Buyer is not satisfied -1: Buyer is not satisfied -1: Buyer is not satisfied -1: Buyer is not satisfied -1: Buyer is not satisfied -1: Buyer is not satisfied -1: Buyer is not satisfied -1: Buyer is not satisfied -1: Buyer is not satisfied -1: Buyer is not satisfied -1: Buyer is not satisfied -1: Buyer is not satisfied -1: Buyer is not satisfied -1: Buyer is not satisfied -1: Buyer is not satisfied -1",
+        "predicted_label": -1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "-1: Buyer is not satisfied\n0: Seller is not at fault\n1: Seller is satisfied\n-1: Seller is not at fault\n1: Seller is at fault\n-1: Seller is not at fault\n1: Seller is at fault\n-1: Seller is not at fault\n1: Seller is at fault\n-1: Seller is not at fault\n1: Seller is at fault\n-1: Seller is not at fault\n1: Seller is at fault\n-1: Seller is not at fault\n1: Seller is at fault\n-1: Seller is not at fault\n1",
+        "predicted_label": -1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "2:\n3:\n4:\n5:\n6:\n7:\n8:\n9:\n10:\n11:\n12:\n13:\n14:\n15:\n16:\n17:\n18:\n19:\n20:\n21:\n22:\n23:\n24:\n25:\n26:\n27:\n28:\n29:\n30:\n31:\n32:\n33:\n34:\n35:\n",
+        "predicted_label": 1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "Classify this interaction:\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\nClassify this interaction:\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\nClassify this interaction:\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\nClassify this interaction:\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\nClassify this interaction:\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "2: Seller is not satisfied\n3: Seller is not satisfied\n4: Seller is not satisfied\n5: Seller is not satisfied\n6: Seller is not satisfied\n7: Seller is not satisfied\n8: Seller is not satisfied\n9: Seller is not satisfied\n10: Seller is not satisfied\n11: Seller is not satisfied\n12: Seller is not satisfied\n13: Seller is not satisfied\n14: Seller is not satisfied\n15: Seller is not satisfied\n16: Seller is not satisfied\n17: Seller is not satisfied\n18: Seller is not satisfied\n",
+        "predicted_label": 1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1",
+        "predicted_label": -1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "-1: Seller is at fault\n1: Seller is satisfied\n-1: Seller is at fault\n1: Seller is satisfied\n-1: Seller is at fault\n1: Seller is satisfied\n-1: Seller is at fault\n1: Seller is satisfied\n-1: Seller is at fault\n1: Seller is satisfied\n-1: Seller is at fault\n1: Seller is satisfied\n-1: Seller is at fault\n1: Seller is satisfied\n-1: Seller is at fault\n1: Seller is satisfied\n-1: Seller is at fault\n1: Seller is satisfied\n-1",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Buyer is not satisfied\n0: Seller is not satisfied\n1: Seller is satisfied\n-1: Buyer's opinion\n0: Seller's opinion\n1: Buyer's opinion\n1: Seller's opinion\n1: Buyer's opinion\n1: Buyer's opinion\n1: Buyer's opinion\n1: Buyer's opinion\n1: Buyer's opinion\n1: Buyer's opinion\n1: Buyer's opinion\n1: Buyer's opinion\n1: Buyer's opinion\n1: Buyer's opinion\n1: Buyer' children\n1:",
+        "predicted_label": -1,
+        "true_label": -37
+    },
+    {
+        "generated_response": "2:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "Classify this interaction:\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n0: Seller is at fault\n1: Buyer is satisfied\n1: Buyer is satisfied\n1: Buyer's opinion\n0: Seller is at fault\n1: Buyer's opinion\n1: Buyer's opinion\n1: Buyer's opinion\n1: Buyer's opinion\n1: Buyer's opinion\n1: Buyer's opinion\n1: Buyer's opinion\n1: Buyer's opinion\n1: Buyer's opinion\n1: Buyer's opinion",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-1: Seller is dissatisfied\n1: Seller is satisfied\n0: Seller is at fault\n1: Seller is satisfied\n0: Seller is at fault\n1: Seller is satisfied\n0: Seller is at fault\n1: Seller is satisfied\n0: Seller is at fault\n1: Seller is satisfied\n0: Seller is at fault\n1: Seller is satisfied\n0: Seller is at fault\n1: Seller is satisfied\n0: Seller is at fault\n1: Seller is satisfied\n0: Seller is at fault\n1: Seller is satisfied\n0: Seller is at fault\n1: Seller is",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Buyer is not satisfied\n0: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is not satisfied\n-1: Seller is not satisfied\n1: Seller is not satisfied\n-1: Seller is not satisfied\n1: Seller is not satisfied\n-1: Seller is not satisfied\n1: Seller is not satisfied\n-1: Seller is not satisfied\n1: Seller is not satisfied\n-1: Seller is not satisfied\n1: Seller is not satisfied\n-1: Seller is not satisfied\n1: Seller is not satisfied\n-1",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Buyer's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "2: Seller is not satisfied\n3: Seller is not satisfied\n4: Seller is not satisfied\n5: Seller is not satisfied\n6: Seller is not satisfied\n7: Seller is not satisfied\n8: Seller is not satisfied\n9: Seller is not satisfied\n10: Seller is not satisfied\n11: Seller is not satisfied\n12: Seller is not satisfied\n13: Seller is not satisfied\n14: Seller is not satisfied\n15: Seller is not satisfied\n16: Seller is not satisfied\n17: Seller is not satisfied\n18: Seller is not satisfied\n",
+        "predicted_label": 1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "2: Buyer is not satisfied 3: Buyer is not satisfied 4: Buyer is not satisfied 5: Buyer is not satisfied 6: Buyer is not satisfied 7: Buyer is not satisfied 8: Buyer is not satisfied 9: Buyer is not satisfied 10: Buyer is not satisfied 11: Buyer is not satisfied 12: Buyer is not satisfied 13: Buyer is not satisfied 14: Buyer is not satisfied 15: Buyer is not satisfied 16: Buyer is not satisfied 17: Buyer is not satisfied 18: Buyer is not satisfied ",
+        "predicted_label": 1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "0:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:",
+        "predicted_label": 0,
+        "true_label": -1
+    },
+    {
+        "generated_response": "2: Seller is not satisfied\n3: Seller is not satisfied\n4: Seller is not satisfied\n5: Seller is not satisfied\n6: Seller is not satisfied\n7: Seller is not satisfied\n8: Seller is not satisfied\n9: Seller is not satisfied\n10: Seller is not satisfied\n11: Seller is not satisfied\n12: Seller is not satisfied\n13: Seller is not satisfied\n14: Seller is not satisfied\n15: Seller is not satisfied\n16: Seller is not satisfied\n17: Seller is not satisfied\n18: Seller is not satisfied\n",
+        "predicted_label": 1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-1: Seller is not satisfied\n1: Seller is satisfied\n1: Buyer is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Seller's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1: Seller's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1: Seller's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1: Seller's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1: Seller's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1: Seller's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1",
+        "predicted_label": -1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "2: Seller is satisfied\n3: Seller is satisfied\n4: Seller is satisfied\n5: Seller is satisfied\n6: Seller is satisfied\n7: Seller is satisfied\n8: Seller is satisfied\n9: Seller is satisfied\n10: Seller is satisfied\n11: Seller is satisfied\n12: Seller is satisfied\n13: Seller is satisfied\n14: Seller is satisfied\n15: Seller is satisfied\n16: Seller is satisfied\n17: Seller is satisfied\n18: Seller is satisfied\n19: Seller is satisfied\n20: Seller is satisfied\n21:",
+        "predicted_label": 1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Seller is not satisfied\n1: Seller is satisfied\n0: Seller's opinion\n-1: Seller's opinion\n1: Seller's opinion\n1: Seller's opinion\n1: Seller's opinion\n1: Seller's opinion\n1: Seller's opinion\n1: Seller's opinion\n1: Seller's opinion\n1: Seller's opinion\n1: Seller's opinion\n1: Seller's opinion\n1: Seller's opinion\n1: Seller's opinion\n1: Seller's opinion\n1: Seller's opinion\n1",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0: Seller",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "0: Seller is at fault\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1",
+        "predicted_label": 0,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-1: Seller's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1: Seller's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1: Seller's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1: Seller's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1: Seller's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1: Seller's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-1: Seller is at fault\n1: Seller is satisfied",
+        "predicted_label": -1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "2: Seller is satisfied\n3: Seller is not satisfied\n4: Seller is not satisfied\n5: Seller is not satisfied\n6: Seller is not satisfied\n7: Seller is not satisfied\n8: Seller is not satisfied\n9: Seller is not satisfied\n10: Seller is not satisfied\n11: Seller is not satisfied\n12: Seller is not satisfied\n13: Seller is not satisfied\n14: Seller is not satisfied\n15: Seller is not satisfied\n16: Seller is not satisfied\n17: Seller is not satisfied\n18: Seller is not satisfied\n1",
+        "predicted_label": 1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-1: Seller is not satisfied",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "2: The dash cam is in good condition 3: The dash cam is in good condition 4: The dash cam is in good condition 5: The dash cam is in good condition 6: The dash cam is in good condition 7: The dash cam is in good condition 8: The dash cam is in good condition 9: The dash cam is in good condition 10: The dash cam is in good condition 11: The dash cam is in good condition 12: The dash cam is in good condition 13: The dash cam is in good condition 14: The",
+        "predicted_label": 1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "-1: Seller is not satisfied",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-1: Seller is not satisfied\n-1: Seller is at fault\n1: Seller is satisfied\n-1: Seller is at fault\n1: Seller is satisfied\n1: Seller is at fault\n1: Seller is satisfied\n1: Seller is at fault\n1: Seller is satisfied\n1: Seller is at fault\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0: Seller",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "2: Seller is satisfied\n3: Seller is satisfied\n4: Seller is satisfied\n5: Seller is satisfied\n6: Seller is satisfied\n7: Seller is satisfied\n8: Seller is satisfied\n9: Seller is satisfied\n10: Seller is satisfied\n11: Seller is satisfied\n12: Seller is satisfied\n13: Seller is satisfied\n14: Seller is satisfied\n15: Seller is satisfied\n16: Seller is satisfied\n17: Seller is satisfied\n18: Seller is satisfied\n19: Seller is satisfied\n20: Seller is satisfied\n21:",
+        "predicted_label": 1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "1: Seller is satisfied",
+        "predicted_label": 1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "Classify this interaction:\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n0: Seller is at fault\n1: Buyer is satisfied\n0: Seller is at fault\n1: Buyer is satisfied\n0: Seller is at fault\n1: Buyer is satisfied\n0: Seller is at fault\n1: Buyer is satisfied\n0: Seller is at fault\n1: Buyer is satisfied\n0: Seller is at fault\n1: Buyer is satisfied\n0: Seller is at fault\n1: Buyer is satisfied\n0: Seller is at fault\n1: Buyer is",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Seller's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1: Buyer's opinion\n0: Seller's opinion\n1: Seller's opinion\n-1: Buyer's opinion\n0: Seller's opinion\n1: Seller's opinion\n-1: Buyer's opinion\n0: Seller's opinion\n1: Seller's opinion\n-1: Buyer's opinion\n0: Seller's opinion\n1: Seller's opinion\n-1: Buyer's opinion\n0: Seller's opinion\n1: Seller'",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-1: Buyer is not satisfied\n0:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-1: Buyer is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is not satisfied\n-1: Seller is not satisfied\n1: Seller is not satisfied\n-1: Seller is not satisfied\n1: Seller is not satisfied\n-1: Seller is not satisfied\n1: Seller is not satisfied\n-1: Seller is not satisfied\n1: Seller is not satisfied\n-1: Seller is not satisfied\n1: Seller is not satisfied\n-1: Seller is not satisfied\n1: Seller is not satisfied\n-1: Seller is not satisfied\n1",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "2: Seller is not satisfied\n3: Seller is not satisfied\n4: Seller is not satisfied\n5: Seller is not satisfied\n6: Seller is not satisfied\n7: Seller is not satisfied\n8: Seller is not satisfied\n9: Seller is not satisfied\n10: Seller is not satisfied\n11: Seller is not satisfied\n12: Seller is not satisfied\n13: Seller is not satisfied\n14: Seller is not satisfied\n15: Seller is not satisfied\n16: Seller is not satisfied\n17: Seller is not satisfied\n18: Seller is not satisfied\n",
+        "predicted_label": 1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "Classify this interaction:\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n2: Seller is satisfied\n3: Seller is satisfied\n4: Seller is satisfied\n5: Seller is satisfied\n6: Seller is satisfied\n7: Seller is satisfied\n8: Seller is satisfied\n9: Seller is satisfied\n10: Seller is satisfied\n11: Seller is satisfied\n12: Seller is satisfied\n13: Seller is satisfied\n14: Seller is satisfied\n15: Seller is satisfied\n16: Seller is satisfied\n17: Seller is",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Seller is at fault\n0: Seller is satisfied\n1: Seller is satisfied",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "2: Seller is not satisfied\n3: Seller is not satisfied and the buyer is not satisfied\n4: Both are not satisfied\n5: Both are not satisfied and the buyer is not satisfied\n6: Both are not satisfied and the buyer is not satisfied and the seller is not satisfied\n7: Both are not satisfied and the seller is not satisfied\n8: Both are not satisfied and the seller is not satisfied\n9: Both are not satisfied and the seller is not satisfied and the buyer is not satisfied\n10: Both are not satisfied and the seller is not satisfied and the buyer is not satisfied\n11: Both",
+        "predicted_label": 1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "2: Seller is not satisfied\n3: Seller is not satisfied\n4: Seller is not satisfied\n5: Seller is not satisfied\n6: Seller is not satisfied\n7: Seller is not satisfied\n8: Seller is not satisfied\n9: Seller is not satisfied\n10: Seller is not satisfied\n11: Seller is not satisfied\n12: Seller is not satisfied\n13: Seller is not satisfied\n14: Seller is not satisfied\n15: Seller is not satisfied\n16: Seller is not satisfied\n17: Seller is not satisfied\n18: Seller is not satisfied\n",
+        "predicted_label": 1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "-1: Seller is not satisfied",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "2: Seller is satisfied\n3: Seller is satisfied\n4: Seller is satisfied\n5: Seller is satisfied\n6: Seller is satisfied\n7: Seller is satisfied\n8: Seller is satisfied\n9: Seller is satisfied\n10: Seller is satisfied\n11: Seller is satisfied\n12: Seller is satisfied\n13: Seller is satisfied\n14: Seller is satisfied\n15: Seller is satisfied\n16: Seller is satisfied\n17: Seller is satisfied\n18: Seller is satisfied\n19: Seller is satisfied\n20: Seller is satisfied\n21:",
+        "predicted_label": 1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "-1: Seller is at fault\n1: Seller is satisfied\n-1: Seller is at fault\n1: Seller is satisfied\n-1: Seller is at fault\n1: Seller is satisfied\n-1: Seller is at fault\n1: Seller is satisfied\n-1: Seller is at fault\n1: Seller is satisfied\n-1: Seller is at fault\n1: Seller is satisfied\n-1: Seller is at fault\n1: Seller is satisfied\n-1: Seller is at fault\n1: Seller is satisfied\n-1: Seller is at fault\n1: Seller is satisfied\n-1",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "Classify this interaction:\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer'",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "1: Buyer is not satisfied\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1",
+        "predicted_label": 1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1",
+        "predicted_label": -1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "-1: Seller is not satisfied\n0: Seller is at fault\n1: Seller is satisfied",
+        "predicted_label": -1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "-1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0: Seller",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-1: Seller is at fault\n0: Seller is at fault\n1: Seller is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Seller is not satisfied",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "Classify this interaction:\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer",
+        "predicted_label": -1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "-1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-2: Buyer is not satisfied\n2: Seller is not satisfied\n3: Seller is not satisfied\n4: Seller is not satisfied\n5: Seller is not satisfied\n6: Seller is not satisfied\n7: Seller is not satisfied\n8: Seller is not satisfied\n9: Seller is not satisfied\n-9: Seller is not satisfied\n-10: Seller is not satisfied\n-11: Seller is not satisfied\n-12: Seller is not satisfied\n-13: Seller is not satisfied\n-14: Seller is not satisfied\n-15: Seller is not satisfied\n-1",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "2:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "2: Seller is not satisfied\n3: Seller is not satisfied\n4: Seller is not satisfied\n5: Seller is not satisfied\n6: Seller is not satisfied\n7: Seller is not satisfied\n8: Seller is not satisfied\n9: Seller is not satisfied\n10: Seller is not satisfied\n11: Seller is not satisfied\n12: Seller is not satisfied\n13: Seller is not satisfied\n14: Seller is not satisfied\n15: Seller is not satisfied\n16: Seller is not satisfied\n17: Seller is not satisfied\n18: Seller is not satisfied\n",
+        "predicted_label": 1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "2: The first time\n3: The second time\n4: The third time\n5: The fourth time\n6: The fifth time\n7: The sixth time\n8: The seventh time\n9: The eighth time\n10: The ninth time\n11: The tenth time\n12: The eleventh time\n13: The twelfth time\n14: The thirteenth time\n15: The fourteenth time\n16: The fifteenth time\n17: The sixteenth time\n18: The seventeenth time\n19: The eighteenth time\n20: The nineteenth time\n21:",
+        "predicted_label": 1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "Classify this interaction:\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-1: Seller is not satisfied\n0: Seller is at fault\n1: Seller is satisfied\n-1: Seller's opinion\n0: Seller's opinion\n1: Seller's opinion\n-1: Seller's opinion\n0: Seller's opinion\n1: Seller's opinion\n-1: Seller's opinion\n0: Seller's opinion\n1: Seller's opinion\n-1: Seller's opinion\n0: Seller's opinion\n1: Seller's opinion\n-1: Seller's opinion\n0: Seller's opinion\n1: Seller'",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Seller's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1",
+        "predicted_label": -1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "2: Seller is not satisfied\n3: Seller is not satisfied\n4: Seller is not satisfied\n5: Seller is not satisfied\n6: Seller is not satisfied\n7: Seller is not satisfied\n8: Seller is not satisfied\n9: Seller is not satisfied\n10: Seller is not satisfied\n11: Seller is not satisfied\n12: Seller is not satisfied\n13: Seller is not satisfied\n14: Seller is not satisfied\n15: Seller is not satisfied\n16: Seller is not satisfied\n17: Seller is not satisfied\n18: Seller is not satisfied\n",
+        "predicted_label": 1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "-1: Seller is at fault\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-1: Seller's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Seller's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Seller's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "2:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "2: Buyer is satisfied with the seller's opinion\n3: Buyer is satisfied with the seller's opinion and the seller's opinion and the seller's opinion and the seller's opinion and the seller's opinion and the seller's opinion and the seller's opinion and the seller's opinion and the seller's opinion and the seller's opinion and the seller's opinion and the seller's opinion and the seller's opinion and the seller's opinion and the seller's opinion and the seller's opinion and the seller's opinion and the seller's opinion and the seller",
+        "predicted_label": -37,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "2: Buyer is not satisfied\n3: Buyer is not satisfied\n4: Buyer is not satisfied\n5: Buyer is not satisfied\n6: Buyer is not satisfied\n7: Buyer is not satisfied\n8: Buyer is not satisfied\n9: Buyer is not satisfied\n10: Buyer is not satisfied\n11: Buyer is not satisfied\n12: Buyer is not satisfied\n13: Buyer is not satisfied\n14: Buyer is not satisfied\n15: Buyer is not satisfied\n16: Buyer is not satisfied\n17: Buyer is not satisfied\n18: Buyer is not satisfied\n",
+        "predicted_label": 1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: This is a bad interaction\n1: This is a good interaction\n0: This is a neutral interaction\n1: This is a positive interaction\n1: This is a negative interaction\n1: This is a negative interaction\n1: This is a positive interaction\n1: This is a positive interaction\n1: This is a positive interaction\n1: This is a positive interaction\n1: This is a positive interaction\n1: This is a positive interaction\n1: This is a positive interaction\n1: This is a positive interaction\n1: This is a positive interaction\n1: This is a positive interaction",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-1: Buyer is not satisfied\n0: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n0: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n0: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n0: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n0: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n0: Seller is not satisfied\n1: Seller is satisfied\n-1",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1 : Seller is at fault\n0 : Seller is satisfied",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "Classify this interaction:\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n1: Seller is at fault\n2: Seller is at fault\n3: Seller is at fault\n4: Seller is at fault\n5: Seller is at fault\n6: Seller is at fault\n7: Seller is at fault\n8: Seller is at fault\n9: Seller is at fault\n10: Seller is at fault\n11: Seller is at fault\n12: Seller is at fault\n13: Seller is at fault\n14: Seller is at fault",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "2: Buyer is not satisfied\n3: Buyer is not satisfied\n4: Buyer is not satisfied\n5: Buyer is not satisfied\n6: Buyer is not satisfied\n7: Buyer is not satisfied\n8: Buyer is not satisfied\n9: Buyer is not satisfied\n10: Buyer is not satisfied\n11: Buyer is not satisfied\n12: Buyer is not satisfied\n13: Buyer is not satisfied\n14: Buyer is not satisfied\n15: Buyer is not satisfied\n16: Buyer is not satisfied\n17: Buyer is not satisfied\n18: Buyer is not satisfied\n",
+        "predicted_label": 1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "-1: Buyer is not satisfied\n1: Buyer is satisfied\n1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: ",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-1: Buyer is not satisfied\n0: Seller is not satisfied\n1: Seller is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1",
+        "predicted_label": -1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "2:\n-2:\n-2:\n-2:\n-2:\n-2:\n-2:\n-2:\n-2:\n-2:\n-2:\n-2:\n-2:\n-2:\n-2:\n-2:\n-2:\n-2:\n-2:\n-2:\n-2:\n-2:\n-2:\n-2:\n-2:\n-2:\n-2:\n-2:\n-2:\n-2:\n-2:\n-2:\n-",
+        "predicted_label": -37,
+        "true_label": 0
+    },
+    {
+        "generated_response": "2: Seller is not satisfied",
+        "predicted_label": -37,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-1: Buyer is not satisfied\n0: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller's opinion\n0: Buyer's opinion\n1: Seller's opinion\n-1: Seller's opinion\n0: Buyer's opinion\n1: Seller's opinion\n-1: Seller's opinion\n0: Buyer's opinion\n1: Seller's opinion\n-1: Seller's opinion\n0: Buyer's opinion\n1: Seller's opinion\n-1: Seller's opinion\n0: Buyer's opinion\n1: Seller'",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Seller is not satisfied\n2: Seller is satisfied\n3: Seller is not satisfied\n4: Seller is not satisfied\n5: Seller is not satisfied\n6: Seller is not satisfied\n7: Seller is not satisfied\n8: Seller is not satisfied\n9: Seller is not satisfied\n10: Seller is not satisfied\n11: Seller is not satisfied\n12: Seller is not satisfied\n13: Seller is not satisfied\n14: Seller is not satisfied\n15: Seller is not satisfied\n16: Seller is not satisfied\n17: Seller is not satisfied\n1",
+        "predicted_label": -1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "-1: Seller is at fault\n1: Seller is satisfied\n-1: Seller is at fault\n1: Seller is satisfied\n-1: Seller is at fault\n1: Seller is satisfied\n-1: Seller is at fault\n1: Seller is satisfied\n-1: Seller is at fault\n1: Seller is satisfied\n-1: Seller is at fault\n1: Seller is satisfied\n-1: Seller is at fault\n1: Seller is satisfied\n-1: Seller is at fault\n1: Seller is satisfied\n-1: Seller is at fault\n1: Seller is satisfied\n-1",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Seller's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1: Seller's opinion\n0: Seller is at fault\n1: Seller's opinion\n-1: Seller's opinion\n0: Seller is at fault\n1: Seller's opinion\n-1: Seller's opinion\n0: Seller is at fault\n1: Seller's opinion\n-1: Seller's opinion\n0: Seller is at fault\n1: Seller's opinion\n-1: Seller's opinion\n0: Seller is at fault\n1: Seller'",
+        "predicted_label": -1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-1: Seller is not satisfied\n-2: Seller is not satisfied\n2: Seller is satisfied\n-2: Seller is not satisfied\n2: Seller is not satisfied\n-2: Seller is not satisfied\n-2: Seller is not satisfied\n-2: Seller is not satisfied\n-2: Seller is not satisfied\n-2: Seller is not satisfied\n-2: Seller is not satisfied\n-2: Seller is not satisfied\n-2: Seller is not satisfied\n-2: Seller is not satisfied\n-2: Seller is not satisfied\n-2: Seller is not satisfied\n-2:",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Buyer is not satisfied",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Seller is not satisfied",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-1: Seller is not satisfied",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "Classify this interaction:\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n0: Seller is at fault\n1: Buyer is satisfied\n1: Buyer is satisfied\n1: Buyer is satisfied\n1: Buyer is satisfied\n1: Buyer is satisfied\n1: Buyer is satisfied\n1: Buyer is satisfied\n1: Buyer is satisfied\n1: Buyer is satisfied\n1: Buyer is satisfied\n1: Buyer is satisfied\n1: Buyer is satisfied\n1: Buyer is satisfied\n1: Buyer is satisfied\n1: Buyer is satisfied\n1: Buyer is satisfied",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "2: Seller is not satisfied\n3: Seller is not satisfied\n4: Seller is not satisfied\n5: Seller is not satisfied\n6: Seller is not satisfied\n7: Seller is not satisfied\n8: Seller is not satisfied\n9: Seller is not satisfied\n10: Seller is not satisfied\n11: Seller is not satisfied\n12: Seller is not satisfied\n13: Seller is not satisfied\n14: Seller is not satisfied\n15: Seller is not satisfied\n16: Seller is not satisfied\n17: Seller is not satisfied\n18: Seller is not satisfied\n",
+        "predicted_label": 1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-1: Seller is at fault\n0: Seller is satisfied\n1: Seller is satisfied",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "This is a free-standing installation type with a keyboard tray and three shelves for ample storage. It fits perfectly with my small apartment, and the size is just rightâ not too big and not too small. I can finally organize my things in style. Highly recommend it for anyone with a limited amount of space but still needing extra storage.\nThis is a free-standing installation type with a keyboard tray and three shelves for ample storage. It fits perfectly with my small apartment, and the size is just rightâ not too big and not too small. I can finally organize my things in style.\nHighly recommend it for anyone with a",
+        "predicted_label": -37,
+        "true_label": 1
+    },
+    {
+        "generated_response": "Classify this interaction:\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied",
+        "predicted_label": -1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1:",
+        "predicted_label": 1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "2: Buyer is satisfied with a 1: 2: 3: 4: 5: 6: 7: 8: 9: 10: 11: 12: 13: 14: 15: 16: 17: 18: 19: 20: 21: 22: 23: 24: 25: 26: 27: 28: 29: 30: 31: 32: 3",
+        "predicted_label": 1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-1: Buyer is not satisfied\n0: Seller is not satisfied\n1: Seller is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1",
+        "predicted_label": -1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "-1: Seller is not satisfied\n0: Seller is satisfied\n1: Seller's opinion\n-1: Seller's opinion\n1: Buyer's opinion\n-1: Buyer's opinion\n1: Seller's opinion\n-1: Seller's opinion\n1: Buyer's opinion\n-1: Seller's opinion\n1: Seller's opinion\n-1: Buyer's opinion\n1: Seller's opinion\n-1: Buyer's opinion\n1: Seller's opinion\n-1: Buyer's opinion\n1: Seller's opinion\n-1",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "Classify this interaction:\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n1: Buyer is satisfied\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n1: Buyer is satisfied\n1: Buyer is satisfied\n-1:",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-1: Seller is not satisfied -1: Seller is not satisfied -1: Seller is not satisfied -1: Seller is not satisfied -1: Seller is not satisfied -1: Seller is not satisfied -1: Seller is not satisfied -1: Seller is not satisfied -1: Seller is not satisfied -1: Seller is not satisfied -1: Seller is not satisfied -1: Seller is not satisfied -1: Seller is not satisfied -1: Seller is not satisfied -1: Seller is not satisfied -1: Seller is not satisfied -1: Seller is not satisfied -1: Seller is not satisfied -1",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "2: Seller is not satisfied\n3: Seller is not satisfied\n4: Seller is not satisfied\n5: Seller is not satisfied\n6: Seller is not satisfied\n7: Seller is not satisfied\n8: Seller is not satisfied\n9: Seller is not satisfied\n10: Seller is not satisfied\n11: Seller is not satisfied\n12: Seller is not satisfied\n13: Seller is not satisfied\n14: Seller is not satisfied\n15: Seller is not satisfied\n16: Seller is not satisfied\n17: Seller is not satisfied\n18: Seller is not satisfied\n",
+        "predicted_label": 1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-2: Seller is at fault\n2: Seller is satisfied\n-3: Buyer's opinion\n-4: Seller's opinion\n-5: Seller is at fault\n-6: Seller is at fault\n-7: Seller is at fault\n-8: Seller is at fault\n-9: Seller is at fault\n-10: Seller is at fault\n-11: Seller is at fault\n-12: Seller is at fault\n-13: Seller is at fault\n-14: Seller is at fault\n-15: Seller is at fault\n-16:",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "2: Seller is satisfied\n3: Seller is not satisfied\n4: Seller is not satisfied\n5: Seller is not satisfied\n6: Seller is not satisfied\n7: Seller is not satisfied\n8: Seller is not satisfied\n9: Seller is not satisfied\n10: Seller is not satisfied\n11: Seller is not satisfied\n12: Seller is not satisfied\n13: Seller is not satisfied\n14: Seller is not satisfied\n15: Seller is not satisfied\n16: Seller is not satisfied\n17: Seller is not satisfied\n18: Seller is not satisfied\n1",
+        "predicted_label": 1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Seller is not satisfied\n0: Seller is not satisfied\n1: Seller is satisfied\n0: Seller is not satisfied\n1: Seller is satisfied\n0: Seller is not satisfied\n1: Seller is satisfied\n0: Seller is not satisfied\n1: Seller is satisfied\n0: Seller is not satisfied\n1: Seller is satisfied\n0: Seller is not satisfied\n1: Seller is satisfied\n0: Seller is not satisfied\n1: Seller is satisfied\n0: Seller is not satisfied\n1: Seller is satisfied\n0: Seller is not satisfied\n1: Seller is satisfied\n0: Seller",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-1: Seller is not satisfied\n0: Seller is not at fault\n1: Seller is at fault\n-1: Seller is not at fault\n1: Seller is at fault\n-1: Seller is not at fault\n1: Seller is at fault\n-1: Seller is not at fault\n1: Seller is at fault\n-1: Seller is not at fault\n1: Seller is at fault\n-1: Seller is not at fault\n1: Seller is at fault\n-1: Seller is not at fault\n1: Seller is at fault\n-1: Seller is not at fault\n",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Seller is not satisfied\n1: Seller is not at fault\n1: Seller is at fault\n1: Seller is not at fault\n1: Seller is not at fault\n1: Seller is not at fault\n1: Seller is not at fault\n1: Seller is not at fault\n1: Seller is not at fault\n1: Seller is not at fault\n1: Seller is not at fault\n1: Seller is not at fault\n1: Seller is not at fault\n1: Seller is not at fault\n1: Seller is not at fault\n1: Seller is not at fault\n1",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n",
+        "predicted_label": -1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "-1: Buyer is not satisfied\n0: Seller is not satisfied\n1: Seller is satisfied\n-1: Buyer is not satisfied\n0: Seller is not satisfied\n1: Buyer is satisfied\n-1: Buyer is not satisfied\n0: Seller is not satisfied\n1: Buyer is satisfied\n-1: Buyer is not satisfied\n0: Seller is not satisfied\n1: Buyer is satisfied\n-1: Buyer is not satisfied\n0: Seller is not satisfied\n1: Buyer is satisfied\n-1: Buyer is not satisfied\n0: Seller is not satisfied\n1: Buyer is satisfied\n-1",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Seller is at fault\n1: Seller is satisfied\n0: Seller is at fault\n1: Seller is satisfied\n0: Seller is at fault\n1: Seller is satisfied\n0: Seller is at fault\n1: Seller is satisfied\n0: Seller is at fault\n1: Seller is satisfied\n0: Seller is at fault\n1: Seller is satisfied\n0: Seller is at fault\n1: Seller is satisfied\n0: Seller is at fault\n1: Seller is satisfied\n0: Seller is at fault\n1: Seller is satisfied\n0: Seller is at fault\n1: Seller",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "1:1: Both are satisfied\n\n1:1:1: Both are satisfied\n\n1:1:1:1: Both are satisfied\n\n1:1:1:1:1: Both are satisfied\n\n1:1:1:1:1:1: Both are satisfied\n\n1:1:1:1:1:1:1: Both are satisfied\n\n1:1:1:1:1:1:1:1: Both are satisfied\n\n1:1:1:1:1:1:1:1:1: Both are satisfied\n\n1:1:1:1:",
+        "predicted_label": 1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "2: Buyer is not satisfied\n3: Buyer is not satisfied\n4: Buyer is not satisfied\n5: Buyer is not satisfied\n6: Buyer is not satisfied\n7: Buyer is not satisfied\n8: Buyer is not satisfied\n9: Buyer is not satisfied\n10: Buyer is not satisfied\n11: Buyer is not satisfied\n12: Buyer is not satisfied\n13: Buyer is not satisfied\n14: Buyer is not satisfied\n15: Buyer is not satisfied\n16: Buyer is not satisfied\n17: Buyer is not satisfied\n18: Buyer is not satisfied\n",
+        "predicted_label": 1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Seller is at fault\n0: Seller is satisfied\n1: Seller is satisfied\n1: Buyer is satisfied\n-1: Buyer is satisfied\n0: Seller is at fault\n1: Seller is satisfied",
+        "predicted_label": -1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "-1: Seller is not satisfied",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "2: Seller is satisfied",
+        "predicted_label": -37,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-1: Seller is not satisfied -1: Seller is not satisfied -1: Seller is not satisfied -1: Seller is not satisfied -1: Seller is not satisfied -1: Seller is not satisfied -1: Seller is not satisfied -1: Seller is not satisfied -1: Seller is not satisfied -1: Seller is not satisfied -1: Seller is not satisfied -1: Seller is not satisfied -1: Seller is not satisfied -1: Seller is not satisfied -1: Seller is not satisfied -1: Seller is not satisfied -1: Seller is not satisfied -1: Seller is not satisfied -1",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "2: Buyer is not satisfied\n3: Buyer is not satisfied\n4: Buyer is not satisfied\n5: Buyer is not satisfied\n6: Buyer is not satisfied\n7: Buyer is not satisfied\n8: Buyer is not satisfied\n9: Buyer is not satisfied\n10: Buyer is not satisfied\n11: Buyer is not satisfied\n12: Buyer is not satisfied\n13: Buyer is not satisfied\n14: Buyer is not satisfied\n15: Buyer is not satisfied\n16: Buyer is not satisfied\n17: Buyer is not satisfied\n18: Buyer is not satisfied\n",
+        "predicted_label": 1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "1:1: Buyer is not satisfied -1:1: Buyer is not satisfied -1:1: Buyer is not satisfied -1:1: Buyer is not satisfied -1:1: Buyer is not satisfied -1:1: Buyer is not satisfied -1:1: Buyer is not satisfied -1:1: Buyer is not satisfied -1:1: Buyer is not satisfied -1:1: Buyer is not satisfied -1:1: Buyer is not satisfied -1:1: Buyer is not satisfied -1:1: Buyer is not satisfied -1:1: Buyer is not satisfied -1:",
+        "predicted_label": 1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Buyer is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0: Seller",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: This is a 100% 1: 100% 1: 100% 1: 100% 1: 100% 1: 100% 1: 100% 1: 100% 1: 100% 1: 100% 1: 100% 1: 100% 1: 100% 1: 100% 1: 100% 1: 1",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "0: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1:",
+        "predicted_label": 0,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-2: Buyer is not satisfied\n-3: Seller is not satisfied\n-4: Seller is not satisfied\n-5: Seller is not satisfied\n-6: Seller is not satisfied\n-7: Seller is not satisfied\n-8: Seller is not satisfied\n-9: Seller is not satisfied\n-10: Seller is not satisfied\n-11: Seller is not satisfied\n-12: Seller is not satisfied\n-13: Seller is not satisfied\n-14: Seller is not satisfied\n-15: Seller is not satisfied\n-16: Seller is not satisfied\n-",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-1: Seller is at fault\n1: Seller is satisfied\n1: Buyer is satisfied\n0: Seller is at fault\n1: Seller is satisfied\n0: Seller is at fault\n1: Seller is satisfied\n0: Seller is at fault\n1: Seller is satisfied\n0: Seller is at fault\n1: Seller is satisfied\n0: Seller is at fault\n1: Seller is satisfied\n0: Seller is at fault\n1: Seller is satisfied\n0: Seller is at fault\n1: Seller is satisfied\n0: Seller is at fault\n1: Seller is satisfied\n0: Seller is",
+        "predicted_label": -1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "2: Seller is not satisfied\n3: Seller is not satisfied\n4: Seller is not satisfied\n5: Seller is not satisfied\n6: Seller is not satisfied\n7: Seller is not satisfied\n8: Seller is not satisfied\n9: Seller is not satisfied\n10: Seller is not satisfied\n11: Seller is not satisfied\n12: Seller is not satisfied\n13: Seller is not satisfied\n14: Seller is not satisfied\n15: Seller is not satisfied\n16: Seller is not satisfied\n17: Seller is not satisfied\n18: Seller is not satisfied\n",
+        "predicted_label": 1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1",
+        "predicted_label": -1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n",
+        "predicted_label": -1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n",
+        "predicted_label": -1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "-1: Seller is not satisfied\n1: Seller is satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1:",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Seller is not satisfied",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n",
+        "predicted_label": -1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "-1: Seller's opinion\n0: Seller is at fault\n1: Seller is satisfied",
+        "predicted_label": -1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "-1: Seller is at fault 0: Seller is satisfied 1: Seller is at fault",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "2: Buyer is not satisfied\n3: Buyer is not satisfied\n4: Buyer is not satisfied\n5: Buyer is not satisfied\n6: Buyer is not satisfied\n7: Buyer is not satisfied\n8: Buyer is not satisfied\n9: Buyer is not satisfied\n10: Buyer is not satisfied\n11: Buyer is not satisfied\n12: Buyer is not satisfied\n13: Buyer is not satisfied\n14: Buyer is not satisfied\n15: Buyer is not satisfied\n16: Buyer is not satisfied\n17: Buyer is not satisfied\n18: Buyer is not satisfied\n",
+        "predicted_label": 1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "-1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0: Seller is satisfied\n1: Seller is satisfied",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1",
+        "predicted_label": -1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "-1: Seller is at fault\n0: Seller is at fault\n1: Seller is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1",
+        "predicted_label": -1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "-1: Buyer is satisfied\n0: Seller is at fault\n1: Seller is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1:",
+        "predicted_label": -1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Seller's opinion\n0: Seller is at fault\n1: Seller is satisfied",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "1: Seller is satisfied\n0: Seller is at fault\n-1: Seller's opinion\n1: Buyer's opinion\n0: Seller is at fault\n-1: Buyer's opinion\n1: Seller's opinion\n0: Seller is at fault\n1: Seller's opinion\n0: Seller is at fault\n-1: Buyer's opinion\n1: Seller's opinion\n0: Seller is at fault\n-1: Buyer's opinion\n1: Seller's opinion\n0: Seller is at fault\n1: Seller's opinion\n0: Seller is at fault",
+        "predicted_label": 1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: The seller is at fault\n2: The seller is satisfied\n3: The seller is not satisfied\n4: The seller is not satisfied\n5: The seller is not satisfied\n6: The seller is not satisfied\n7: The seller is not satisfied\n8: The seller is not satisfied\n9: The seller is not satisfied\n10: The seller is not satisfied\n11: The seller is not satisfied\n12: The seller is not satisfied\n13: The seller is not satisfied\n14: The seller is not satisfied\n15: The seller is not satisfied\n16",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Buyer is not satisfied\n0: Seller is satisfied\n1: Seller is not satisfied\n-1: Buyer's opinion\n0: Seller is satisfied\n1: Buyer's opinion\n-1: Buyer's opinion\n0: Seller is satisfied\n1: Buyer's opinion\n1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1",
+        "predicted_label": -1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "2:\n-2:\n-3:\n-4:\n-5:\n-6:\n-7:\n-8:\n-9:\n-10:\n-11:\n-12:\n-13:\n-14:\n-15:\n-16:\n-17:\n-18:\n-19:\n-20:\n-21:\n-22:\n-23:\n-24:\n-25:\n-26:\n-27:\n-28",
+        "predicted_label": -1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "-1: Seller's opinion\n0: Seller is at fault\n1: Seller is satisfied",
+        "predicted_label": -1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "-1: Seller is at fault\n0: Buyer is satisfied\n1: Seller is satisfied",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Seller is at fault -0: Seller is satisfied 1: Seller is at fault -0: Seller is satisfied -1: Seller is at fault 0: Seller is satisfied 1: Seller is at fault -0: Seller is at fault 0: Seller is satisfied 1: Seller is at fault -0: Seller is at fault 0: Seller is satisfied 1: Seller is at fault -0: Seller is at fault 0: Seller is satisfied 1: Seller is at fault -0: Seller is at fault 0: Seller is satisfied 1: Seller is at fault -0",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "0: Seller is not satisfied\n0: Seller is not satisfied\n1: Seller is satisfied\n0: Seller is not satisfied\n1: Seller is satisfied\n0: Seller is not satisfied\n1: Seller is satisfied\n0: Seller is not satisfied\n1: Seller is satisfied\n0: Seller is not satisfied\n1: Seller is satisfied\n0: Seller is not satisfied\n1: Seller is satisfied\n0: Seller is not satisfied\n1: Seller is satisfied\n0: Seller is not satisfied\n1: Seller is satisfied\n0: Seller is not satisfied\n1: Seller is satisfied\n0: Seller is",
+        "predicted_label": 0,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-1: Seller's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Seller's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1: Seller's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-1: Buyer is not satisfied\n0: Seller is not at fault\n1: Seller is at fault\n-1: Buyer's opinion\n0: Seller is not at fault\n1: Seller is at fault\n-1: Buyer's opinion\n0: Seller is not at fault\n1: Seller is at fault\n-1: Buyer's opinion\n0: Seller is not at fault\n1: Seller is at fault\n-1: Buyer's opinion\n0: Seller is not at fault\n1: Seller is at fault\n-1: Buyer's opinion\n0: Seller is not",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "Classify this interaction:\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Seller's opinion\n0: Buyer is satisfied\n1: Seller's opinion\n-1: Seller's opinion\n0: Buyer's opinion\n1: Seller's opinion\n-1: Seller's opinion\n0: Buyer's opinion\n1: Seller's opinion\n-1: Seller's opinion\n0: Buyer's opinion\n1: Seller's opinion\n-1: Seller's opinion\n0: Buyer's opinion\n1: Seller's opinion\n-1: Seller's opinion\n0: Buyer's opinion\n1: Seller'",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-1: Seller's opinion\n0: Seller is at fault\n1: Seller is satisfied",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Buyer is not satisfied\n0: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Seller is not satisfied",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Seller is not satisfied",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "10: Buyer is not satisfied\n100: Buyer is not satisfied\n1000: Buyer is not satisfied\n10000: Buyer is not satisfied\n100000: Buyer is not satisfied\n1000000: Buyer is not satisfied\n10000000: Buyer is not satisfied\n100000000: Buyer is not satisfied\n100000000: Buyer is not satisfied\n1000000000: Buyer is not satisfied\n10000",
+        "predicted_label": 1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "-1: Seller's opinion\n0: Seller is at fault\n1: Seller is satisfied",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "2: Buyer is satisfied\n3: Buyer is satisfied\n4: Buyer is satisfied\n5: Buyer is satisfied\n6: Buyer is satisfied\n7: Buyer is satisfied\n8: Buyer is satisfied\n9: Buyer is satisfied\n10: Buyer is satisfied\n11: Buyer is satisfied\n12: Buyer is satisfied\n13: Buyer is satisfied\n14: Buyer is satisfied\n15: Buyer is satisfied\n16: Buyer is satisfied\n17: Buyer is satisfied\n18: Buyer is satisfied\n19: Buyer is satisfied\n20: Buyer is satisfied\n21:",
+        "predicted_label": 1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "2: Buyer is satisfied\n3: Buyer is satisfied\n4: Buyer is satisfied\n5: Buyer is satisfied\n6: Buyer is satisfied\n7: Buyer is satisfied\n8: Buyer is satisfied\n9: Buyer is satisfied\n10: Buyer is satisfied\n11: Buyer is satisfied\n12: Buyer is satisfied\n13: Buyer is satisfied\n14: Buyer is satisfied\n15: Buyer is satisfied\n16: Buyer is satisfied\n17: Buyer is satisfied\n18: Buyer is satisfied\n19: Buyer is satisfied\n20: Buyer is satisfied\n21:",
+        "predicted_label": 1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0: Seller",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "0: Seller is not satisfied\n1: Seller is not satisfied\n0: Seller is not satisfied\n1: Seller is not satisfied\n0: Seller is not satisfied\n1: Seller is not satisfied\n0: Seller is not satisfied\n1: Seller is not satisfied\n0: Seller is not satisfied\n1: Seller is not satisfied\n0: Seller is not satisfied\n1: Seller is not satisfied\n0: Seller is not satisfied\n1: Seller is not satisfied\n0: Seller is not satisfied\n1: Seller is not satisfied\n0: Seller is not satisfied\n1: Seller is not satisfied\n0:",
+        "predicted_label": 0,
+        "true_label": 0
+    },
+    {
+        "generated_response": "-1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0: Seller is satisfied\n1: Seller is satisfied",
+        "predicted_label": -1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "-1 : Seller is not satisfied\n1 : Seller is satisfied\n-1 : Seller is not satisfied\n1 : Seller is satisfied\n-1 : Seller is not satisfied\n1 : Seller is satisfied\n-1 : Seller is not satisfied\n1 : Seller is satisfied\n-1 : Seller is not satisfied\n1 : Seller is satisfied\n-1 : Seller is not satisfied\n1 : Seller is satisfied\n-1 : Seller is not satisfied\n1 : Seller is satisfied\n-1 : Seller is not satisfied\n1 : Seller is satisfied\n-1 : Seller is not satisfied\n1 : Seller is satisfied\n-1",
+        "predicted_label": -1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "2: Seller is not satisfied\n3: Seller is not satisfied\n4: Seller is not satisfied\n5: Seller is not satisfied\n6: Seller is not satisfied\n7: Seller is not satisfied\n8: Seller is not satisfied\n9: Seller is not satisfied\n10: Seller is not satisfied\n11: Seller is not satisfied\n12: Seller is not satisfied\n13: Seller is not satisfied\n14: Seller is not satisfied\n15: Seller is not satisfied\n16: Seller is not satisfied\n17: Seller is not satisfied\n18: Seller is not satisfied\n",
+        "predicted_label": 1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "0: Seller is not satisfied\n1: Seller is not satisfied\n0: Seller's opinion\n1: Seller's opinion\n0: Seller's opinion\n1: Seller's opinion\n1: Seller's opinion\n1: Seller's opinion\n1: Seller's opinion\n1: Seller's opinion\n1: Seller's opinion\n1: Seller's opinion\n1: Seller's opinion\n1: Seller's opinion\n1: Seller's opinion\n1: Seller's opinion\n1: Seller's opinion\n1: Seller's opinion\n1:",
+        "predicted_label": 0,
+        "true_label": 1
+    },
+    {
+        "generated_response": "2: Seller is not satisfied\n3: Seller is not satisfied\n4: Seller is not satisfied\n5: Seller is not satisfied\n6: Seller is not satisfied\n7: Seller is not satisfied\n8: Seller is not satisfied\n9: Seller is not satisfied\n10: Seller is not satisfied\n11: Seller is not satisfied\n12: Seller is not satisfied\n13: Seller is not satisfied\n14: Seller is not satisfied\n15: Seller is not satisfied\n16: Seller is not satisfied\n17: Seller is not satisfied\n18: Seller is not satisfied\n",
+        "predicted_label": 1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "Classify this interaction:\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n1: Buyer is satisfied\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n1:\n",
+        "predicted_label": -1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "-1: Seller's opinion\n0: Seller is at fault\n1: Seller is satisfied",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0: Seller",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1:",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "2: Seller is not at fault\n3: Seller is at fault\n4: Seller is not at fault\n5: Seller is at fault\n6: Seller is not at fault\n7: Seller is at fault\n8: Seller is not at fault\n9: Seller is at fault\n10: Seller is not at fault\n11: Seller is at fault\n12: Seller is not at fault\n13: Seller is at fault\n14: Seller is not at fault\n15: Seller is at fault\n16: Seller is not at fault\n17: Seller is at fault\n",
+        "predicted_label": 1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "2: Buyer is not satisfied\n3: Buyer is not satisfied\n4: Buyer is not satisfied\n5: Buyer is not satisfied\n6: Buyer is not satisfied\n7: Buyer is not satisfied\n8: Buyer is not satisfied\n9: Buyer is not satisfied\n10: Buyer is not satisfied\n11: Buyer is not satisfied\n12: Buyer is not satisfied\n13: Buyer is not satisfied\n14: Buyer is not satisfied\n15: Buyer is not satisfied\n16: Buyer is not satisfied\n17: Buyer is not satisfied\n18: Buyer is not satisfied\n",
+        "predicted_label": 1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-2: Seller is not satisfied\n-3: Seller is not satisfied\n-4: Seller is not satisfied\n-5: Seller is not satisfied\n-6: Seller is not satisfied\n-7: Seller is not satisfied\n-8: Seller is not satisfied\n-9: Seller is not satisfied\n-10: Seller is not satisfied\n-11: Seller is not satisfied\n-12: Seller is not satisfied\n-13: Seller is not satisfied\n-14: Seller is not satisfied\n-15: Seller is not satisfied\n-16: Seller is not satisfied\n-",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Buyer is dissatisfied\n-1: Buyer is not satisfied\n-1: Buyer is not satisfied\n-1: Buyer is not satisfied\n-1: Buyer is not satisfied\n-1: Buyer is not satisfied\n-1: Buyer is not satisfied\n-1: Buyer is not satisfied\n-1: Buyer is not satisfied\n-1: Buyer is not satisfied\n-1: Buyer is not satisfied\n-1: Buyer is not satisfied\n-1: Buyer is not satisfied\n-1: Buyer is not satisfied\n-1: Buyer is not satisfied\n-1: Buyer is not satisfied\n-",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n",
+        "predicted_label": -1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "Classify this interaction:\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-1: Buyer is not satisfied\n0: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller's opinion\n0: Seller's opinion\n1: Seller's opinion\n-1: Seller's opinion\n0: Seller's opinion\n1: Seller's opinion\n-1: Seller's opinion\n0: Seller's opinion\n1: Seller's opinion\n-1: Seller's opinion\n0: Seller's opinion\n1: Seller's opinion\n-1: Seller's opinion\n0: Seller's opinion\n1: Seller'",
+        "predicted_label": -1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "-2: Seller is not satisfied\n-3: Seller is not satisfied\n-4: Seller is not satisfied\n-5: Seller is not satisfied\n-6: Seller is not satisfied\n-7: Seller is not satisfied\n-8: Seller is not satisfied\n-9: Seller is not satisfied\n-10: Seller is not satisfied\n-11: Seller is not satisfied\n-12: Seller is not satisfied\n-13: Seller is not satisfied\n-14: Seller is not satisfied\n-15: Seller is not satisfied\n-16: Seller is not satisfied\n-",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "1:1:\n1:1:\n1:1:\n1:1:\n1:1:\n1:1:\n1:1:\n1:1:\n1:1:\n1:1:\n1:1:\n1:1:\n1:1:\n1:1:\n1:1:\n1:1:\n1:1:\n1:1:\n1:1:\n1:1:\n1:1:\n1:1:\n1:1:\n1:1:\n1:1:\n1:1",
+        "predicted_label": 1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "-1: Seller is at fault\n1: Seller is satisfied\n-1: Seller is at fault\n1: Seller is satisfied\n-1: Seller is at fault\n1: Seller is satisfied\n-1: Seller is at fault\n1: Seller is satisfied\n-1: Seller is at fault\n1: Seller is satisfied\n-1: Seller is at fault\n1: Seller is satisfied\n-1: Seller is at fault\n1: Seller is satisfied\n-1: Seller is at fault\n1: Seller is satisfied\n-1: Seller is at fault\n1: Seller is satisfied\n-1",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "*Note: *Do not wash the * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *",
+        "predicted_label": -37,
+        "true_label": 0
+    },
+    {
+        "generated_response": "-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "2: Seller is not satisfied\n3: Seller is not satisfied\n4: Seller is not satisfied\n5: Seller is not satisfied\n6: Seller is not satisfied\n7: Seller is not satisfied\n8: Seller is not satisfied\n9: Seller is not satisfied\n10: Seller is not satisfied\n11: Seller is not satisfied\n12: Seller is not satisfied\n13: Seller is not satisfied\n14: Seller is not satisfied\n15: Seller is not satisfied\n16: Seller is not satisfied\n17: Seller is not satisfied\n18: Seller is not satisfied\n",
+        "predicted_label": 1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Buyer is not satisfied",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-1: Seller's opinion\n0: Seller is at fault\n1: Seller is satisfied",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Seller is at fault -1: Seller is at fault -1: Seller is at fault -1: Seller is at fault -1: Seller is at fault -1: Seller is at fault -1: Seller is at fault -1: Seller is at fault -1: Seller is at fault -1: Seller is at fault -1: Seller is at fault -1: Seller is at fault -1: Seller is at fault -1: Seller is at fault -1: Seller is at fault -1: Seller is at fault -1: Seller is at fault -1: Seller is at fault -1",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-1: Buyer is not satisfied\n0: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n0: Seller is not at fault\n1: Seller is at fault\n-1: Seller is not at fault\n0: Seller is at fault\n1: Seller is at fault\n-1: Seller is not at fault\n0: Seller is at fault\n1: Seller is at fault\n-1: Seller is not at fault\n0: Seller is at fault\n1: Seller is at fault\n-1: Seller is not at fault\n0: Seller is at fault",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "1: Buyer is not satisfied\n1: Seller is not satisfied\n1: Seller is satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller",
+        "predicted_label": 1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "-1: Seller is not satisfied\n1: Seller is satisfied\n0: Seller is not satisfied\n1: Seller is satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller",
+        "predicted_label": -1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "Classify this interaction:\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\nClassify this interaction:\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\nClassify this interaction:\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\nClassify this interaction:\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\nClassify this interaction:\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-2: Buyer is not satisfied\n2: Seller is not satisfied\n-3: Seller is not satisfied\n-4: Seller is not satisfied\n-5: Seller is not satisfied\n-6: Seller is not satisfied\n-7: Seller is not satisfied\n-8: Seller is not satisfied\n-9: Seller is not satisfied\n-10: Seller is not satisfied\n-11: Seller is not satisfied\n-12: Seller is not satisfied\n-13: Seller is not satisfied\n-14: Seller is not satisfied\n-15: Seller is not satisfied\n-16",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-1: Seller is at fault -1: Seller is satisfied -1: Seller is at fault -1: Seller is satisfied -1: Seller is at fault -1: Seller is satisfied -1: Seller is at fault -1: Seller is satisfied -1: Seller is at fault -1: Seller is satisfied -1: Seller is at fault -1: Seller is satisfied -1: Seller is at fault -1: Seller is satisfied -1: Seller is at fault -1: Seller is satisfied -1: Seller is at fault -1: Seller is satisfied -1: Seller is at fault -1: Seller",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "Classify this interaction:\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Seller's opinion\n0: Seller is at fault\n1: Seller is satisfied",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "Classify this interaction:\n-1: Buyer's opinion\n0: Seller is at fault\n1: Seller is satisfied\nClassify this interaction:\n-1: Buyer's opinion\n0: Seller is at fault\n1: Seller is satisfied\nClassify this interaction:\n-1: Buyer's opinion\n0: Seller is at fault\n1: Seller is satisfied\nClassify this interaction:\n-1: Buyer's opinion\n0: Seller is at fault\n1: Seller is satisfied\nClassify this interaction:\n-1: Buyer's opinion\n0: Seller is at fault\n1: Seller is",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-1: Seller is not satisfied",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Seller is at fault\n0: Buyer is satisfied\n1: Seller is at fault\n-1: Seller is at fault\n0: Buyer is satisfied\n1: Seller is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1:",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1",
+        "predicted_label": -1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "-1: Seller's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Seller's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1: Seller's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Seller is at fault 0: Seller is satisfied 1: Seller is satisfied\n-1: Seller is at fault 0: Seller is satisfied 1: Seller is satisfied\n-1: Seller is at fault 0: Seller is satisfied 1: Seller is satisfied\n-1: Seller is at fault 0: Seller is satisfied 1: Seller is satisfied\n-1: Seller is at fault 0: Seller is satisfied 1: Seller is satisfied\n-1: Seller is at fault 0: Seller is satisfied 1: Seller is satisfied\n-1: Seller is at fault ",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "This is a full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full full",
+        "predicted_label": -37,
+        "true_label": -1
+    },
+    {
+        "generated_response": "2: Both are satisfied",
+        "predicted_label": -37,
+        "true_label": -1
+    },
+    {
+        "generated_response": "2: Buyer is not satisfied\n3: Buyer is not satisfied\n4: Buyer is not satisfied\n5: Buyer is not satisfied\n6: Buyer is not satisfied\n7: Buyer is not satisfied\n8: Buyer is not satisfied\n9: Buyer is not satisfied\n10: Buyer is not satisfied\n11: Buyer is not satisfied\n12: Buyer is not satisfied\n13: Buyer is not satisfied\n14: Buyer is not satisfied\n15: Buyer is not satisfied\n16: Buyer is not satisfied\n17: Buyer is not satisfied\n18: Buyer is not satisfied\n",
+        "predicted_label": 1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Seller is not satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-1: Seller is not satisfied",
+        "predicted_label": -1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "2: Seller is not satisfied",
+        "predicted_label": -37,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Seller's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1: Seller's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Seller is not satisfied\n2: Both are satisfied\n3: Both are not satisfied\n4: Both are not satisfied\n5: Both are satisfied\n6: Both are not satisfied\n7: Both are satisfied\n8: Both are not satisfied\n9: Both are satisfied\n10: Both are not satisfied\n11: Both are satisfied\n12: Both are not satisfied\n13: Both are satisfied\n14: both are not satisfied\n15: both are satisfied\n16: both are not satisfied\n17: both are satisfied\n18: both are not satisfied\n",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-2: Buyer is not satisfied\n-3: Seller is not at fault\n-4: Seller is at fault\n-5: Seller is not at fault\n-6: Seller is not at fault\n-7: Seller is not at fault\n-8: Seller is not at fault\n-9: Seller is not at fault\n-10: Seller is not at fault\n-11: Seller is not at fault\n-12: Seller is not at fault\n-13: Seller is not at fault\n-14: Seller is not at fault\n-15: Seller is not at",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Seller is at fault\n1: Seller is satisfied\n-1: Seller is at fault\n1: Seller is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer's opinion\n0: Seller is at fault\n1: Seller's opinion\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer's opinion\n0: Seller is at fault\n1: Buyer's opinion\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer's opinion\n0: Seller is at fault",
+        "predicted_label": -1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "-1: Buyer is not satisfied\n1: Buyer is satisfied\n0: Seller is at fault\n1: Seller is satisfied\n1: Buyer is satisfied\n0: Seller is at fault\n1: Buyer is satisfied\n0: Seller is at fault\n1: Seller is satisfied\n1: Buyer is satisfied\n0: Seller is at fault\n1: Buyer is satisfied\n0: Seller is at fault\n1: Buyer is satisfied\n0: Seller is at fault\n1: Buyer is satisfied\n0: Seller is at fault\n1: Buyer is satisfied\n0: Seller is at fault\n1: Buyer is",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Seller is dissatisfied\n0: Seller is okay\n1: Seller is okay",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied",
+        "predicted_label": -1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-1: Buyer is not satisfied\n0: Seller is not satisfied\n1: Seller is satisfied\n-1: Buyer is not satisfied\n0: Seller is not satisfied\n1: Seller is satisfied\n-1: Buyer is not satisfied\n0: Seller is not satisfied\n1: Seller is satisfied\n-1: Buyer is not satisfied\n0: Seller is not satisfied\n1: Seller is satisfied\n-1: Buyer is not satisfied\n0: Seller is not satisfied\n1: Seller is satisfied\n-1: Buyer is not satisfied\n0: Seller is not satisfied\n1: Seller is satisfied\n-1",
+        "predicted_label": -1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "Classify this interaction:\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "1:1: Buyer is at the point of the point of the point of the point of the point of the point of the point of the point of the point of the point of the point of the point of the point of the point of the point of the point of the point of the point of the point of the point of the point of the point of the point of the point of the point of the point of the point of the point of the point of the point of the point of the point of the point of the point of the point of the point of the point of the point of the point of the point of the",
+        "predicted_label": 1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "-2: Buyer is not satisfied",
+        "predicted_label": -37,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "Classify this interaction :\n-1: Buyer is at fault\n0: Seller is satisfied\n1: Buyer is satisfied",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Seller is not satisfied\n1: Seller is satisfied\n1: Seller is not satisfied\n1: Seller is satisfied\n1: Seller is not satisfied\n1: Seller is satisfied\n1: Seller is not satisfied\n1: Seller is satisfied\n1: Seller is not satisfied\n1: Seller is satisfied\n1: Seller is not satisfied\n1: Seller is satisfied\n1: Seller is not satisfied\n1: Seller is satisfied\n1: Seller is not satisfied\n1: Seller is satisfied\n1: Seller is not satisfied\n1: Seller is satisfied\n1: Seller is not satisfied\n1: Seller",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "2: Buyer is not satisfied\n\n3: Buyer is not satisfied 4: Buyer is not satisfied 5: Buyer is not satisfied 6: Buyer is not satisfied 7: Buyer is not satisfied 8: Buyer is not satisfied 9: Buyer is not satisfied 10: Buyer is not satisfied 11: Buyer is not satisfied 12: Buyer is not satisfied 13: Buyer is not satisfied 14: Buyer is not satisfied 15: Buyer is not satisfied 16: Buyer is not satisfied 17: Buyer is not satisfied 18: Buyer is not satisfied ",
+        "predicted_label": 1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault",
+        "predicted_label": -1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "2: Seller is not satisfied\n3: Seller is not satisfied\n4: Seller is not satisfied\n5: Seller is not satisfied\n6: Seller is not satisfied\n7: Seller is not satisfied\n8: Seller is not satisfied\n9: Seller is not satisfied\n10: Seller is not satisfied\n11: Seller is not satisfied\n12: Seller is not satisfied\n13: Seller is not satisfied\n14: Seller is not satisfied\n15: Seller is not satisfied\n16: Seller is not satisfied\n17: Seller is not satisfied\n18: Seller is not satisfied\n",
+        "predicted_label": 1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "-1: Seller is not satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n2: Buyer is satisfied\n3: Seller is not satisfied\n4: Seller is satisfied\n5: Seller is not satisfied\n6: Seller is satisfied\n7: Seller is not satisfied\n8: Seller is satisfied\n9: Seller is not satisfied\n10: Seller is satisfied\n11: Seller is not satisfied\n12: Seller is satisfied\n13: Seller is not satisfied\n14: Seller is satisfied\n15: Seller is not satisfied\n16: Seller is satisfied\n17",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "0: Seller is not satisfied\n1: Seller is satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller",
+        "predicted_label": 0,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Seller is at fault\n0: Seller is satisfied\n-1: Seller is at fault\n0: Seller is satisfied\n-1: Seller is satisfied\n0: Seller is satisfied\n-1: Seller is satisfied\n0: Seller is satisfied\n-1: Seller is satisfied\n0: Seller is satisfied\n-1: Seller is satisfied\n0: Seller is satisfied\n-1: Seller is satisfied\n0: Seller is satisfied\n-1: Seller is satisfied\n0: Seller is satisfied\n-1: Seller is satisfied\n0: Seller is satisfied\n-1: Seller is satisfied\n0:",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "2: Seller is not satisfied\n3: Seller is not satisfied\n4: Seller is not satisfied\n5: Seller is not satisfied\n6: Seller is not satisfied\n7: Seller is not satisfied\n8: Seller is not satisfied\n9: Seller is not satisfied\n10: Seller is not satisfied\n11: Seller is not satisfied\n12: Seller is not satisfied\n13: Seller is not satisfied\n14: Seller is not satisfied\n15: Seller is not satisfied\n16: Seller is not satisfied\n17: Seller is not satisfied\n18: Seller is not satisfied\n",
+        "predicted_label": 1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "2: Seller is not satisfied\n3: Seller is not satisfied\n4: Seller is not satisfied\n5: Seller is not satisfied\n6: Seller is not satisfied\n7: Seller is not satisfied\n8: Seller is not satisfied\n9: Seller is not satisfied\n10: Seller is not satisfied\n11: Seller is not satisfied\n12: Seller is not satisfied\n13: Seller is not satisfied\n14: Seller is not satisfied\n15: Seller is not satisfied\n16: Seller is not satisfied\n17: Seller is not satisfied\n18: Seller is not satisfied\n",
+        "predicted_label": 1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-2: Seller is at fault\n2: Seller is satisfied\n-3: Seller is at fault\n3: Seller is satisfied\n-4: Seller is at fault\n4: Seller is satisfied\n-5: Seller is at fault\n5: Seller is satisfied\n-6: Seller is at fault\n6: Seller is satisfied\n-7: Seller is at fault\n7: Seller is satisfied\n-8: Seller is at fault\n8: Seller is satisfied\n-9: Seller is at fault\n9: Seller is satisfied\n-10: Seller is at fault\n10: Seller is satisfied\n",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n",
+        "predicted_label": -1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "-1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0: Seller is satisfied\n1: Seller is satisfied\n-1: Seller is at fault\n0: Seller is satisfied\n1: Seller is satisfied\n-1: Seller is at fault\n0: Seller is satisfied\n1: Seller is satisfied\n-1: Seller is at fault\n0: Seller is satisfied\n1: Seller is satisfied\n-1: Seller is at fault\n0: Seller is satisfied\n1: Seller is satisfied\n-1",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Buyer is not satisfied\n0: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller's opinion\n0: Seller's opinion\n1: Seller's opinion\n-1: Seller's opinion\n0: Seller's opinion\n1: Seller's opinion\n-1: Seller's opinion\n0: Seller's opinion\n1: Seller's opinion\n-1: Seller's opinion\n0: Seller's opinion\n1: Seller's opinion\n-1: Seller's opinion\n0: Seller's opinion\n1: Seller'",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Buyer is not satisfied\n0: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n0: Seller is not satisfied\n1: Seller is not satisfied\n-1: Seller is not satisfied\n0: Seller is not satisfied\n1: Seller is not satisfied\n-1: Seller is not satisfied\n0: Seller is not satisfied\n1: Seller is not satisfied\n-1: Seller is not satisfied\n0: Seller is not satisfied\n1: Seller is not satisfied\n-1: Seller is not satisfied\n0: Seller is not satisfied\n1: Seller is",
+        "predicted_label": -1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "2: Seller is not satisfied\n3: Seller is not satisfied\n4: Seller is not satisfied\n5: Seller is not satisfied\n6: Seller is not satisfied\n7: Seller is not satisfied\n8: Seller is not satisfied\n9: Seller is not satisfied\n10: Seller is not satisfied\n11: Seller is not satisfied\n12: Seller is not satisfied\n13: Seller is not satisfied\n14: Seller is not satisfied\n15: Seller is not satisfied\n16: Seller is not satisfied\n17: Seller is not satisfied\n18: Seller is not satisfied\n",
+        "predicted_label": 1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-1: Buyer is not satisfied\n1: Buyer is not at fault\n1: Seller is at fault\n1: Seller is satisfied\n1: Seller is not at fault\n1: Seller is not satisfied\n1: Seller is at fault\n1: Seller is not at fault\n1: Seller is at fault\n1: Seller is not at fault\n1: Seller is at fault\n1: Seller is not at fault\n1: Seller is at fault\n1: Seller is not at fault\n1: Seller is at fault\n1: Seller is not at fault\n1: Seller is at fault\n1:",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Seller is at fault\n-1: Seller is at fault\n-1: Seller is at fault\n-1: Seller is at fault\n-1: Seller is at fault\n-1: Seller is at fault\n-1: Seller is at fault\n-1: Seller is at fault\n-1: Seller is at fault\n-1: Seller is at fault\n-1: Seller is at fault\n-1: Seller is at fault\n-1: Seller is at fault\n-1: Seller is at fault\n-1: Seller is at fault\n-1: Seller is at fault\n",
+        "predicted_label": -1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "Classify this interaction:\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied",
+        "predicted_label": -1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "-1: Seller is not satisfied\n1: Seller is satisfied\n0: Seller is not satisfied\n1: Seller is satisfied\n0: Seller is not satisfied\n1: Seller is satisfied\n0: Seller is not satisfied\n1: Seller is satisfied\n0: Seller is not satisfied\n1: Seller is satisfied\n0: Seller is not satisfied\n1: Seller is satisfied\n0: Seller is not satisfied\n1: Seller is satisfied\n0: Seller is not satisfied\n1: Seller is satisfied\n0: Seller is not satisfied\n1: Seller is satisfied\n0: Seller is not satisfied\n1: Seller",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-1: Seller is at fault\n1: Seller is satisfied",
+        "predicted_label": -1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "-1 : Seller is at fault\n1 : Seller is satisfied\n-1 : Seller is at fault\n1 : Seller is satisfied\n-1 : Seller is at fault\n1 : Seller is satisfied\n-1 : Seller is at fault\n1 : Seller is satisfied\n-1 : Seller is at fault\n1 : Seller is satisfied\n-1 : Seller is at fault\n1 : Seller is satisfied\n-1 : Seller is at fault\n1 : Seller is satisfied\n-1 : Seller is at fault\n1 : Seller is satisfied\n-1 : Seller is at fault\n1 : Seller is satisfied\n-1",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1",
+        "predicted_label": -1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "-1: Seller is at fault\n0: Seller is satisfied\n1: Seller is satisfied",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-2: Buyer is not satisfied\n-3: Buyer is not satisfied\n-4: Buyer is not satisfied\n-5: Buyer is not satisfied\n-6: Buyer is not satisfied\n-7: Buyer is not satisfied\n-8: Buyer is not satisfied\n-9: Buyer is not satisfied\n-10: Buyer is not satisfied\n-11: Buyer is not satisfied\n-12: Buyer is not satisfied\n-13: Buyer is not satisfied\n-14: Buyer is not satisfied\n-15: Buyer is not satisfied\n-16: Buyer is not satisfied\n-",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied",
+        "predicted_label": -1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "0:0: Buyer is not satisfied\n0:00: Seller is not satisfied\n0:000: Seller is not satisfied\n0:0000: Seller is not satisfied\n0:00000: Seller is not satisfied\n0:00000: Seller is not satisfied\n0:000000: Seller is not satisfied\n0:000000: Seller is not satisfied\n0:000000: Seller is not satisfied\n0:0000000: Seller is not satisfied\n0:0",
+        "predicted_label": 0,
+        "true_label": 0
+    },
+    {
+        "generated_response": "-1: Seller is at fault\n1: Seller is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n1: Seller is at fault\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n1: Seller is at fault\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n1: Seller is at fault\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n1: Seller is at fault\n-1",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-1: Seller is at fault\n0: Buyer is satisfied\n1: Seller is satisfied\n-1: Seller is at fault\n0: Buyer is satisfied\n1: Seller is satisfied\n-1: Seller is at fault\n0: Buyer is satisfied\n1: Seller is satisfied\n-1: Seller is at fault\n0: Buyer is satisfied\n1: Seller is satisfied\n-1: Seller is at fault\n0: Buyer is satisfied\n1: Seller is satisfied\n-1: Seller is at fault\n0: Buyer is satisfied\n1: Seller is satisfied\n-1: Seller is at fault\n",
+        "predicted_label": -1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "2: Buyer is satisfied\n\n3: Buyer is satisfied\n\n4: Buyer is satisfied\n\n5: Buyer is satisfied\n\n6: Buyer is satisfied\n\n7: Buyer is satisfied\n\n8: Buyer is satisfied\n\n9: Buyer is satisfied\n\n10: Buyer is satisfied\n\n11: Buyer is satisfied\n\n12: Buyer is satisfied\n\n13: Buyer is satisfied\n\n14: Buyer is satisfied\n\n15: Buyer is satisfied\n\n16: Buyer is satisfied\n\n17: Buyer is satisfied\n\n18: Buyer is satisfied\n\n19: Buyer is satisfied\n\n20: Buyer is satisfied\n\n21:",
+        "predicted_label": 1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-1: Seller is not satisfied\n0: Seller is not at fault\n1: Seller is satisfied\n-1: Seller's opinion\n0: Seller's opinion\n1: Seller's opinion\n-1: Seller's opinion\n0: Seller's opinion\n1: Seller's opinion\n-1: Seller's opinion\n0: Seller's opinion\n1: Seller's opinion\n-1: Seller's opinion\n0: Seller's opinion\n1: Seller's opinion\n-1: Seller's opinion\n0: Seller's opinion\n1: Seller",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "2: Seller is not satisfied\n3: Seller is not satisfied\n4: Seller is not satisfied\n5: Seller is not satisfied\n6: Seller is not satisfied\n7: Seller is not satisfied\n8: Seller is not satisfied\n9: Seller is not satisfied\n10: Seller is not satisfied\n11: Seller is not satisfied\n12: Seller is not satisfied\n13: Seller is not satisfied\n14: Seller is not satisfied\n15: Seller is not satisfied\n16: Seller is not satisfied\n17: Seller is not satisfied\n18: Seller is not satisfied\n",
+        "predicted_label": 1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "2: Buyer is satisfied with the seller's opinion\n3: Buyer is satisfied with the seller's opinion\n4: Buyer is satisfied with the seller's opinion\n5: Buyer is satisfied with the seller's opinion\n6: Buyer is satisfied with the seller's opinion\n7: Buyer is satisfied with the seller's opinion\n8: Buyer is satisfied with the seller's opinion\n9: Buyer is satisfied with the seller's opinion\n10: Buyer is satisfied with the seller's opinion\n11: Buyer is satisfied with the seller's opinion\n12: Buyer is satisfied",
+        "predicted_label": 1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "-1: Seller is not satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Seller's opinion\n0: Seller is satisfied\n1: Seller is at fault\n-1: Seller's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1: Seller's opinion\n0: Seller is satisfied\n1: Seller is at fault\n-1: Seller's opinion\n0: Seller is satisfied\n1: Seller is at fault\n-1: Seller's opinion\n0: Seller is satisfied\n1: Seller is at fault\n-1: Seller's opinion\n0: Seller is satisfied\n1: Seller is at fault\n-1",
+        "predicted_label": -1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "0: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1:",
+        "predicted_label": 0,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Seller is not satisfied\n1: Seller is satisfied\n1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Seller is at fault\n0: Seller is satisfied\n1: Seller is satisfied\n-1: Seller is at fault\n0: Seller is satisfied\n1: Seller is satisfied\n-1: Seller is at fault\n0: Seller is satisfied\n1: Seller is satisfied\n-1: Seller is at fault\n0: Seller is satisfied\n1: Seller is satisfied\n-1: Seller is at fault\n0: Seller is satisfied\n1: Seller is satisfied\n-1: Seller is at fault\n0: Seller is satisfied\n1: Seller is satisfied\n-1: Seller is at fault\n",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Seller is dissatisfied\n1: Seller is satisfied\n-1: Seller is dissatisfied\n1: Buyer is satisfied\n-1: Seller is dissatisfied\n1: Buyer is satisfied\n-1: Seller is dissatisfied\n1: Buyer is satisfied\n-1: Seller is dissatisfied\n1: Buyer is satisfied\n-1: Seller is dissatisfied\n1: Buyer is satisfied\n-1: Seller is dissatisfied\n1: Buyer is satisfied\n-1: Seller is dissatisfied\n1: Buyer is satisfied\n-1: Seller is dissatisfied\n1: Buyer is satisfied\n-1: Seller is dissatisfied\n1: Buyer is",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "2: Buyer is satisfied\n3:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:\n-1:",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "0: Seller's opinion\n1: Seller is at fault\n0: Seller's opinion\n1: Seller is satisfied\n0: Seller's opinion\n1: Seller is at fault\n0: Seller's opinion\n1: Seller is at fault\n0: Seller's opinion\n1: Seller is satisfied\n0: Seller's opinion\n1: Seller is at fault\n0: Seller's opinion\n1: Seller is satisfied\n0: Seller's opinion\n1: Seller is at fault\n0: Seller's opinion\n1: Seller is satisfied\n0: Seller's opinion",
+        "predicted_label": 0,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n-1: Seller is not satisfied\n",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0: Seller is satisfied\n1: Seller is at fault\n0: Seller",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "Classify this interaction:\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Seller is at fault\n1: Seller is satisfied\n-1: Seller is at fault\n1: Seller is satisfied\n1: Seller is at fault\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Buyer is not satisfied -1: Seller is not satisfied -1: Seller is not satisfied -1: Seller is not satisfied -1: Seller is not satisfied -1: Seller is not satisfied -1: Seller is not satisfied -1: Seller is not satisfied -1: Seller is not satisfied -1: Seller is not satisfied -1: Seller is not satisfied -1: Seller is not satisfied -1: Seller is not satisfied -1: Seller is not satisfied -1: Seller is not satisfied -1: Seller is not satisfied -1: Seller is not satisfied -1: Seller is not satisfied -1",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Seller is not satisfied\n0: Seller is satisfied\n1: Seller is not satisfied\n-1: Seller is satisfied\n0: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is satisfied\n0: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is satisfied\n0: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is satisfied\n0: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is satisfied\n0: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is satisfied\n",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1: Seller is not satisfied\n1: Seller is satisfied\n-1",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "-1: Seller is at fault\n0: Buyer is satisfied\n1: Seller is at fault\n0: Buyer is satisfied\n1: Seller is at fault\n0: Seller is at fault\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller is satisfied\n1: Seller",
+        "predicted_label": -1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "-1: Buyer is not satisfied",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "Classify this interaction:\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "2: Seller is satisfied\n3: Seller is satisfied\n4: Seller is satisfied\n5: Seller is satisfied\n6: Seller is satisfied\n7: Seller is satisfied\n8: Seller is satisfied\n9: Seller is satisfied\n10: Seller is satisfied\n11: Seller is satisfied\n12: Seller is satisfied\n13: Seller is satisfied\n14: Seller is satisfied\n15: Seller is satisfied\n16: Seller is satisfied\n17: Seller is satisfied\n18: Seller is satisfied\n19: Seller is satisfied\n20: Seller is satisfied\n21:",
+        "predicted_label": 1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-1: Buyer is not satisfied\n0: Seller is not satisfied\n1: Seller is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1",
+        "predicted_label": -1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "-2:\n-3:\n-4:\n-5:\n-6:\n-7:\n-8:\n-9:\n-10:\n-11:\n-12:\n-13:\n-14:\n-15:\n-16:\n-17:\n-18:\n-19:\n-20:\n-21:\n-22:\n-23:\n-24:\n-25:\n-26:\n-27:\n-28:\n-",
+        "predicted_label": -1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "2: Buyer is satisfied\n3: Buyer is satisfied\n4: Buyer is satisfied\n5: Buyer is satisfied\n6: Buyer is satisfied\n7: Buyer is satisfied\n8: Buyer is satisfied\n9: Buyer is satisfied\n10: Buyer is satisfied\n11: Buyer is satisfied\n12: Buyer is satisfied\n13: Buyer is satisfied\n14: Buyer is satisfied\n15: Buyer is satisfied\n16: Buyer is satisfied\n17: Buyer is satisfied\n18: Buyer is satisfied\n19: Buyer is satisfied\n20: Buyer is satisfied\n21:",
+        "predicted_label": 1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "2: Seller is not satisfied\n3: Seller is not satisfied\n4: Seller is not satisfied\n5: Seller is not satisfied\n6: Seller is not satisfied\n7: Seller is not satisfied\n8: Seller is not satisfied\n9: Seller is not satisfied\n10: Seller is not satisfied\n11: Seller is not satisfied\n12: Seller is not satisfied\n13: Seller is not satisfied\n14: Seller is not satisfied\n15: Seller is not satisfied\n16: Seller is not satisfied\n17: Seller is not satisfied\n18: Seller is not satisfied\n",
+        "predicted_label": 1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "-1: Seller is at fault 0: Seller is satisfied 1: Seller is at fault 0: Seller is satisfied 1: Seller is at fault 0: Seller is at fault 1: Seller is satisfied 1: Seller is at fault 0: Seller is at fault 1: Seller is satisfied 1: Seller is at fault 0: Seller is at fault 1: Seller is satisfied 1: Seller is at fault 0: Seller is at fault 1: Seller is satisfied 1: Seller is at fault 0: Seller is at fault 1: Seller is satisfied 1",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-1: Seller is at fault 0: Seller is satisfied",
+        "predicted_label": -1,
+        "true_label": -1
+    },
+    {
+        "generated_response": "2: Buyer is not satisfied\n3: Buyer is not satisfied\n4: Buyer is not satisfied\n5: Buyer is not satisfied\n6: Buyer is not satisfied\n7: Buyer is not satisfied\n8: Buyer is not satisfied\n9: Buyer is not satisfied\n10: Buyer is not satisfied\n11: Buyer is not satisfied\n12: Buyer is not satisfied\n13: Buyer is not satisfied\n14: Buyer is not satisfied\n15: Buyer is not satisfied\n16: Buyer is not satisfied\n17: Buyer is not satisfied\n18: Buyer is not satisfied\n",
+        "predicted_label": 1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "-1: Seller is not satisfied",
+        "predicted_label": -1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "-1: Seller is not satisfied\n1: Seller is not satisfied\n-1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n1: Seller is not satisfied\n",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "-1: Seller's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Seller's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1: Seller's opinion\n0: Seller is at fault\n1: Seller is satisfied\n-1: Buyer's opinion\n0: Seller is at fault\n1: Buyer is satisfied\n-1",
+        "predicted_label": -1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "2: Buyer is not satisfied\n3: Buyer is not satisfied\n4: Buyer is not satisfied\n5: Buyer is not satisfied\n6: Buyer is not satisfied\n7: Buyer is not satisfied\n8: Buyer is not satisfied\n9: Buyer is not satisfied\n10: Buyer is not satisfied\n11: Buyer is not satisfied\n12: Buyer is not satisfied\n13: Buyer is not satisfied\n14: Buyer is not satisfied\n15: Buyer is not satisfied\n16: Buyer is not satisfied\n17: Buyer is not satisfied\n18: Buyer is not satisfied\n",
+        "predicted_label": 1,
+        "true_label": 0
+    },
+    {
+        "generated_response": "2: Seller is not satisfied\n3: Seller is not satisfied\n4: Seller is satisfied\n5: Seller is not satisfied\n6: Seller is not satisfied\n7: Seller is satisfied\n8: Seller is not satisfied\n9: Seller is not satisfied\n10: Seller is satisfied\n11: Seller is not satisfied\n12: Seller is not satisfied\n13: Seller is not satisfied\n14: Seller is not satisfied\n15: Seller is not satisfied\n16: Seller is not satisfied\n17: Seller is not satisfied\n18: Seller is not satisfied\n19:",
+        "predicted_label": 1,
+        "true_label": 1
+    },
+    {
+        "generated_response": "2: Seller is not satisfied\n3: Seller is not satisfied\n4: Seller is not satisfied\n5: Seller is not satisfied\n6: Seller is not satisfied\n7: Seller is not satisfied\n8: Seller is not satisfied\n9: Seller is not satisfied\n10: Seller is not satisfied\n11: Seller is not satisfied\n12: Seller is not satisfied\n13: Seller is not satisfied\n14: Seller is not satisfied\n15: Seller is not satisfied\n16: Seller is not satisfied\n17: Seller is not satisfied\n18: Seller is not satisfied\n",
+        "predicted_label": 1,
+        "true_label": -1
+    }
+]
