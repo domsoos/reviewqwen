@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1463.jpg",
+    "seller_image": "data/seller_images/1463.jpg",
+    "seller_description": "These men's slip-on flats, crafted with a durable EVA outer material, feature an open-toe design and a thong strap style for easy and comfortable wear. Water-resistant and lined with ethylene vinyl acetate for added durability, they are perfect for casual, everyday use. Backed by a manufacturer warranty, these flats combine practicality and comfort, making them an ideal choice for versatile, all-weather footwear.",
+    "review": "Poor quality slippers after using one month the lace of my slipper got cut",
+    "expected-output": "The seller advertises men's slip-on flats as durable, water-resistant, and made with EVA material, suitable for casual, everyday use with a comfortable open-toe and thong strap design, and backed by a manufacturer warranty. However, the buyer reports that the slipper's lace was damaged within one month, indicating poor quality and contradicting the seller's durability claims. The seller's image shows well-constructed slippers, while the buyer's image displays significant damage to the thong strap, supporting the buyer's dissatisfaction. This discrepancy suggests that the product does not meet the advertised durability standards, and the seller should reassess quality assurance measures or address such issues through warranty support.",
+    "label": "-1: Buyer's opinion"
+}

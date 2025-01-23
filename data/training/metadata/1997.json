@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1997.jpg",
+    "seller_image": "data/seller_images/1997.jpg",
+    "seller_description": "This brown leather wallet is made with high-quality leather and weighs just 150 grams, with dimensions of 9 cm x 11 cm x 2 cm (LxWxH). It comes with a 6-month manufacturer warranty against manufacturing defects. Please note, due to variations in screen displays and lighting, the color may not be an exact match to what you see online. The product's photos are intended to provide a general guide to the color.",
+    "review": "Very good purse with reasonable price. I like this product.",
+    "expected-output": "The buyer's review is highly positive, expressing satisfaction with the quality and value of the brown leather wallet. The seller's description emphasizes the high-quality leather and the reasonable size, along with a warranty against manufacturing defects. The buyer's experience aligns well with the seller's description, as the product was found to be of good quality and reasonably priced. There are no discrepancies between the seller's promises and the buyer's feedback, indicating that the product met or exceeded the buyer's expectations. Therefore, the buyer is satisfied with the purchase, and no fault lies with either party.",
+    "label": "1:Here buyer agreed with the seller"
+}

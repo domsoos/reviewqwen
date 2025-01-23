@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1592.jpg",
+    "seller_image": "data/seller_images/1592.jpg",
+    "seller_description": "Each pad measures 22x22 inches (LxW), with the center pad measuring 19x19 inches (LxW), featuring a 1.5-inch plastic border on all sides to prevent overflow. The super-absorbent core turns liquid to gel upon contact, while the leak-proof plastic lining safeguards floors from damage. The quick-dry surface, combined with a built-in attractant, makes these pads ideal for training puppies, assisting aging dogs, or providing an indoor alternative for dogs. Manufactured in China, they offer a convenient and hygienic solution for indoor pet care.",
+    "review": "I’m not sure what was different about this batch of pads. He found them to be SOOO much fun to rip to shreds.When he DOES get on them they leak on the floor. As you can see, he isn’t very big all 6 pounds of him.",
+    "expected-output": " The seller advertises pads with a 22x22 inch size, a plastic border to prevent overflow, a super-absorbent core that turns liquid into gel, and a leak-proof lining to protect floors. Designed for puppy training, aging dogs, and indoor use, the product is manufactured in China. However, the buyer reports their small dog (6 pounds) enjoys shredding the pads, leading to leaks, which contradicts the product's leak-proof claim. To address these concerns, the seller should enhance the durability of the pads to prevent shredding, improve the leak-proof design, provide care instructions for usage, and strengthen quality control to ensure consistency in product performance.",
+    "label": "0:Here seller is at fault"
+}

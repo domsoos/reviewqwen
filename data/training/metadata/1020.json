@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1020.jpg",
+    "seller_image": "data/seller_images/1020.jpg",
+    "seller_description": "This international-quality car duster is designed for quick and efficient cleaning, featuring a long plastic handle for easy access to hard-to-reach areas like the car's roof. Made from specially wax-treated cotton strands, it effectively lifts dust without scratching the paint, ensuring a safe and gentle clean. The duster is washable, reusable, and a water-saving product, making it a practical and eco-friendly choice for maintaining your vehicle's shine.",
+    "review": "Not value for money",
+    "expected_output": "The seller's description of the product as an international-quality car duster with a long plastic handle for hard-to-reach areas, specially wax-treated cotton strands, and a washable, reusable design for eco-friendly cleaning aligns with the product's visual representation in the seller's image. The seller has adequately highlighted the product's features and use cases. The buyer's image, however, shows a product that matches the seller's image but expresses dissatisfaction in the review, stating that the product is 'not value for money.' The buyer's dissatisfaction appears to stem from a perceived lack of value, which is a subjective judgment rather than an objective mismatch between the product and its description. The seller is not at fault here as the product delivered matches the description and the seller's images. The issue arises from the buyer's expectations, which may not have been fully satisfied despite the accurate representation of the product.",
+    "label": "-1: Buyer's opinion"
+}

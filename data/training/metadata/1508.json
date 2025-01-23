@@ -1,0 +1,9 @@
+{
+    "buyer_image": "data/buyer_images/1508.jpg",
+    "seller_image": "data/seller_images/1508.jpg",
+    "seller_description": "This complete and balanced dog food is specially formulated for adult dogs, providing 20% crude protein, 10% crude fat, and 5% crude fiber. It promotes strong muscles, bones, and teeth, while also supporting a healthier, shinier coat. Additionally, it aids in digestive health and supports your dog's natural defenses. Dogs require higher levels of nutrients like calcium, iron, and vitamin B12 compared to humans, making this food an ideal choice for their needs. Developed by experts at the Waltham Centre for Pet Nutrition, it comes in a convenient bag container for easy storage and serving.",
+    "review": "Pedigree packet was already opened and delivery guy didn't handed it to us , he just kept it outside our home .",
+    "expected-output": "The seller advertises the dog food as specially formulated for adult dogs, offering nutritional benefits such as strong muscles, bones, teeth, a shinier coat, and digestive health, with a guaranteed nutritional composition of 20% crude protein, 10% crude fat, and 5% crude fiber. However, the buyer's review focuses on issues with the delivery process, noting that the product packet was already opened upon arrival and that the delivery person left it outside without direct handoff. The review does not comment on the product's quality, nutritional claims, or its effectiveness for the dog, leaving the alignment between the seller’s promises and the product’s performance unaddressed. To address this, the seller should work on improving delivery practices to ensure secure packaging and proper handoff, and they could encourage customers to provide more feedback specifically about the product's quality and performance for their pets.",
+    "label": "0:Here seller is at fault"
+
+}

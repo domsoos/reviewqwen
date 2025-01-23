@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1915.jpg",
+    "seller_image": "data/seller_images/1915.jpg",
+    "seller_description": "This wallet is crafted from top-grain buffalo leather, ensuring durability and a unique natural appearance, with slight color variations that enhance its authenticity. Unlike PU leather, which retains a shiny surface, genuine leather ages beautifully, becoming more attractive over time. Handmade by skilled artisans with tough stitching, this WildHorn wallet combines contemporary style, masculinity, and durability. Its slim, lightweight design pairs perfectly with jeans or a suit, offering both practicality and elegance for the modern man.",
+    "review": "I got a damaged product. The experience is very bad.",
+    "expected_output": "The seller describes the wallet as being made of top-grain buffalo leather, emphasizing its durability, slim design, and suitability for both casual and formal use. However, the buyer's review expresses dissatisfaction, stating that the product was damaged upon arrival. This suggests a discrepancy between the seller's promise of a high-quality product and the buyer's experience with receiving a damaged item. The fault appears to lie with the product's condition upon arrival, likely due to issues during shipping or handling, rather than any misleading advertisement by the seller. The buyer's dissatisfaction is understandable, as receiving a damaged product undermines the seller's claims of quality and durability.",
+    "label": "0:Here seller is at fault"
+}

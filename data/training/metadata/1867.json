@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1867.jpg",
+    "seller_image": "data/seller_images/1867.jpg",
+    "seller_description": "These earplugs are designed for ear protection, travel noise reduction, meditation, and sleeping, providing a smooth, dirt-resistant surface for better hygiene. They are comfortable and fit a wide range of ear canal sizes, offering a Noise Reduction Rating (NRR) of 29 decibels to effectively block out unwanted noise. Disposable for convenience, these earplugs are ideal for everyday use. For detailed fitting instructions, please refer to the attached manual.",
+    "review": "I have received 5 pieces but ordered pack of 10 , I haven't returned as its a small amount product and seller would be in loss , hope you take care next time , Good quality, softness is good , got a good box as well , only giving 4 star as i got pack of 5",
+    "expected-output": "The seller's description outlines that the product comes as a pack of disposable earplugs with a Noise Reduction Rating (NRR) of 29 decibels and is intended for ear protection and noise reduction. The buyer\u2019s review, however, reveals that they received only 5 earplugs instead of the expected pack of 10. Despite this discrepancy, the buyer chose not to return the product, acknowledging the seller's potential loss but still giving a 4-star rating due to the good quality, softness, and packaging. The fault lies with the seller for not fulfilling the correct quantity, which led to the buyer receiving fewer items than expected.",
+    "label": "-1: Buyer's opinion"
+}

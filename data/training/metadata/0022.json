@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/0022.jpg",
+    "seller_image": "data/seller_images/0022.jpg",
+    "seller_description": "Hanes EcoSmart mid-weight fleece sweatpants are made with cotton sourced from American farms, offering a fashion choice you can feel good about. The soft, plush, and sturdy fleece fabric keeps you warm and cozy, making these joggers a longtime favorite for activewear. With a relaxed fit, they\u00e2 re perfect for warming up, cooling down, or simply kicking back. The sweatpants feature side-seam pockets and a single back pocket to hold your essentials, while the functional drawcord at the waist allows for a custom, comfortable fit. Made with a durable cotton/polyester blend, these quality sweatpants are a versatile addition to your wardrobe.",
+    "review": "its very good",
+    "expected-output": "The seller describes the Hanes EcoSmart mid-weight fleece sweatpants as warm, cozy, and durable, made from a cotton/polyester blend sourced from American farms. Key features include a relaxed fit, soft fleece fabric, side-seam pockets, a back pocket, and an adjustable drawcord for comfort and functionality, making them ideal for various activities such as warming up or lounging. The buyer's review simply states, its very good, indicating clear satisfaction with the product. There are no discrepancies between the seller's description and the buyer's experience, suggesting the product meets or exceeds expectations in terms of quality and performance. Both the seller and buyer align in their perspectives, and no faults are identified.",
+    "label": "1:Here buyer agreed with the seller"
+}

@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1581.jpg",
+    "seller_image": "data/seller_images/1581.jpg",
+    "seller_description": "This dry kitten food, available in a fish flavor, is specially formulated to provide complete nutrition for baby house-cats of all breed sizes. It contains Taurine to support a healthy heart and is packed with high-quality protein, antioxidants, and essential nutrients to keep your kitten healthy and energetic. The food helps maintain a healthy digestive system, promotes healthy skin and a beautiful coat, and provides hair fall protection while controlling urinary pH. Available in a convenient bag, this kitten food ensures your furry friend receives the best care for a happy, healthy start in life.",
+    "review": "One packet missing I am trying to contact pls respond",
+    "expected-output": " The seller promotes fish-flavored dry kitten food as a complete nutrition option for kittens of all breeds, enriched with taurine for heart health, high-quality protein, antioxidants, and nutrients to support digestive health, a healthy coat, hair fall protection, and urinary pH control, packaged conveniently. The buyer, however, reports receiving an incomplete order with one packet missing and has been unable to contact the seller for resolution, highlighting a logistical issue rather than a product-related problem. To address such concerns, the seller should enhance customer support for quicker response times and improve quality control in packaging and order verification to prevent missing items and ensure better customer satisfaction.",
+    "label": "0:Here seller is at fault"
+}

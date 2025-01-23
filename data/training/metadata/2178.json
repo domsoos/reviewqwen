@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/2178.jpg",
+    "seller_image": "data/seller_images/2178.jpg",
+    "seller_description": "This top-entry cat litter box is designed to keep your floors clean by preventing litter scatter, thanks to a filtered lid on top. The high sides help control odor and contain spraying, while providing your cat with ample space to move around. Made from durable, BPA-free, and recyclable plastic, it offers long-lasting use. The removable top allows for easy monitoring and effortless scooping. Additionally, the litter box features onboard scoop storage, keeping the matching scoop conveniently accessible for daily disposal.",
+    "review": "This litter box is a perfect combination of innovation and practicality, offering a haven for your cat while keeping your home neat and odor-free. From the top-entry design to the clever onboard scoop storage, it\u2019s a game-changer for cat owners seeking a cleaner, more efficient solution.",
+    "Expected_output": "The seller\u2019s description highlights practical features such as the filtered lid to reduce scatter, high sides for odor and spray containment, and easy maintenance with a removable top and onboard scoop storage. If the buyer\u2019s images confirm these attributes and reviews mention reduced mess and ease of use, the product fulfills its advertised functionality. Discrepancies like missing features or poor construction would point to a fault with the seller\u2019s product. However, if all features operate as promised, the seller has provided a quality product, ensuring the buyer\u2019s satisfaction and maintaining a tidy, cat-friendly home.",
+    "label": "-1: buyers opinion"
+}

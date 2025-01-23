@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/2297.jpg",
+    "seller_image": "data/seller_images/2297.jpg",
+    "seller_description": "These folding pet stairs make it easy for your dog or cat to climb on and off furniture, into and out of vehicles, and more. They are ideal for small, disabled, injured, or elderly pets. The non-slip pads on each step provide better traction for your pet's paws, and the optional nonskid feet help keep the stairs stable while protecting your floors. The stairs come ready to use with no assembly required. With dimensions of 23.9 x 16.1 x 19.8 inches, they provide a practical solution for pets in need of assistance.",
+    "review": "A stylish and functional solution, these folding pet stairs are like a red carpet rolled out for your pet. With safety and convenience woven into every step, they are a must-have for any pet parent looking to simplify their companion\u2019s life.",
+    "Expected_output": "The seller\u2019s description emphasizes stability, traction, and convenience, all of which are essential for pets requiring assistance. If the buyer\u2019s images show a sturdy, well-designed product matching the description, and reviews highlight ease of use and the pet's comfort, the seller has upheld their claims. Any dissatisfaction related to stability or durability, unsupported by evidence, would lean toward personal opinion rather than a product fault. If all expectations are met, this is a case of a well-executed transaction with no fault on either side.",
+    "label": "-1: buyers opinion"
+}

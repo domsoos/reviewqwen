@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/2541.jpg",
+    "seller_image": "data/seller_images/2541.jpg",
+    "seller_description": "The YVE LIFE Automatic Cat Laser Toy is the perfect interactive playmate for your feline friend, featuring a dual motor system that moves the laser point randomly to engage their hunting instincts. Designed with motion-activation, it automatically activates when it detects your pet moving, playing for 15 minutes before turning off, and can be triggered again after 2 hours. With 3 speed modes (fast/slow/mixed), this toy can meet your cat's varying exercise needs. It is powered by a rechargeable 1200mAh battery, offering up to 2 days of use after just 2.5 hours of charging, or it can be plugged in for continuous play. The adjustable laser angle lets you direct the laser to the ground or walls, providing exciting play options, while its silent motor ensures minimal noise, so it won't disturb your rest. The toy is durable, designed for long-term use, and comes with excellent customer support in case of any issues.",
+    "review": "The toy's battery life is far less than stated, lasting only a few hours instead of the claimed 2 days.",
+    "Expected-output": "The buyer is dissatisfied because the battery life does not meet the seller's advertised claim of 2 days of use after a full charge. This shortcoming places the responsibility on the seller.",
+    "label": "0:Here seller is at fault"
+}

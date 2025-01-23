@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1869.jpg",
+    "seller_image": "data/seller_images/1869.jpg",
+    "seller_description": "These earplugs are designed for ear protection, travel noise reduction, meditation, and sleeping, providing a smooth, dirt-resistant surface for better hygiene. They are comfortable and fit a wide range of ear canal sizes, offering a Noise Reduction Rating (NRR) of 29 decibels to effectively block out unwanted noise. Disposable for convenience, these earplugs are ideal for everyday use. For detailed fitting instructions, please refer to the attached manual.",
+    "review": "Fake product. It’s not 3M. It does not come in 3M packaging. Do not buy.",
+    "expected-output": "The seller's description claims that the earplugs are designed for ear protection, noise reduction, and comfort, with a Noise Reduction Rating (NRR) of 29 decibels. However, the buyer's review states that the product is a fake and does not come in authentic 3M packaging, suggesting a discrepancy between what was advertised and what was received. The buyer is dissatisfied with the product, accusing it of being a counterfeit. This points to a significant issue with the seller's authenticity, as the buyer did not receive the expected branded product. The fault lies with the seller for either misrepresenting the product or delivering a counterfeit item instead of the genuine 3M product as expected.",
+    "label": "0:Here seller is at fault"
+}

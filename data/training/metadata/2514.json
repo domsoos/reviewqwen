@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/2514.jpg",
+    "seller_image": "data/seller_images/2514.jpg",
+    "seller_description": "Stay on top of your health and fitness goals with the Mindrose Fitness Watch, designed for men and women with a sleek, modern style in Graphite Black. Featuring a 1.47 curved HD-color full touch screen, this smartwatch provides 24/7 monitoring of heart rate, blood oxygen, blood pressure, and sleep quality, offering detailed insights into your well-being. With 115 sports modes and all-day activity tracking, it captures steps, distance, and calories burned, while GPS connectivity tracks your outdoor routes. Stay connected on the go with notifications for calls, texts, and emails, and enjoy thoughtful features like a menstrual cycle reminder, water and sedentary alerts, music control, and more. Its durable, adjustable strap fits comfortably, and its IPX8 waterproof rating ensures reliability for workouts, swimming, and daily use. Powered by a long-lasting battery, it offers 6-7 days of heavy use or up to 12 days on a single charge. Compatible with Android 4.4/iOS 8.4 or higher, this fitness watch blends style, functionality, and convenience seamlessly into your everyday routine.",
+    "review": "The strap material feels cheap and causes discomfort during extended wear, contradicting the claims of durability and comfort.",
+    "Expected-output": "The seller highlights a durable and comfortable strap, yet the buyer's review points to discomfort and poor material quality. This mismatch reflects that the seller's product does not fulfill its advertised promises. Fault lies with the seller.",
+    "label": "0:Here seller is at fault"
+}

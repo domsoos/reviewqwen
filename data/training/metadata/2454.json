@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/2454.jpg",
+    "seller_image": "data/seller_images/2454.jpg",
+    "seller_description": "Our high-quality black travel umbrella is crafted with premium materials for exceptional durability and reliability in all weather conditions. Featuring a double-vented canopy and a sturdy fiberglass-covered frame, it\u2019s engineered to withstand strong winds and heavy rain, making it the perfect windproof umbrella for travelers. The auto open/close function adds convenience, while its lightweight and compact design ensures easy portability, fitting comfortably in a purse, backpack, or car. Built to last, this umbrella offers excellent protection against rain and UV rays, and its waterproof-coated canopy repels water, ensuring long-lasting performance at an affordable price. Whether for everyday use or travel, this compact umbrella is the ideal companion for all occasions.",
+    "review": "The umbrella is not compact as advertised. It is too bulky to fit in my bag, making it impractical for travel.",
+    "Expected-output": "The seller markets the umbrella as 'lightweight and compact for easy portability.' However, the buyer's review highlights the umbrella's bulkiness, contradicting the portability claim. The buyer's image of the umbrella in comparison to their bag size further substantiates this issue. The seller is at fault for misrepresenting the product's dimensions.",
+    "label": "1:Here buyer satisfied with seller "
+}

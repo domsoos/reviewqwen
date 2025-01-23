@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1591.jpg",
+    "seller_image": "data/seller_images/1591.jpg",
+    "seller_description": "Each pad measures 22x22 inches (LxW), with the center pad measuring 19x19 inches (LxW), featuring a 1.5-inch plastic border on all sides to prevent overflow. The super-absorbent core turns liquid to gel upon contact, while the leak-proof plastic lining safeguards floors from damage. The quick-dry surface, combined with a built-in attractant, makes these pads ideal for training puppies, assisting aging dogs, or providing an indoor alternative for dogs. Manufactured in China, they offer a convenient and hygienic solution for indoor pet care.",
+    "review": "It's not that big in size but it does the job, i bought this only to avoid accidents at night and rainy days as it would be too cold for my dogs to go out. However for training a puppy you might need L or XL size.",
+    "expected-output": " The seller advertises the pad as a convenient, hygienic solution with a 22x22 inch size and a super-absorbent core that turns liquid into gel, featuring a plastic border to prevent overflow and a leak-proof lining. It is designed for puppy training, aiding aging dogs, and indoor use during bad weather. The buyer finds it effective in preventing accidents, particularly at night or during rainy days, but notes the size is too small for puppy training and recommends larger options such as L or XL. To improve customer satisfaction, the seller should provide clearer size guidance, consider introducing larger options, and tailor marketing to highlight appropriate use cases for different sizes.",
+    "label": "1:Here buyer agreed with the seller"
+}

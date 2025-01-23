@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1998.jpg",
+    "seller_image": "data/seller_images/1998.jpg",
+    "seller_description": "This brown leather wallet is made with high-quality leather and weighs just 150 grams, with dimensions of 9 cm x 11 cm x 2 cm (LxWxH). It comes with a 6-month manufacturer warranty against manufacturing defects. Please note, due to variations in screen displays and lighting, the color may not be an exact match to what you see online. The product's photos are intended to provide a general guide to the color.",
+    "review": "Play VideoThis product is not as expected as shown in the picture. Quality not good in comparison to the money they are charging for this wallet. Fair price for this wallet in between 150 - 200 not more than that. They are selling an overpriced product to the customer.",
+    "expected-output": "The buyer's review expresses dissatisfaction with the product, particularly regarding the quality and pricing, stating that it does not match the expectations set by the product images and description. The seller describes the wallet as made of high-quality leather, with a reasonable size and warranty, but the buyer feels that the actual quality does not justify the price. There is a clear discrepancy between the seller's promises of high-quality leather and the buyer's experience of the product being overpriced and of subpar quality. The buyer is dissatisfied due to the perceived mismatch in value, suggesting the seller may have overstated the quality relative to the price. In this case, the fault lies with the seller for not meeting the buyer's expectations of quality.",
+    "label": "-1: Buyer's opinion"
+}

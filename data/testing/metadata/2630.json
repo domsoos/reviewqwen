@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/2630.jpg",
+    "seller_image": "data/seller_images/2630.jpg",
+    "seller_description": "Indigenous Honey is sustainably sourced from healthy honey bee colonies living in scientifically designed wooden beehives, closely mimicking their natural habitat. Our honey is collected by bees from a variety of floral sources, ensuring its purity and high nutritional value. Packed with antioxidants, pollen, enzymes, vitamins, and minerals, this raw, unfiltered, unprocessed, and unpasteurized honey serves as a natural immunity booster, as supported by Ayurveda. We follow the best beekeeping practices (GBP) as per the National Bee Board (NBB), with our experienced team ensuring careful extraction. The apiary is located far from industrial areas, guaranteeing a clean and natural environment for the bees. Indigenous Honey is 100% pure, NMR tested, USDA organic certified, and offers a shelf life of 547 days. Each package contains 500 g of this premium raw honey, ideal for vegetarian diets.",
+    "review": "The honey was too sweet for my liking. It didn't feel like natural honey to me.",
+    "Expected-output": "The review reflects a subjective opinion about the taste rather than an issue with the product. The seller's description and images align with the provided buyer images. Fault: None (Buyer Opinion).",
+    "label": "-1 buyers opinion"
+}

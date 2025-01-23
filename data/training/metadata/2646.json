@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/2646.jpg",
+    "seller_image": "data/seller_images/2646.jpg",
+    "seller_description": "The BOYA BY-M1 is an omni-directional microphone designed for use with smartphones, DSLR cameras, camcorders, audio recorders, PCs, and more. It features a 360-degree omni pickup pattern, ensuring clear and full audio capture from all directions. The microphone is battery-powered and has a simple switch to toggle between modes: for smartphones, slide the ON/OFF switch to the OFF position, while for DSLR, camcorders, audio recorders, and PCs, slide it to the ON position. For use with action cameras, customers need to purchase a TRRS to TRS Adapter to ensure compatibility. The microphone also features a one-button switch for easy mode selection between camera and smartphone use.",
+    "review": "The sound quality was subpar when used with my smartphone, even after toggling the switch as instructed.",
+    "Expected-output": "The buyer expresses dissatisfaction with the sound quality, despite following the usage instructions provided in the seller's description. This issue may be due to a product defect or user error; however, the seller's responsibility to ensure consistent performance as described is in question.",
+    "label": "-1 buyers opinion"
+}

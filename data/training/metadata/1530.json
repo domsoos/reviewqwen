@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1530.jpg",
+    "seller_image": "data/seller_images/1530.jpg",
+    "seller_description": "This dog food is made with real chicken, helping maintain lean muscles for optimal body condition. It features a great combination of ingredients, including vitamins and minerals that support strong bones and a healthy digestive system. Protein-enriched and carefully balanced with the right ratio of nutrients, it provides essential health benefits for your pet. The specially designed kibbles also help control tartar build-up. Ideal for all dog breeds, this food ensures complete nutrition and overall wellness for your furry friend.",
+    "review": "Product is good but packing and handle in during transportation it's not good, when I was received my product the pack has been opened and little bit is lost.",
+    "expected-output": "The seller describes the dog food as a balanced and nutritious meal, enriched with real chicken, vitamins, and minerals, suitable for all dog breeds and promising complete nutrition. However, the buyer expressed dissatisfaction due to the packaging being damaged during transit, resulting in some product loss. While the buyer was satisfied with the product's quality, the poor packaging and handling during shipping negatively impacted their experience. This indicates a failure in meeting the seller's promise of securely delivering the product. The seller is at fault for not ensuring proper packaging and shipping practices.",
+    "label": "0:Here seller is at fault"
+}

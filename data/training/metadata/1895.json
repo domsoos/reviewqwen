@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1895.jpg",
+    "seller_image": "data/seller_images/1895.jpg",
+    "seller_description": "These gloves are of supreme quality, offering Level 5 Anti-Cut resistance for ultimate safety and protection. Designed with an Elastic Hand Fitting, they provide a secure and comfortable fit for all hand sizes, offering the convenience of a free-size utility. Crafted with superior materials, they are resilient and long-lasting, built to withstand heavy-duty tasks efficiently. Ideal for use in various kitchen environments that require high levels of protection, these gloves ensure both safety and durability for demanding jobs.",
+    "review": "Without any heavy duty work,the tip of my index finger was visible in 5 mins.",
+    "expected-output": "The seller's description highlights the gloves' superior quality, Level 5 Anti-Cut resistance, and comfort with elastic hand fitting, designed for heavy-duty tasks. However, the buyer's review indicates dissatisfaction, as the gloves failed to provide sufficient protection during normal use, with the tip of the index finger becoming exposed after just five minutes. This discrepancy suggests that the product did not meet the buyer's expectations for durability or protection, implying a potential issue with the gloves' performance. Therefore, the buyer is dissatisfied, and the fault appears to lie with the seller's product not living up to the stated claims.",
+    "label": "0:Here seller is at fault"
+}

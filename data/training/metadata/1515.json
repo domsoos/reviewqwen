@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1515.jpg",
+    "seller_image": "data/seller_images/1515.jpg",
+    "seller_description": "This wholesome dog food supports joint health with increased water content to maintain a healthy digestive system. The combination of vitamins and organic minerals promotes healthy bones and stronger teeth, while real chicken, liver, and eggs keep your pet active and agile throughout the day. Enriched with natural ingredients, it also supports healthy skin and a shiny coat. Ideal for dogs, this nutritious meal comes in a convenient bag container for easy storage and serving.",
+    "review": "Product is well packed, Delivery on time and my dog love to have drools Chicken wet gravy.",
+    "expected-output": "The seller advertises the dog food as promoting joint health, stronger bones, teeth, healthy skin, and a shiny coat with real chicken, liver, and eggs, enriched with natural ingredients and conveniently packaged for storage. The buyer expresses satisfaction with the product, praising its good packaging, timely delivery, and appeal to their dog, who loves the Drools Chicken Wet Gravy. The review highlights the product's positive reception without any concerns about quality or condition, indicating that the seller has met expectations. To build on this positive feedback, the seller should maintain high standards of quality and packaging and encourage more reviews to strengthen their reputation for reliability and product excellenc",
+    "label": "1:Here buyer agreed with the seller"
+}

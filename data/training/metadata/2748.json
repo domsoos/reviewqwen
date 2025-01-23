@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/2748.jpg",
+    "seller_image": "data/seller_images/2748.jpg",
+    "seller_description": "The Thayers Alcohol-Free Witch Hazel Toner in Rose Petal formula is a gentle yet effective skincare essential designed to hydrate, cleanse, and refresh the skin. Enriched with natural ingredients like rose water and certified organic aloe vera, this toner works to soothe and moisturize, leaving the skin feeling soft and radiant. Witch hazel extract, a key ingredient, helps minimize the appearance of pores, control oil, and maintain a healthy complexion without drying out the skin. The alcohol-free formula ensures it's suitable for sensitive skin, providing a non-irritating solution for daily skincare routines. Whether used after cleansing or as a midday refresher, this toner promotes balanced and revitalized skin. Free from harsh chemicals, it\u2019s cruelty-free and trusted for its botanical ingredients. With its mild rose petal scent, this toner not only nourishes the skin but also adds a touch of luxury to your self-care regimen.",
+    "review": "The scent is beautiful, and the packaging is great, but I find it slightly overpriced for the results it delivers. It's nice but doesn't justify the cost for me.",
+    "Expected_output": "The buyer shares an opinion on pricing and performance, finding the product good but not worth the price paid, which is a subjective view.",
+    "label": "-1: buyers opinion"
+}

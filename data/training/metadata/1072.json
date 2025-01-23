@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1072.jpg",
+    "seller_image": "data/seller_images/1072.jpg",
+    "seller_description": "Clean Pets, Clean House. emily cat & dog brush for shedding can easily remove loose hair, shedding mats, tangled hair, dander and dirt of your lovely pet, which not only keep your pet clean, but also provide you with a clean and hygienic home environment.",
+    "review": "Once brushes get inside, it won't return back fully. The handle broken in the first use.",
+    "expected-output":"The seller describes the product as a pet brush designed to effectively remove loose hair, shedding mats, tangled hair, dander, and dirt, aiming to maintain both a clean pet and a hygienic home. The seller’s images showcase a well-designed blue brush with a detachable head and sturdy handle, aligning with the description. The buyer, however, reports dissatisfaction, stating that the handle broke during the first use and the brush mechanism failed to function properly, as brushes got stuck and did not return fully. The buyer’s images show the product with a detached handle, corroborating their claims of poor durability. While the product visually matches the seller’s description, the functional and durability issues reported by the buyer highlight a significant discrepancy. The fault lies with the seller for potentially providing a product with design flaws or substandard material quality, which did not meet the implied expectation of basic durability and usability. The buyer’s dissatisfaction is justified based on their experience.",
+    "label": "0:Here seller is at fault"
+}

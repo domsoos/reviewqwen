@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1483.jpg",
+    "seller_image": "data/seller_images/1483.jpg",
+    "seller_description": "These walking shoes feature a breathable knitted vamp upper that promotes airflow, providing a second-skin feel for all-day comfort. The textured sole design ensures great grip and traction, offering safe steps on any surface. With their easy slip-on design, these shoes are perfect for an on-the-go lifestyle, while the modern and stylish look makes them suitable for everyday wear or occasional outfits. Plus, they are easy to maintain\u2014just rinse in lukewarm water, and they\u2019re ready for your next stroll!",
+    "review": "Bekar shoes hai sole gaya mera Waste of money the sole of shoes got removed in 1 week of use applied fewiquick several times it is just showoff shoes with fancy name not at all useful company just making profit by selling worst quality",
+    "expected-output": "The seller promotes the shoes as comfortable, breathable, and versatile, with an easy slip-on design, a textured sole for grip, and low-maintenance requirements, positioning them as durable and ideal for everyday wear. However, the buyer reports extreme dissatisfaction, stating that the sole detached after just one week of use despite repair attempts, describing the product as low-quality and a waste of money. While the buyer received the correct product as depicted in the seller's images, their experience contradicts the seller's claims of durability and functionality. This discrepancy highlights a significant quality issue, with the product failing to meet the promised standards, leading to an unsatisfactory buyer experience and unmet expectations.",
+    "label": "-1: Buyer's opinion"
+}

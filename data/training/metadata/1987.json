@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1987.jpg",
+    "seller_image": "data/seller_images/1987.jpg",
+    "seller_description": "This set includes 50 color-coded, translucent plastic keychain key tags, each with a split ring and a 2-sided ID label for easy identification. Ideal for organizing cables, home keys, or office supplies, these key tags come in an assortment of colors for clear labeling. The key tags are packaged in a convenient plastic utility box, making storage and access easy. The tags can be easily opened to insert a small strip of paper for classification or labeling, offering a simple and efficient way to organize keys or items.",
+    "review": "I have purchase 50 quantity but I have received only 45 quantity... So how it's proceble kindly refund. My 5 quantity costing amount.",
+    "expecetd-output": "The buyer's review indicates a discrepancy in the product quantity received, as they ordered 50 key tags but received only 45, leading to a request for a refund for the missing items. This issue is a fulfillment error on the seller's part. The seller's description and the product's stated features appear to be accurate, but the buyer's complaint centers on receiving fewer items than promised. Therefore, the fault lies with the seller for not fulfilling the complete order, and the buyer is dissatisfied due to this discrepancy.",
+    "label": "-1: Buyer's opinion"
+}

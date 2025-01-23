@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1487.jpg",
+    "seller_image": "data/seller_images/1487.jpg",
+    "seller_description": "These lightweight and breathable shoes are crafted with durable materials and a flexible design that adjusts to your foot for an effortless walking experience. Featuring a non-slip and shockproof construction, they combine modern style with engineering that cushions the feet and reduces heel strain for long-term wear. The air-cushioned outsoles enhance shock absorption, provide slip resistance, and deliver exceptional comfort, relieving foot pain and pressure with every step.",
+    "review": "Received a different colour. & Packaging total destroyed.Quality low average",
+    "expected-output": "The seller promotes the shoes as lightweight, breathable, and durable, featuring shockproof construction, air-cushioned outsoles, and non-slip properties for comfort and reduced heel strain during long-term wear. However, the buyer expresses dissatisfaction due to receiving a different color than expected, damaged packaging, and shoes of perceived low and average quality. The buyer's images likely confirm discrepancies, such as a mismatch in color and evidence of damaged packaging, which validate the complaints. These issues highlight failures in the seller's fulfillment and packaging processes, as well as possible misrepresentation of product quality. The seller needs to improve order accuracy, ensure better packaging, and maintain quality consistency to align with buyer expectations and avoid such negative experiences.",
+    "label": "0:Here seller is at fault"
+}

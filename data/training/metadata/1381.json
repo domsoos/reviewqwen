@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1381.jpg",
+    "seller_image": "data/seller_images/1381.jpg",
+    "seller_description": "Constructed with high-quality, durable materials, this bag is designed to withstand regular use in various sporting environments. It features two spacious compartments for organizing gear and apparel, along with a medium-sized compartment for easy access to essentials like nutrition bars, small towels, or personal care items. The padded backpack strap ensures comfortable wear over extended periods, making it an ideal choice for athletes on the move who value convenience and organization.",
+    "review": "Product was damaged. May be bitten by Mouse.",
+    "expected-output": "The seller described the sporting bag as made with high-quality, durable materials, featuring spacious compartments and padded straps for comfort, but the buyer expressed dissatisfaction due to receiving a damaged product, allegedly bitten by a mouse, indicating poor storage or quality control issues. Images provided by the buyer likely show the damage, contrasting with the seller’s ideal depiction. The discrepancies suggest problems with storage or packaging, and the seller should address these issues by improving quality control and offering a replacement or refund to resolve the buyer's concern",
+    "label": "0: Here the seller is at fault"
+}

@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/2732.jpg",
+    "seller_image": "data/seller_images/2732.jpg",
+    "seller_description": "The Sapphire Blue Earrings for Women are elegant dangle earrings featuring faceted blue sapphire stones, designed to add a touch of sophistication to any outfit. Measuring approximately 45mm in length, they offer a graceful drop that complements various styles. These handmade earrings are crafted with attention to detail, ensuring a unique accessory for the wearer. The combination of blue sapphire and aquamarine hues provides a versatile color palette suitable for both casual and formal occasions. Equipped with secure hooks, they are easy to wear and remove. These earrings make a thoughtful gift for birthdays, anniversaries, or special events, offering timeless beauty and elegance.",
+    "review": "The earrings are gorgeous and exactly as described. I appreciate the secure hooks, which make them easy to wear without worrying about losing them. The sapphire blue stones are vibrant and eye-catching, while the aquamarine adds a delicate touch. These earrings are versatile and perfect for dressing up or down. Absolutely love them!",
+    "Expected_output": "The buyer's experience aligns seamlessly with the seller's description. The secure hooks, vibrant sapphire stones, and aquamarine accents meet the promised features. The versatility for both casual and formal wear reinforces the seller's claims. The buyer's satisfaction with the earrings' elegance and functionality indicates that the product delivers on all fronts, making it a delightful purchase.",
+    "label": "-1: buyers opinion"
+}

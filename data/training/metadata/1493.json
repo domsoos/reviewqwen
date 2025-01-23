@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1493.jpg",
+    "seller_image": "data/seller_images/1493.jpg",
+    "seller_description": "Designed for ultimate comfort and versatility, these lightweight shoes feature a height-increasing, non-marking EVA outsole that ensures a perfect grip and extra comfort for your feet. The breathable, washable mesh upper adapts to all seasons, offering a snug and comfortable fit. Ideal for multiple activities, these shoes are perfect for gym workouts, outdoor running, morning walks, basketball, badminton, trekking, dancing, or even party wear, making them a reliable choice for any occasion.",
+    "review": "The sides just above the pinky finger, the shoe got cracked. A better material should be used where the shoe would undergo maximum turn and twist.",
+    "expected-output": "The seller advertises the shoes as lightweight, breathable, and durable, featuring a washable mesh upper, height-increasing EVA outsole, and versatility for activities like gym workouts, running, and trekking. However, the buyer expresses dissatisfaction, reporting cracks on the sides of the shoes near the pinky toe after use, highlighting a material failure in high-stress areas. This issue contradicts the seller’s claims of durability and reliability, suggesting inadequate material or design choices. If the buyer’s image confirms visible damage, it reinforces the discrepancy between the product’s advertised and actual performance. The fault lies with the seller for failing to meet the durability standards promised, emphasizing the need for improved materials and design to align with customer expectations and marketed features.",
+    "label": "0:Here seller is at fault"
+}

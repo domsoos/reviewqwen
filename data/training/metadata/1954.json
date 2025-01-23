@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1954.jpg",
+    "seller_image": "data/seller_images/1954.jpg",
+    "seller_description": "This 360° spinner suitcase features 8 wheels for smooth and effortless sliding, ensuring easy maneuverability. Crafted from impact-resistant polypropylene, it includes a fixed three-digit combination lock for added security. The suitcase is fully lined with interiors and tie-down straps to keep your belongings secure during travel. Available in new vibrant colors, it comes with a 3-year global warranty, allowing you to travel worry-free.",
+    "review": "Wonderful trolley and very light. But the combination lock sucks. I had to break the lock during my Denmark travel as it was not opening with the same lock combination.",
+    "expected-output": "The buyer expresses satisfaction with the overall quality and lightness of the suitcase, but they are dissatisfied with the functionality of the combination lock, which failed during their travel. The lock's failure to open, despite using the correct combination, led to the buyer having to break the lock. This issue indicates a defect in the lock's design or manufacturing. While the suitcase itself meets the buyer's expectations, the lock’s poor quality is a significant point of dissatisfaction. The fault lies with the seller, as the combination lock did not function as expected, leading to a negative experience for the buyer.",
+    "label": "0:Here seller is at fault"
+}

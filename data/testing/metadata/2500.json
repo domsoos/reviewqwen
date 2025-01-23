@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/2500.jpg",
+    "seller_image": "data/seller_images/2500.jpg",
+    "seller_description": "Stay effortlessly organized with the VITEVER Magnetic Calendar Planner Set, featuring a magnetic monthly calendar (14x11 inches), weekly planner (14x11 inches), daily board (5x7 inches), four dry-erase markers with built-in erasers, and a magnetic bone-shaped eraser. Designed for secure attachment to refrigerators or metal surfaces with a full-magnet back, these planners offer a smooth, easy-to-clean PET laminated surface that ensures long-lasting use and simple erasing. With customizable blank areas for personalized titles or creative designs, this set is perfect for tracking schedules, meal plans, grocery lists, to-do lists, and more. Whether managing family chores or personal tasks, this versatile and durable set keeps all your plans visible and organized, making it an essential tool for any household.",
+    "review": "The calendar does not stay firmly attached to the fridge and keeps sliding down.",
+    "Expected-output": "The seller description claims the product has a secure attachment with a full-magnet back, ensuring it stays firmly in place. However, the buyer's image and review indicate the calendar slides down, showing that the magnetic backing is insufficiently strong. This misalignment indicates the fault lies with the seller.",
+    "label": "0:Here seller is at fault"
+}

@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1466.jpg",
+    "seller_image": "data/seller_images/1466.jpg",
+    "seller_description": "These lace-up running shoes feature a durable textile outer material and a comfortable round-toe design, making them ideal for active wear. Manufactured by Lancer Footwear (Klick) India Pvt. Ltd. in Bahadurgarh, Haryana, and packed by Styleshore Emarketing Pvt. Ltd. in New Delhi, they weigh 450 g and measure 29 x 15 x 10 cm. Backed by a 15-day manufacturer warranty, this pair of running shoes combines quality and style, perfect for casual and athletic use. Sold as a set of two, they ensure functionality and comfort for everyday performance.",
+    "review": "Once you buy this you will not able to be return this product bcz Amazon and delivery teams both willfully didn't pickup your return and you have to keep this without any",
+    "expected-output": "The seller describes the lace-up running shoes as durable, comfortable, and versatile, with features such as a round-toe design, a textile outer material, and a 15-day manufacturer warranty. However, the buyer's review highlights dissatisfaction, not with the product's quality but with the return process. The buyer alleges that Amazon and the delivery team failed to facilitate a return, forcing them to keep the product. While the review does not directly criticize the product itself, it indicates frustration with the service experience. The issue lies outside the seller's direct responsibility and points to a breakdown in logistics or customer service on Amazon's part. The dissatisfaction is valid but unrelated to the product\u2019s advertised features or the seller\u2019s claims.",
+    "label": "-1: Buyer's opinion"
+}

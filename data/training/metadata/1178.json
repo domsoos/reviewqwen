@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1178.jpg",
+    "seller_image": "data/seller_images/1178.jpg",
+    "seller_description": "This elegant watch features a round stainless steel case paired with a brown leather band for a timeless and sophisticated look. The mineral dial window enhances durability and scratch resistance, while the reliable quartz movement ensures precise timekeeping. Backed by a manufacturer warranty, this watch seamlessly combines style, functionality, and quality craftsmanship.",
+    "review": "With in 4 months of purchase not working properly, always showing wrong/delayed time and it needs to be corrected multiple times.",
+    "expected-output": "The seller describes the watch as an elegant timepiece with a round stainless steel case, a brown leather band, and a mineral dial window for durability and scratch resistance, powered by reliable quartz movement for precise timekeeping and backed by a manufacturer warranty. However, the buyer’s review highlights significant dissatisfaction, stating that the watch stopped functioning properly within four months of purchase, consistently displaying incorrect or delayed time and requiring frequent manual corrections. This directly contradicts the seller’s claim of “reliable quartz movement,” which is a critical aspect of the product's advertised functionality. The short timeframe in which the issue arose suggests a potential defect in the product rather than user error. While the warranty offers an avenue for resolution, the failure of the watch to meet its advertised standards of reliability and precision leaves the buyer dissatisfied with their purchase",
+    "label": "0: Here seller is at fault."
+}

@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1485.jpg",
+    "seller_image": "data/seller_images/1485.jpg",
+    "seller_description": "These lightweight and breathable shoes are crafted with durable materials and a flexible design that adjusts to your foot for an effortless walking experience. Featuring a non-slip and shockproof construction, they combine modern style with engineering that cushions the feet and reduces heel strain for long-term wear. The air-cushioned outsoles enhance shock absorption, provide slip resistance, and deliver exceptional comfort, relieving foot pain and pressure with every step.",
+    "review": "Perfect fit and also quality is good, only one issue is this inside heel area used some cheap material",
+    "expected-output": "The seller advertises these shoes as lightweight, breathable, and durable, featuring a flexible design, non-slip and shockproof construction, air-cushioned outsoles for enhanced shock absorption, and slip resistance. They are marketed as relieving foot pain and pressure for long-term comfort. The buyer is generally satisfied, praising the perfect fit and overall good quality but notes a flaw with the inside heel area, which uses a cheaper material that could impact comfort or durability. While the images confirm the buyer received the correct product, the issue with the heel contrasts with the seller\u2019s claim of high-quality construction, indicating a minor discrepancy. Despite this, the shoes meet most expectations, with the fault lying in the specific material choice for the heel, affecting the overall experience slightly.",
+    "label": "-1: Buyer's opinion"
+}

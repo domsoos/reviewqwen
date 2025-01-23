@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1874.jpg",
+    "seller_image": "data/seller_images/1874.jpg",
+    "seller_description": "These polybags are available in packs of 100, 200, 500, 1000, and 5000, with a material thickness of 240 gauge (60 microns). Made from durable plastic, they come in white and black colors, and each bag measures 8 inches by 10 inches, with an additional 2-inch flap for easy sealing. The bags feature a self-adhesive seal king tape that ensures a secure closure, which cannot be reopened without tearing, making them tear-resistant and waterproof. They are foldable for convenient storage and delivery is available across all locations in India. Each pack contains 100 polybags, ideal for various packaging needs.",
+    "review": "I have ordered 200 pcs one pakage was okay and second one pouches were not good it's bottom corner was not properly sealed....need to improve quality and thickness of pouch",
+    "expected-output": "The seller describes the polybags as durable, self-adhesive, tear-resistant, waterproof, and available in different pack sizes, with each bag measuring 8 inches by 10 inches. The buyer mentions receiving a pack of 200 bags, but one of the packages had bags with poorly sealed bottom corners, indicating a quality control issue. The buyer suggests improving the quality and thickness of the pouches. The fault lies with the seller for not ensuring consistent quality in the product's manufacturing process.",
+    "label": "0:Here seller is at fault"
+}

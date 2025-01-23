@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/2759.jpg",
+    "seller_image": "data/seller_images/2759.jpg",
+    "seller_description": "The Disney Lightyear Interactive Talking Action Figure brings Buzz Lightyear to life with incredible detail and engaging features. Standing tall at approximately 12 inches, this action figure is designed to captivate fans of all ages. With interactive talking capabilities, Buzz delivers iconic phrases and sounds from the beloved Toy Story series, adding a layer of fun and nostalgia. Equipped with poseable joints, he allows for a variety of dynamic action poses, perfect for imaginative play or display. His detailed design replicates the Space Ranger\u2019s iconic suit, complete with the signature wings and vibrant colors. Built for durability, this toy is ideal for active play while maintaining its charm as a collector's item. Whether you're recreating favorite movie moments or creating new adventures, this Buzz Lightyear figure is a perfect addition to any Toy Story fan's collection, making it an ideal gift for kids and collectors alike.",
+    "review": "This action figure inspired my toddler to name our new puppy Buzz. It\u2019s incredible how toys can become part of family memories!",
+    "Expected_output": "The buyer highlights the emotional connection and inspiration the product brought to their family, unrelated to its intended interactive features.",
+    "label": "-1: buyers opinion"
+}

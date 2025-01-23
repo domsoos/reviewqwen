@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1496 .jpg",
+    "seller_image": "data/seller_images/1496 .jpg",
+    "seller_description": "Unleash your child\u2019s creativity and curiosity with the BEARUN 3D Art Coloring Kit, a fun and educational activity perfect for kids and adults alike. This set includes 10 unique 3D models\u2014Butterfly, Seaplane, Dinosaur, Peacock, Eiffel Tower, House, Reindeer, Windmill, Swan, and Stegosaurus\u2014along with 24 dual-tip markers, offering hours of hands-on engagement. Designed to enhance motor skills, boost creativity, and improve focus and hand-eye coordination, this coloring and puzzle-solving kit combines art and learning in an exciting way. By assembling and coloring these models, kids also develop problem-solving and visual-spatial skills, making it a perfect STEM toy. Crafted with premium materials and child-safety approved, this kit makes an ideal gift for kids aged 6 to 12, whether for birthdays, Christmas, or holiday activities. Spark imagination and learning with this versatile and interactive art project!",
+    "review": "The markers included in the set dried out quickly after just one use, making it impossible to color the models as advertised.",
+    "Expected-output": "The seller's description emphasizes the inclusion of 24 dual-tip markers for extended coloring, but the buyer's images indicate dried-out markers, which do not align with the seller's promise of high-quality materials. The seller is at fault for providing subpar markers that do not fulfill the product's intended purpose.",
+    "label": "0:Here seller is at fault"
+}

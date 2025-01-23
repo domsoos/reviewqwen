@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1899.jpg",
+    "seller_image": "data/seller_images/1899.jpg",
+    "seller_description": "Loctite Super Glue 20g offers instant strength with a single drop, using advanced cyanoacrylate technology for durability and a transparent finish. This all-purpose glue is suitable for bonding various materials such as china, rubber, wood, metal, and plastic (except PE and PP). Its functional design features an anti-clog cap and a long, precise nozzle for easy application. The extra-strength formula is water, dishwasher, shock, and temperature resistant, making it ideal for use in a variety of locations. The practical delivery includes one 20g tube, providing reliable and versatile bonding power for all your needs.",
+    "review": "Doesn't work at all.",
+    "expected-output": "The seller's description emphasizes the strong bonding and versatile nature of the Loctite Super Glue, as well as its resistance to various elements. However, the buyer's review states that the glue doesn't work at all, which directly contradicts the seller's claims. The seller's description suggests that the glue should bond effectively, but the buyer's experience indicates dissatisfaction. Given this significant discrepancy, the buyer is likely dissatisfied due to a potential product defect or mismatch. The fault likely lies with the seller's product, assuming no misuse on the buyer's part.",
+    "label": "0:Here seller is at fault"
+}

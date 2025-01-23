@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/2735.jpg",
+    "seller_image": "data/seller_images/2735.jpg",
+    "seller_description": "The Brahmin Briar Crossbody Bag in Pecan Melbourne is a stylish and functional accessory crafted from the brand's signature croc-embossed leather. This hands-free handbag features a new medallion attachment with a chain for added sparkle, enhancing its sophisticated design. The swivel hardware attachments ensure the strap is both functional and comfortable to carry. A full flap closure with a hidden magnet provides security while allowing easy access to your essentials. The logo plaque on the front flap adds a subtle touch of luxury. Measuring approximately 9.5 inches in length, 6.5 inches in height, and 2.5 inches in width, this crossbody bag is perfect for carrying your essentials in style. The Pecan Melbourne color offers a versatile and timeless look that complements various outfits.",
+    "review": "The bag looked perfect in the pictures, but the actual product had some loose stitching on the side. I\u2019m disappointed with the quality.",
+    "Expected_output": "The buyer highlights a quality issue that was not evident in the seller's description or images. Fault: Seller (0: seller at fault).",
+    "label": "-1: buyers opinion"
+}

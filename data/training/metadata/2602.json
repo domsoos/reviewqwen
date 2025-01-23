@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/2602.jpg",
+    "seller_image": "data/seller_images/2602.jpg",
+    "seller_description": "This lint remover is designed with versatile fabric compatibility, making it suitable for use on clothing, upholstery, and blankets. It features a powerful motor or an efficient design that ensures effective lint removal without causing damage to your fabrics. Additionally, its user-friendly, easy-to-clean design includes detachable lint trays or compartments for hassle-free maintenance.",
+    "review": "The box didn't include any extra accessories like batteries or a carrying pouch, which was disappointing. I expected more for the price.",
+    "Expected-output": "The seller's description of versatile fabric compatibility and the effectiveness of the honeycomb mesh system is supported by the features visible in the buyer's images. The product\u2019s performance seems to meet expectations, with no notable discrepancies in design or features. The minor packaging imperfections, visible in the buyer's image, do not affect the overall satisfaction derived from the product. The buyer's review aligns with the promised performance. Conclusion: Here, the buyer agreed with the seller.",
+    "label": "-1 buyers opinion"
+}

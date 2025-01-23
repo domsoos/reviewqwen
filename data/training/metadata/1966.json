@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1966.jpg",
+    "seller_image": "data/seller_images/1966.jpg",
+    "seller_description": "These eco-friendly and reusable kitchen grocery bags are made from high-quality cotton knit fabric and are fully biodegradable, helping you reduce waste. With no plastic or heavy metal closures, they can be used hundreds of times while maintaining their durability. The bags feature tare weight, making them food-safe and ideal for supermarket use. They are machine washable, breathable, and prevent fruit and vegetable rot by allowing ethylene gas to escape. Perfect for not only storing produce but also toys, cosmetics, and accessories, these versatile bags come in sizes L (25x35cm), M (25x30cm), and S (25x25cm), with 2 bags of each size per set.",
+    "review": "Not worth... Vegetables got dried..",
+    "expected-output": "The buyer's review expresses dissatisfaction with the eco-friendly kitchen grocery bags, particularly due to the fact that the vegetables dried out, which goes against the seller's claim that the bags are breathable and prevent vegetable rot by allowing ethylene gas to escape. The seller's description highlights these same benefits, suggesting that the bags should help maintain the freshness of stored produce. However, the buyer's experience contradicts this claim, indicating a potential mismatch between the product's intended functionality and its actual performance. The buyer appears dissatisfied with the product's performance, and it seems the fault may lie in the product's ability to maintain produce freshness as promised, suggesting the seller's description may need clarification or improvement in terms of functionality.",
+    "label": "0:Here seller is at fault"
+}

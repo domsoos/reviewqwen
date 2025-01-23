@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/2291.jpg",
+    "seller_image": "data/seller_images/2291.jpg",
+    "seller_description": "This donut-style pet bed features an ultra-soft faux fur exterior and a plush bolster rim, providing cozy warmth and comfort for your pet. The round shape and fluffy bolster make it perfect for pets who enjoy burrowing. The non-skid textured bottom helps prevent the bed from slipping and sliding, ensuring stability. The bed is machine washable with a removable cover for easy care. Its dimensions are 23 x 23 inches, offering ample space for your pet to relax.",
+    "review": "Imagine a cloud so soft and cozy, it cradles you in comfort\u2014now, imagine giving that to your pet! This donut-style pet bed is a miniature sanctuary for furry companions, offering warmth, security, and plush luxury. It's the kind of gift that makes tails wag and purrs last all day.",
+    "Expected_output": "The seller\u2019s description promises an ultra-soft faux fur exterior, a bolster rim for added comfort, and a non-skid base for stability. It also mentions a machine-washable removable cover and dimensions of 23 x 23 inches, suitable for small pets. If the buyer\u2019s images confirm these features, showcasing a fluffy and well-constructed bed that matches the seller\u2019s images, and the buyer reviews align with claims of comfort and ease of care, then the product meets expectations. Any satisfaction from the buyer confirms the seller's fulfillment of their promises. With no discrepancies between the description, seller images, and buyer experiences, the transaction reflects success, leaving no fault on either side.",
+    "label": "-1: buyers opinion"
+}

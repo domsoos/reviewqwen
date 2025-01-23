@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1936.jpg",
+    "seller_image": "data/seller_images/1936.jpg",
+    "seller_description": "The Storite card holder in Silver Grey is crafted from faux leather, offering a sleek and stylish look. With a solid pattern, this card holder combines functionality and elegance, making it a great accessory for organizing your cards.",
+    "review": "The card doesn't fit in the slots given. The slots are very small. I put a return request on 29th July, and the return process is still not complete. Very late process of return, and no one has come to pick up the product. Still waiting for my money back.",
+    "expected_output": "The buyer's review expresses dissatisfaction with both the product and the return process. While the seller describes the card holder as a sleek and functional accessory, the buyer reports that the slots are too small for their cards, making the product unusable. Additionally, the buyer is frustrated with the delayed return process, stating that despite initiating the return on July 29th, no one has come to pick up the product, and they are still awaiting their refund. The issue appears to be with the product not meeting the buyer's functional needs and the slow return process. The fault lies with the seller in terms of both the product's design and the inefficiency of the return procedure.",
+    "label": "0:Here seller is at fault"
+}

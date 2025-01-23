@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/2683.jpg",
+    "seller_image": "data/seller_images/2683.jpg",
+    "seller_description": "This Classic Mosquito Net for Double Bed (King Size 200cm x 200cm x 145cm or 6.5ft x 6.5ft x 4.7ft) provides effective protection for 2 adults and 1 child. Made from superior-quality, tightly woven 50 denier, 30 GSM polyester, it ensures durability and clear visibility. The self-supporting PVC-coated steel spring frame is corrosion-resistant, washable, and easy to install or fold down. Featuring long-lasting zippers and double-stitched lining, it stays as good as new even after washing. Available in two additional sizes: Queen Size (6.5ft x 5.5ft x 4.5ft) and Single Bed (6.56ft x 3.9ft x 4.2ft) to suit different needs. Comes with a convenient storage bag for portability.",
+    "review": "The material used for the mosquito net is so thin that it tore within days of use. This is not the high-quality product promised.",
+    "Expected-output": "The seller emphasizes the use of '30 GSM strong quality mesh' in their description. However, the buyer's images highlight severe tears and thin material, which contradicts the durability claims made by the seller. The lack of alignment between the seller's description and the product received clearly indicates the seller's product did not meet the described standards.",
+    "label": "-1 buyers opinion"
+}

@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1863.jpg",
+    "seller_image": "data/seller_images/1863.jpg",
+    "seller_description": "The material offers excellent abrasion resistance, slip resistance, and is highly resistant to oil and acid, making it durable and reliable for use in challenging environments where protection against wear, slippery conditions, and harsh substances is essential.",
+    "review": "Didn’t even last a day. Very poor quality.",
+    "expected-output": "The seller's description emphasizes the product's durability, abrasion resistance, slip resistance, and protection against oils and acids, suggesting that it is highly reliable for challenging environments. However, the buyer's review expresses dissatisfaction, stating that the product did not last even a day and labeling it as very poor quality. This suggests a significant discrepancy between the seller's claims of durability and the buyer's experience. The buyer is clearly dissatisfied, and the fault likely lies with the product's quality not meeting the seller's promises.",
+    "label": "0:Here seller is at fault"
+}

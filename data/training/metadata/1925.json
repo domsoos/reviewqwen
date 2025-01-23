@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1925.jpg",
+    "seller_image": "data/seller_images/1925.jpg",
+    "seller_description": "This stylish bag combines functionality and safety features with a sleek design. It includes a soft mesh back with 8mm foam padding for comfort, two main compartments, one slip-in pocket inside, a printed design, and a side mesh bottle holder. With dimensions of 35 x 13 x 46 cm, it offers ample space for organization. Please note, the bag is not water-resistant, making it ideal for everyday use in dry conditions.",
+    "review": "100% genuine and best quality product. Bag has a genuine QR code to register ur self",
+    "expected-output": "The seller describes a stylish bag that combines functionality and safety features, including a soft mesh back with 8mm foam padding for comfort, two main compartments, a slip-in pocket, a printed design, and a side mesh bottle holder. The dimensions are 35 x 13 x 46 cm, providing ample space for organization. However, the bag is not water-resistant. The buyer’s review praises the product, stating that it is 100% genuine and best quality, and mentions a genuine QR code for product registration, indicating satisfaction with the product's authenticity and quality. The images of the bag align with the seller's description, showing the backpack with its sleek design, compartments, and side mesh bottle holder, with no noticeable discrepancies. Overall, the buyer is satisfied with the product, and there are no issues or discrepancies between the seller's description and the buyer's experience. The seller is not at fault.",
+    "label": "1:Here buyer agreed with the seller"
+}

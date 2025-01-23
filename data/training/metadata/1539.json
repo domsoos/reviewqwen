@@ -1,0 +1,9 @@
+{
+    "buyer_image": "data/buyer_images/1538.jpg",
+    "seller_image": "data/seller_images/1538.jpg",
+    "seller_description": "Whiskas Dry Cat Food offers a complete and balanced meal for your cat, providing essential nutrients for overall health. The Ocean Fish Flavour features nourishing crunchy chunks with an irresistible taste that cats love. Made with high-quality ingredients, this food includes 41 essential nutrients, antioxidants, and 23 vitamins and minerals to keep your cat lively and energetic. It also contains Omega 6 and Zinc for a healthy coat, along with Vitamin A and Taurine to support healthy eyesight. Calcium, Phosphorus, and Vitamin D contribute to strong teeth and bones, promoting overall well-being.",
+    "review": "I received the spoiled product, when I opened the packet it was full of worms.",
+    "expected-output": "The seller advertises Whiskas Dry Cat Food as a premium, balanced meal enriched with essential nutrients, antioxidants, and vitamins for cat health, highlighting its benefits for coat, eyesight, and bones. However, the buyer reports an extreme quality issue, receiving a packet full of worms, indicating serious lapses in storage, handling, or quality control. This experience not only undermines the product's marketed promises but also poses a significant health risk, damaging trust in the brand. Immediate action is required to investigate and rectify the issue, offer refunds or replacements, and ensure better packaging and storage to prevent recurrence.",
+    "label": "0:Here seller is at fault"
+
+}

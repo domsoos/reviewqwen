@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1579.jpg",
+    "seller_image": "data/seller_images/1579.jpg",
+    "seller_description": "This dry kitten food, available in a fish flavor, is specially formulated to provide complete nutrition for baby house-cats of all breed sizes. It contains Taurine to support a healthy heart and is packed with high-quality protein, antioxidants, and essential nutrients to keep your kitten healthy and energetic. The food helps maintain a healthy digestive system, promotes healthy skin and a beautiful coat, and provides hair fall protection while controlling urinary pH. Available in a convenient bag, this kitten food ensures your furry friend receives the best care for a happy, healthy start in life.",
+    "review": "My kittu liked this so much I also brought some other pedigree but he enjoy this one more than others if you have kitten just go for this 😀",
+    "expected-output": "The seller promotes the fish-flavored dry kitten food as a nutritious option for baby house cats of all breeds, containing key nutrients like taurine for heart health, high-quality protein, antioxidants, and essential nutrients to support digestive health, a healthy coat, hair fall protection, and urinary pH control. The buyer had a highly positive experience, noting that their kitten loved the food more than other brands and enthusiastically recommended it to others. The seller's claims align well with the buyer's satisfaction, indicating the product meets its promises. To enhance appeal, the seller could highlight the product's preference among kittens and consider offering more flavor options to attract a broader audience of pet owners.",
+    "label": "1:Here buyer agreed with the seller"
+}

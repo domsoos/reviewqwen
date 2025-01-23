@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1543.jpg",
+    "seller_image": "data/seller_images/1543.jpg",
+    "seller_description": "Whiskas Junior Mother Cat & Kitten Dry Cat Food offers complete and balanced nutrition for kittens aged 2-12 months. With an irresistible ocean fish flavour, it is loaded with nourishing crunchy chunks that your kitten will love. Made with high-quality ingredients, this cat food supports healthy growth and development. It contains nutrient-rich colostrum, 41 essential nutrients, and helps boost the immune system. Omega-6 fatty acids and Zinc promote a healthy coat, while DHA supports eye and brain development. Additionally, Calcium, Phosphorus, and Vitamin D contribute to strong teeth and bones, ensuring your kitten grows up healthy and strong.",
+    "review": "Choose WHISKAS Junior Kitten Food for a happy, healthy, and well-nourished kitten. With our delectable and nutritious formula, your little one will thrive and grow into a strong and loving companion. Trust WHISKAS to support your kitten's journey from their first steps to their first leap!",
+    "expected-output": "The seller advertises Whiskas Junior Kitten Dry Cat Food as providing complete and balanced nutrition for kittens aged 2-12 months, emphasizing benefits such as strong bones, healthy coats, and optimal development with key nutrients like DHA, colostrum, and Omega-6. The buyer's positive review affirms these claims, highlighting their kitten's improved health, growth, and overall happiness after using the product. This alignment indicates the product delivers on its promises and meets customer expectations",
+    "label": "1:Here buyer agreed with the seller"
+}

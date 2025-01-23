@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1521.jpg",
+    "seller_image": "data/seller_images/1521.jpg",
+    "seller_description": "Pedigree Wet Dog Food is a 100% complete and balanced meal for adult dogs, offering a delicious Chicken & Liver Chunks in Gravy flavor made with real meat and high-quality protein. The high moisture content provides excellent hydration, ensuring your dog stays healthy and energized. This dog food is packed with protein and calcium to support healthy muscles and bones, while dietary fiber promotes a healthy digestive system. Omega 6 and zinc are included for healthy skin and a shiny coat, using quality ingredients for your dog's overall well-being.",
+    "review": "Open pouch and awful smell Mishandling of products is cause of this type of situation.",
+    "expected-output": "The seller promotes Pedigree Wet Dog Food as a complete and balanced meal made with real chicken, high-quality protein, and nutrients like Omega 6, zinc, protein, calcium, and fiber to support hydration, muscle and bone health, digestive well-being, and a shiny coat. However, the buyer reports dissatisfaction due to receiving a pouch that was open and emitted an awful smell, suggesting mishandling during packaging or shipping. This issue appears to be related to improper sealing or storage rather than the inherent quality of the product. To address this, the seller should improve packaging processes to ensure all pouches are securely sealed, implement stricter quality control checks to prevent such incidents, and provide the buyer with a prompt resolution, such as a refund or replacement, to maintain customer trust and satisfaction.",
+    "label": "0:Here seller is at fault"
+}

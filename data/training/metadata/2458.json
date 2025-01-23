@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/2458.jpg",
+    "seller_image": "data/seller_images/2458.jpg",
+    "seller_description": "Discover the pinnacle of audio technology with Apple AirPods Pro 2, featuring Active Noise Cancellation that eliminates up to 2x more background noise, Transparency Mode for ambient awareness, and Adaptive Audio for seamless listening in any setting. Powered by the Apple-designed H2 chip, these earbuds deliver high-fidelity sound with crystal-clear highs and deep bass, complemented by Voice Isolation for superior call quality. Designed for all-day comfort, they include four silicone tip sizes and are IP54 dust, sweat, and water-resistant. Enjoy up to 6 hours of listening time per charge (30 hours with the MagSafe Charging Case), which also offers Precision Finding, a built-in speaker, multiple charging options, and a lanyard loop. With Personalized Spatial Audio, Touch Control, and Siri-enabled head gestures, the AirPods Pro 2 provide effortless control and an immersive listening experience, combining innovation, durability, and Apple\u2019s signature quality in a sleek, portable design.",
+    "review": "The fit is terrible despite the multiple ear tip sizes. They keep falling out even with minimal movement, which makes them useless for daily activities.",
+    "Expected-output": "The buyer is dissatisfied because the product's fit does not align with the seller's description of all-day comfort and customizable ear tip sizes. The seller's images and promises of ergonomic design are contradicted by the buyer's experience, suggesting a fault in the product design or quality control on the seller's part.",
+    "label": "0:Here seller is at fault"
+}

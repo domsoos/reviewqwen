@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1595.jpg",
+    "seller_image": "data/seller_images/1595.jpg",
+    "seller_description": "Munchy Sticks are long-lasting, chicken-flavored treats that dogs love, made with non-vegetarian ingredients and low fat content. These tasty treats help reduce tartar build-up, promoting healthy teeth and gums for your furry friend. Suitable for pets over 3 months, they provide a satisfying chew while supporting dental health. Available in a convenient bag, Munchy Sticks are the perfect snack for your dog to enjoy.",
+    "review": "The product is fine. My dogs are crazy for it. Packaging is good but the quality is a little doubtful. I found silver foil piece in one of the sticks.",
+    "expected-output": " The seller markets Munchy Sticks as chicken-flavored, long-lasting treats made with non-vegetarian ingredients and low fat content, promoting dental health by reducing tartar build-up and supporting healthy teeth and gums. These treats are suitable for dogs over three months and provide a satisfying chew. While the buyer notes that their dogs love the product and praises the packaging, they report finding a silver foil piece in one stick, raising concerns about product quality and safety. To address this, the seller should enhance quality control processes to prevent contamination, promptly investigate safety issues, and communicate transparency to restore trust.",
+    "label": "-1: Buyer's opinion"
+}

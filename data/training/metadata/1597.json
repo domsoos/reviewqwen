@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1597.jpg",
+    "seller_image": "data/seller_images/1597.jpg",
+    "seller_description": "This kitten food features sardine, mackerel, and eggs as primary ingredients, providing high-quality protein, antioxidants, and essential nutrients that promote your kitten's health. Enriched with Omega-3 and Omega-6 fatty acids, it supports healthy skin and a lustrous coat, while promoting optimum growth, better digestibility, and overall well-being. Additionally, it helps control urinary pH, ensuring a balanced and healthy diet for your growing kitten.",
+    "review": "Best food with free big container at best price. Got it at 256 rs. 👍",
+    "expected-output": "The seller advertises the kitten food as a high-quality product featuring sardine, mackerel, and eggs, enriched with Omega-3 and Omega-6 fatty acids to support healthy skin, a shiny coat, optimum growth, and better digestibility while controlling urinary pH. A buyer expressed satisfaction, highlighting the excellent price (256 rs) and the added value of a free big container, noting no negative experiences. This positive feedback aligns with the seller's promises. To maintain customer trust and satisfaction, the seller should continue to prioritize consistent quality, emphasize competitive pricing, and promote value-added features in their marketing.",
+    "label": "1:Here buyer agreed with the seller"
+}

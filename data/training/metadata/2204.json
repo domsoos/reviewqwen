@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/2204.jpg",
+    "seller_image": "data/seller_images/2204.jpg",
+    "seller_description": "The product features a durable polytex shell designed for longevity, complemented by a FastDry technology lining that efficiently wicks away sweat to ensure comfort. It includes a waterproof insert for enhanced protection and a reinforced polyurethane (PU) palm for added durability. This imported item is easy to maintain, requiring only spot washing by hand in lukewarm water with a mild detergent, followed by air drying. It is important to avoid using hot water or placing the item in a dryer to preserve its quality.",
+    "review": "These gloves weren\u2019t just for me\u2014they became part of my dog-walking kit! I used the clip on them to attach my dog\u2019s leash, and they performed double duty, keeping my hands warm and securing my gear. Truly versatile and built for outdoor fun!",
+    "Expected-output": "The seller's description and images suggest a high-performance product with practical features such as a waterproof insert, reinforced palm, and durable polytex shell. The buyer\u2019s photos confirm these features and depict a product that matches the seller\u2019s visuals. The buyer\u2019s positive remarks about the gloves\u2019 durability and functionality align with the seller\u2019s claims, showing no discrepancies. The buyer appears fully satisfied, and the seller has delivered on all promises. There are no indications of fault from either the buyer or the seller.",
+    "label": "-1 buyers opinion"
+}

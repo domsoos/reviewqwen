@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1131.jpg",
+    "seller_image": "data/seller_images/1131.jpg",
+    "seller_description": "This bold wristwatch features a black dial in a round plastic case with a large 57-millimeter diameter, perfect for those seeking a striking, oversized design. The black silicone band complements the dial for a sleek and comfortable fit. Powered by reliable quartz movement with an analog display, the watch offers precise timekeeping. It is water-resistant up to 30 meters, making it suitable for everyday wear. Backed by a 6-month manufacturer warranty covering manufacturing defects, this watch combines style, functionality, and durability.",
+    "review": "Everyone loves the look.",
+    "expected-output": " The seller describes a bold wristwatch with a large 57mm black dial, a comfortable black silicone strap, and quartz movement for accurate timekeeping. It is advertised as water-resistant up to 30 meters and comes with a 6-month warranty for manufacturing defects. The buyer’s review, Everyone loves the look,indicates complete satisfaction with the aesthetic appeal of the watch. The review neither mentions any functional issues nor raises any concerns about discrepancies with the advertised features. There is no evidence of dissatisfaction or mismatch between the product description and the buyer’s experience. Therefore, the product appears to meet the buyer’s expectations fully, and the seller has delivered as promised.",
+    "label": "1:Here buyer agreed with the seller"
+}

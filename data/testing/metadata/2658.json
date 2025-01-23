@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/2658.jpg",
+    "seller_image": "data/seller_images/2658.jpg",
+    "seller_description": "Embark on a cosmic journey with the Desidiya Astronaut Galaxy Projector, transforming your space into a celestial wonderland. This projector brings the stars, planets, and nebulae to life, creating a captivating and peaceful atmosphere. The 360-degree rotating head ensures full-room projection, allowing you to adjust the light's direction for a dynamic galactic experience on walls, ceilings, or across the entire room. The sleep-friendly timer makes it perfect for both kids and adults, automatically turning off after your chosen time to save energy. Ideal as a gift for birthdays, baby showers, or space enthusiasts, this versatile projector fits effortlessly into children's bedrooms, gaming rooms, relaxation spaces, and home parties. A unique addition to your home decor, it offers hours of cosmic fascination and tranquility.",
+    "review": "I expected the astronaut to move around the room projecting stars, but it\u2019s stationary and projects only from one spot.",
+    "Expected-output": "The seller's description emphasizes the projector's 360-degree rotating head for adjusting light directions and does not claim mobility of the astronaut itself. The buyer\u2019s misunderstanding regarding the mobility of the product is evident and highlights an unrealistic expectation not aligned with the product's capabilities as described by the seller.",
+    "label": "-1 buyers opinion"
+}

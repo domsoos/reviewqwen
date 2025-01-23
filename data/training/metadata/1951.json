@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1951.jpg",
+    "seller_image": "data/seller_images/1951.jpg",
+    "seller_description": "This compact, slim wallet measures 11.5 x 9.3 x 1 cm, offering the perfect size to fit easily in your pocket or travel bag without being bulky. Crafted from top-grain genuine leather with tough stitching, this hand-made wallet is durable, contemporary, and designed to improve with age. It features a sleek design with 8 card slots, 2 hidden card slots, 1 leather-framed ID window, and 2 note compartments, providing ample space for your cards, bills, and receipts. Presented in an appealing gift box, it makes an ideal gift for any occasion. With premium functionality and a satisfaction guarantee, this wallet is perfect for everyday use or as a thoughtful gift for friends and family.",
+    "review": "IThe stitches look very bad. Quality is very cheap. V bad. Only buy if you want to give it to someone you hate",
+    "expected-output": "The buyer is dissatisfied with the product, expressing disappointment over the poor stitching and cheap quality. This feedback contradicts the seller's description, which highlights the wallet's durable craftsmanship and high-quality leather. The buyer's experience suggests that the wallet did not meet expectations in terms of quality and construction, indicating that the seller's product did not align with the buyer's needs. The fault appears to lie with the seller’s product, as the buyer specifically mentions the stitching and quality as major concerns, which does not reflect the high standards promised in the description.",
+    "label": "0:Here seller is at fault"
+}

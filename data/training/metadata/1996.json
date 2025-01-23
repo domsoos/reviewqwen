@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1996.jpg",
+    "seller_image": "data/seller_images/1996.jpg",
+    "seller_description": "This blue luggage bag offers a spacious 66-liter capacity and features a number lock for enhanced security. Weighing 4500 grams and measuring 46.5 cm x 31.5 cm x 68.5 cm (LxWxH), it is designed with one main compartment and 4 smooth-rolling wheels for easy maneuverability. While it is not laptop-compatible, its expander feature provides extra packing space for added convenience. The bag comes with a 5-year manufacturer warranty, which is non-transferable and valid from the original purchase date. Perfect for travelers needing durability and extra room for their belongings.",
+    "review": "Product quality is very low, wheels are not working properly...I want to give zero star for this product...",
+    "expected-output": "The buyer's review expresses strong dissatisfaction with the product, specifically mentioning that the quality is very low and the wheels are not functioning properly. The seller's description highlights the bag's spaciousness, design, and functionality, but the buyer\u2019s experience indicates that the bag did not meet expectations in terms of quality and performance, particularly with the wheels. The discrepancy between the seller's claims of durability and the buyer\u2019s negative experience suggests a potential issue with product quality. In this case, the fault appears to lie with the seller, as the product did not deliver on the promised performance, particularly regarding the functionality of the wheels. The buyer's dissatisfaction is justified based on the issues mentioned in the review.",
+    "label": "-1: Buyer's opinion"
+}

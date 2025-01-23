@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/2662.jpg",
+    "seller_image": "data/seller_images/2662.jpg",
+    "seller_description": "The Baby Groot multipurpose planter is a delightful addition to your space, functioning as a flower pot, pen holder, showpiece, or fish tank prop. Inspired by the popular Marvel character from *Infinity War*, its high-detailed design brings charm and utility to your home or office. Use it to grow succulents, cacti, or small plants, adding a lively touch to your decor. Made from eco-friendly and durable material, it is designed for long-lasting use and resists dirt and damage. This versatile planter also makes a fun and thoughtful gift for family and friends, bringing a touch of humor and personality to any setting.",
+    "review": "The Groot planter is much smaller than I anticipated. It barely fits a pencil, let alone a plant. The seller's description made it seem more versatile and spacious.",
+    "Expected-output": "The buyer's review mentions a size issue that conflicts with the seller's description of the planter being functional for plants or pens. The buyer's image supports their claim, showing a much smaller product than expected. The seller is at fault for not providing accurate size specifications.",
+    "label": "-1 buyers opinion"
+}

@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1907.jpg",
+    "seller_image": "data/seller_images/1907.jpg",
+    "seller_description": "This lightweight trolley luggage features a textured, scratch-resistant polycarbonate shell and contrast beading for a premium look. It is equipped with a fixed combination lock and 8 wheels for smooth maneuverability. With dimensions of 66x46x27 cm and a sleek graphite blue color, it meets most domestic check-in size requirements.",
+    "review": "I like the quality of the item but I want to change one suitcase of different colour if possible please.",
+    "expected-output": "The buyer's image of the suitcase aligns with the seller's description in terms of design, including the polycarbonate shell, eight wheels, and dimensions. However, the buyer appears dissatisfied with the color, as they requested an exchange for a different one, which may be due to lighting or display differences in the images. The quality and features match the seller's promises, but the color discrepancy seems to be a matter of personal preference, and the fault does not lie with the seller's product. Therefore, the buyer's dissatisfaction is based on color expectations rather than any defect in the product.",
+    "label": "-1: Buyer's opinion"
+}

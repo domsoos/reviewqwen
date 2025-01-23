@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/2464.jpg",
+    "seller_image": "data/seller_images/2464.jpg",
+    "seller_description": "Transform your entertainment experience with the VIZIO 40-Inch Full HD LED Smart TV, designed to deliver stunning visuals and advanced functionality. Featuring Full HD 1080p resolution, Full Array LED Backlight, and Active Pixel Tuning, it provides vibrant colors and enhanced contrast for a captivating viewing experience. Access endless entertainment with the built-in WatchFree+ app, offering over 275 free channels and 15,000+ movies and shows On Demand, alongside popular streaming apps. Enjoy wireless audio freedom with Bluetooth headphone compatibility, and elevate your gaming experience with HDR10 support, Auto Low Latency Mode, and a dedicated gaming menu. Smart connectivity features include AirPlay 2 and Chromecast for seamless content sharing from Apple and Android devices, as well as voice assistant integration with Apple Home, Google Assistant, and Amazon Alexa. The sleek 3-sided ThinFrame design adds a modern aesthetic, making it the perfect centerpiece for any space.",
+    "review": "The picture quality is subpar, with noticeable backlight bleeding around the edges, especially in dark scenes. It's distracting and disappointing.",
+    "Expected-output": "The seller promises vibrant colors and enhanced contrast through Full Array LED Backlight and Active Pixel Tuning. The buyer's complaint about backlight bleeding contradicts this claim, indicating a quality control issue. This places the fault on the seller for not meeting their advertised picture quality standards.",
+    "label": "0:Here seller is at fault"
+}

@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1852.jpg",
+    "seller_image": "data/seller_images/1852.jpg",
+    "seller_description": "Loctite TITE FOAM Big Gaps is a high-performance sealant that expands to fill, seal, and insulate gaps and cracks up to 3 inches in size. Made from a premium polymer foam with purified and concentrated ingredients, it offers excellent durability, withstanding harsh UV rays for long-lasting results. The foam has a high density and uniform cell structure, providing superior insulation and durability for remodeling projects. Its superior flexibility allows it to withstand building and material movement without compromising the seal, while its strong adhesion ensures a secure bond to most building materials, including wood, concrete, brick, stone, metal, PVC, and more.",
+    "review": "The loctite foam is easy to use and expands on cooling filling the gaps pretty well. Dries quick and Hassel free",
+    "expected-output": "The seller's description of the Loctite TITE FOAM Big Gaps highlights its high-performance qualities, such as expanding to fill large gaps, its durability against UV rays, and its superior flexibility and adhesion. The buyer's review confirms the product's effectiveness, noting that it is easy to use, expands well, and dries quickly, filling gaps efficiently without hassle. There are no discrepancies between the seller's description and the buyer's experience, and the buyer seems satisfied with the product's performance.",
+    "label": "1:Here buyer agreed with the seller"
+}

@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/2640.jpg",
+    "seller_image": "data/seller_images/2640.jpg",
+    "seller_description": "The OnePlus Bullets Wireless Z2 delivers an exceptional audio experience with up to 30 hours of non-stop music on a single charge, and a quick 10-minute charge provides up to 20 hours of immersive playback. Equipped with a large 12.4 mm bass driver and a titanium-coated dome, it offers deep, powerful bass and rich audio detail across all frequencies. Anti-distortion audio technology ensures smooth, clear sound, while larger sound cavities and advanced algorithms keep the audio distortion-free. These wireless earbuds are water and sweat-resistant, with an IP55 rating, making them all-weather ready. Model E305a includes call control functionality and offers a long-lasting battery life of 30 hours.",
+    "review": "I expected these earbuds to include active noise cancellation, but they don\u2019t have that feature.",
+    "Expected-output": "The buyer incorrectly assumed the earbuds would have active noise cancellation. The seller's description does not mention or promise this feature. The dissatisfaction is due to a false assumption by the buyer, as the product matches the seller's description and images, with no fault on the seller\u2019s part.",
+    "label": "-1 buyers opinion"
+}

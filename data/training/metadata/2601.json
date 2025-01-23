@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/2601.jpg",
+    "seller_image": "data/seller_images/2601.jpg",
+    "seller_description": "This lint remover is designed with versatile fabric compatibility, making it suitable for use on clothing, upholstery, and blankets. It features a powerful motor or an efficient design that ensures effective lint removal without causing damage to your fabrics. Additionally, its user-friendly, easy-to-clean design includes detachable lint trays or compartments for hassle-free maintenance.",
+    "review": "The lint remover took too long to charge, and it didn\u2019t even come with a free warranty for accidental drops. It's just not up to modern charging standards.",
+    "Expected-output": "The seller's images and descriptions align well with the product shown in the buyer's images. The seller highlights its portability, ease of use, and efficiency in removing lint, which matches the design seen in the buyer's images. However, while the packaging in the buyer's image appears slightly damaged, this doesn\u2019t impact the functionality of the product. Based on these observations, the buyer seems satisfied with the product's functionality and performance. The minor packaging damage could be attributed to handling during transit and does not reflect the seller\u2019s fault..",
+    "label": "-1 buyers opinion"
+}

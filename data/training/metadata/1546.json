@@ -1,0 +1,9 @@
+{
+    "buyer_image": "data/buyer_images/1546.jpg",
+    "seller_image": "data/seller_images/1546.jpg",
+    "seller_description": "Whiskas Adult Wet Cat Food, Chicken in Gravy, provides 100% complete and balanced nutrition for cats over 1 year of age. This high-moisture food is easy to eat and digest, supporting your cat's hydration needs. Made with real chicken, it offers a delicious gravy texture and aroma that appeals to even the fussiest eaters. Packed with vitamins, minerals, and quality protein, it promotes healthy muscles, while Omega-6 fatty acids and Zinc support a healthy skin and coat. Antioxidants help strengthen your cat's natural defenses, ensuring overall health and vitality.",
+    "review": "You can mix it with Rice, breads and another dry food.. You will see changes in behavior after using it for 10 days... If you use 2 pouch a day your cat definitely will gain weight in 10 days.",
+    "expected-output": "The seller presents Whiskas Adult Wet Cat Food as a nutritious and hydrating meal, ideal for adult cats, featuring benefits like improved hydration, easy digestion, and muscle health through quality protein. The buyer’s review aligns with these claims, noting positive behavioral changes and weight gain in their cat after 10 days of use, especially when mixed with other foods like rice or bread. The product effectively meets the promised nutritional benefits, confirming its value as a versatile and balanced dietary option for cats.",
+    "label": "1:Here buyer agreed with the seller"
+
+}

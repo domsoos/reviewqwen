@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1460.jpg",
+    "seller_image": "data/seller_images/1460.jpg",
+    "seller_description": "Svaar Classic Clogs are designed for durability and comfort, featuring enhanced ventilation and sturdy construction for all-day wear. Flexible and versatile, these clogs are perfect for casual occasions such as rain, beach outings, movie nights, poolside relaxation, or everyday use. The slip-on design ensures ease of wear, with pivoting heel straps providing a secure fit when needed. Combining style and functionality, these lightweight clogs offer a fashionable yet casual look, suitable for indoor and outdoor activities like walking, gardening, showers, beach trips, or athletic activities, making them an ideal choice for men seeking comfort and versatility.",
+    "review": "While wearing these clogs the tiny particle of the clogs coming out looking like making it from wastage molten plastic .very bad experience.",
+    "expected-output": "The seller describes the Svaar Classic Clogs as durable, comfortable, and versatile footwear, ideal for various casual and outdoor activities, with enhanced ventilation and sturdy construction ensuring long-lasting use. However, the buyer reports a significant issue, stating that tiny particles are coming off the clogs, resembling waste material, which directly contradicts the seller's claims of quality and durability. This issue reflects poor material standards or inadequate quality control during manufacturing. The buyer’s dissatisfaction is valid, as the product does not meet the advertised expectations, making the fault lie with the seller for failing to deliver a reliable and well-constructed product.",
+    "label": "0:Here seller is at fault"
+}

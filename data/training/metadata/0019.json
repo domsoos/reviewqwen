@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/0019.jpg",
+    "seller_image": "data/seller_images/0019.jpg",
+    "seller_description": "These men's pants are made from a smooth and stretchy blend of 87  polyester and 13  spandex, providing a comfortable wear experience. The elastic waistband and adjustable inner drawstring allow for a custom fit, while deep side pockets and a back pocket with zippers ensure your phone and cards stay secure during movement. With tapered trouser legs and stretchy ankle cuffs, the pants maintain the perfect length for exercise. Ideal for activities such as gym workouts, soccer, running, jogging, and other sports, these pants are designed for athletic performance and comfort.",
+    "review": "I found lighter  in the pant and its a used product",
+    "expected-output": "The seller describes the pants as being made from an 87% polyester and 13% spandex blend, featuring an elastic waistband, adjustable inner drawstring, deep side pockets, a back zip pocket, and tapered legs with stretchy ankle cuffs, suitable for various sports and activities. The seller's images depict well-fitted, athletic-style pants in a neutral shade. The buyer's review, however, mentions dissatisfaction due to the pants being lighter in weight than expected, which affected their satisfaction. Additionally, the buyer's images show the pants in a darker shade than the seller's images, indicating a potential color discrepancy. This suggests that while the seller accurately described the design features, there may be inconsistencies in product weight and color representation that could impact buyer satisfaction.",
+    "label": "0:Here seller is at fault"
+}

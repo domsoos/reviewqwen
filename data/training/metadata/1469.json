@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1469.jpg",
+    "seller_image": "data/seller_images/1469.jpg",
+    "seller_description": "This Sparx Sports Shoe package includes one pair of high-quality sports shoes, a storage box, and the trusted Sparx brand assurance. Crafted with a durable mesh upper and EVA sole, these shoes are designed for longevity and performance. They come in elegant packaging, making them a perfect gifting option with zero compromise on quality. For care, avoid soaking in water or using harsh cleaning agents; simply wipe with a moist cloth and dry in the shade. Sparx embodies passion, challenges, and a daredevil spirit, offering a wide range of shoes, sandals, and flip-flops for those who love to live on the edge and do things differently.",
+    "review": "One side scratch issue",
+    "expected-output": "The seller advertises the Sparx Sports Shoes as a high-quality product with a durable mesh upper, EVA sole, and elegant packaging, reflecting the brand’s assurance of quality and performance. The description emphasizes longevity and suitability for active wear, packaged attractively for gifting purposes. However, the buyer's review indicates dissatisfaction due to a scratch issue on one side of the shoe. This discrepancy directly contradicts the seller's promise of a zero-compromise product. The issue is specific to the delivered product's quality, suggesting inadequate quality control or oversight in the packaging or manufacturing process. The buyer’s dissatisfaction is valid, as the defect undermines the advertised standards of quality and performance. The fault lies with the seller for not ensuring that the product delivered matches the described condition.",
+    "label":" 0: Here seller is at fault"
+}

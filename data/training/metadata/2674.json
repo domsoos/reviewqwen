@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/2674.jpg",
+    "seller_image": "data/seller_images/2674.jpg",
+    "seller_description": "Celebrating 40 years of trust, Tata Salt has been a pioneer in India with its advanced vacuum evaporation technology, ensuring unmatched purity and hygiene. Tata Salt is untouched by hand and enriched with the essential nutrient iodine, which supports normal growth, thyroid health, brain function, and the mental development of children. It is a healthy and hygienic alternative to regular table salt, making your meals both delicious and nourishing. Store it in a cool, dry place to maintain its quality and goodness",
+    "review": "The package arrived in a box that seemed to have been mishandled, and there was salt everywhere inside.",
+    "Expected-output": "The buyer\u2019s dissatisfaction stems from the shipping or packaging process. The seller description emphasizes purity and hygiene, and while the salt itself may still retain these qualities, the buyer's image suggests mishandling or inadequate protective measures. Fault lies with the seller for not ensuring secure delivery packaging.",
+    "label": "-1 buyers opinion"
+}

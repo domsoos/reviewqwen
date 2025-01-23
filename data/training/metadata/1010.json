@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1010.jpg",
+    "seller_image": "data/seller_images/1010.jpg",
+    "seller_description": "Nivea Body Lotion Nourishing Body Milk is specially formulated for very dry skin, providing long-lasting moisturization with its deep moisture serum formula that keeps skin hydrated for up to 48 hours. Enriched with nourishing almond oil, it effectively repairs and reduces skin roughness, leaving it smooth and soft. Dermatologically approved for skin compatibility, this body lotion is suitable for all genders, making it a versatile addition to your skincare routine.",
+    "review": "Very cheap price, happy to buy it. Nice product for dry to normal skin.",
+    "expected_output": "The seller's image showcases the Nivea Body Lotion with an emphasis on its 5-in-1 care benefits, including long-lasting moisturization and deep nourishment. The product is visually appealing and targets customers with dry to very dry skin. The seller’s description elaborates on the product's key features, such as its 48-hour moisturization capability, the inclusion of almond oil for nourishment, and its suitability for all genders. The buyer’s image matches the seller's representation, showing the same bottle and design as advertised. The buyer's review reflects satisfaction with the product, highlighting its affordable price and effectiveness for dry to normal skin. There are no visible discrepancies between the seller's claims and the buyer's experience. Based on the provided data, the buyer appears satisfied with the product, and the seller has accurately represented it in both description and imagery. Therefore, no fault lies with either party in this transaction.",
+    "label": "1:Here buyer agreed with seller"
+}

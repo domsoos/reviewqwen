@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1108.jpg",
+    "seller_image": "data/seller_images/1108.jpg",
+    "seller_description": "This watch features a sleek black dial with a rectangular case design, complemented by a black resin band for durability and style. It operates with a reliable quartz movement and displays time digitally. The case dimensions are 38.2 \u00d7 35.2 \u00d7 8.5 millimeters, offering a compact and lightweight design. With a water resistance depth of 10 meters, it is suitable for everyday use. Backed by a manufacturer-provided 2-year domestic warranty, this watch combines functionality and assurance.",
+    "review": "The whole packaging was broken and it was taped very bad didn't expect this type of packaging but the watch inside was good so I am not that sad \ud83e\udd72",
+    "expected-output": "While the seller\u2019s description accurately matches the watch\u2019s features\u2014compact digital design, water resistance, and a reliable quartz movement\u2014the buyer\u2019s complaint revolves around poor packaging, which arrived broken and badly taped. The buyer ultimately finds the watch itself to be as described, suggesting there is no misrepresentation of the product\u2019s specifications. However, the subpar packaging has led to partial dissatisfaction, indicating that although the seller delivered a functional product, the overall experience fell short of the buyer\u2019s expectations.",
+    "label": "-1: Buyer's opinion"
+}

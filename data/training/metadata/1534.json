@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1534.jpg",
+    "seller_image": "data/seller_images/1534.jpg",
+    "seller_description": "Pet Pattern cat litter is designed to provide a dust-free experience with 99.95% effectiveness, thanks to high-quality raw materials and leading production technology. The litter's perfect ball and column ratio ensures effective clumping while minimizing dust, which helps reduce respiratory issues such as sneezing, coughing, and tearing in cats. It is hypoallergenic and free from plant proteins, fragrances, and deodorants, making it safe for sensitive cats. The hard clumping, medium-grain clay absorbs moisture efficiently, keeping your cat's environment clean and healthy, and helping to prevent respiratory problems by controlling environmental factors.",
+    "review": "My experience of 2 years, after trying out many brands is that pet pattern is the best both quality and quantity wise . Fits the pocket and best to use. Lumps very well, no foul odour and with bearable dust .",
+    "expected-output": "The seller describes the cat litter as 99.95% dust-free, with hard clumping, hypoallergenic properties, and efficient moisture absorption, ensuring a clean and healthy environment for cats. The buyer, after two years of use and comparing other brands, is highly satisfied, praising its superior clumping ability, effective odor control, and minimal dust, all of which align with the seller's promises. Additionally, the buyer highlights the product's affordability as a significant advantage, making it the best choice for their needs. The product meets or exceeds expectations, delivering on all key features described.",
+    "label": "1:Here buyer agreed with the seller"
+}

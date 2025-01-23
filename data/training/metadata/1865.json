@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1865.jpg",
+    "seller_image": "data/seller_images/1865.jpg",
+    "seller_description": "The tissue carrier enhances dimensional stability and improves conversions, offering better strength and increased efficiency. It is designed to perform well on multiple surfaces, ensuring reliable and consistent results across various applications.",
+    "review": "The tape glue is very good but the width is very less so not so limited use. If small width is required for it is good but otherwise checkout for something else.",
+    "expected-output": "The seller's description emphasizes the tape's strength, stability, and suitability for various applications, highlighting its reliable performance on multiple surfaces. The buyer's review, however, mentions that while the glue is effective, the tape's width is too narrow for broader uses, suggesting it may only be suitable for specific tasks. This indicates a slight mismatch between the seller's implied versatility and the buyer's needs, as the buyer found the product limited by its width. Overall, the buyer seems somewhat satisfied with the glue quality but notes that the product may not be suitable for all purposes. The fault lies in the buyer's specific requirements rather than the product's performance, though the buyer's dissatisfaction stems from the tape's narrow width.",
+    "label": "-1: Buyer's opinion"
+}

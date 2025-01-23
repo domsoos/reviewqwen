@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/2621.jpg",
+    "seller_image": "data/seller_images/2621.jpg",
+    "seller_description": "This set of heavy-duty plastic vacuum compression storage bags is perfect for saving space and protecting your belongings. Designed to compress bulky textiles, clothing, linens, and more by up to 80%, these bags are an ideal solution for maximizing storage. They safeguard items from moisture, dirt, insects, mold, odors, and other potential damage. Each bag features a heavy-duty valve and a double-seal zipper to ensure airtight protection. The pack includes five large bags (80 x 60 cm) and comes with a convenient hand pump, or you can connect the bags to any standard vacuum cleaner hose for quicker results.",
+    "review": "The bags seemed okay at first, but they do not compress properly. The valve system is faulty and allows air back in almost immediately after compressing.",
+    "Expected-output": "The seller images and description highlight airtight seals and effective compression, but the buyer's image shows air re-entering the bag, suggesting the valve system is defective. This discrepancy shows the seller's claim of airtight protection is unfulfilled. The buyer's dissatisfaction stems from the product not meeting the advertised functionality. Fault lies with the seller.",
+    "label": "-1 buyers opinion"
+}

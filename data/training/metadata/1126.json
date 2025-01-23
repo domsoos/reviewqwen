@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1126.jpg",
+    "seller_image": "data/seller_images/1126.jpg",
+    "seller_description": "This wristwatch features a sleek black dial and case with a 22mm soft silicone black strap for comfort and style. The case is made from IP black-plated brass, ensuring durability and a premium finish. The package includes one wristwatch and a warranty card. It is backed by a 1-year manufacturer\u2019s warranty, covering all manufacturing defects, including machine movement, but excluding damages from wear and tear, mishandling, and the cell. With a round shape and no bezel, this watch combines functionality with a minimalist design, making it a versatile accessory for everyday wear.",
+    "review": "Watch is good but Watch band could be more better",
+    "expected-output": "The seller describes a wristwatch with a sleek black dial, a durable IP black-plated brass case, and a soft 22mm silicone strap, emphasizing both comfort and style. The package includes a warranty covering manufacturing defects but excludes wear-and-tear-related issues. The buyer\u2019s review indicates satisfaction with the watch itself, describing it as good, but they express dissatisfaction with the quality of the strap, suggesting it could be more better. This critique points to a personal expectation of higher strap quality rather than a direct fault in the product as described. The seller accurately advertises the strap as a 22mm soft silicone band, and the buyer does not suggest that the strap deviates from this description. Therefore, this feedback appears to be more of a subjective opinion rather than evidence of a significant mismatch between the product and its description.",
+    "label": "-1: Buyer's opinion"
+}

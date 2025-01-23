@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/2451.jpg",
+    "seller_image": "data/seller_images/2451.jpg",
+    "seller_description": "Our high-quality black travel umbrella is crafted with premium materials for exceptional durability and reliability in all weather conditions. Featuring a double-vented canopy and a sturdy fiberglass-covered frame, it\u2019s engineered to withstand strong winds and heavy rain, making it the perfect windproof umbrella for travelers. The auto open/close function adds convenience, while its lightweight and compact design ensures easy portability, fitting comfortably in a purse, backpack, or car. Built to last, this umbrella offers excellent protection against rain and UV rays, and its waterproof-coated canopy repels water, ensuring long-lasting performance at an affordable price. Whether for everyday use or travel, this compact umbrella is the ideal companion for all occasions.",
+    "review": "The umbrella broke on the very first use. The handle snapped off, and it was clearly made of cheap materials. Extremely disappointed considering the premium price.",
+    "Expected-output": "The seller's images showcase a robust and durable umbrella with a sturdy handle and premium materials. However, the buyer's image clearly depicts a broken handle, indicating a lack of quality and durability in the actual product. The seller's description of a 'premium and reliable design' does not align with the buyer's experience. This discrepancy highlights a failure in delivering the promised product quality, making the seller at fault.",
+    "label": "0:Here seller is at fault"
+}

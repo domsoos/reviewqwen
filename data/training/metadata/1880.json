@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1880.jpg",
+    "seller_image": "data/seller_images/1880.jpg",
+    "seller_description": "Loctite Super Glue Power Gel is a versatile adhesive with a special rubber-infused, non-drip formula that provides powerful, precise bonds on flexible materials and vertical surfaces. Ideal for use on wood, plastic, rubber, leather, porcelain, and paper, this universal glue offers high control with its easy-grip squeeze bottle and long nozzle, ensuring smooth and accurate applications even in hard-to-reach spots. The glue is resistant to both weather and shock, bonding in seconds and drying transparent to leave a clean finish. The package contains a 4g tube of Loctite Super Glue Power Gel, providing durable, reliable adhesion for a variety of surfaces and applications.",
+    "review": "I didn\u2019t realise quite how small this was but I probably should have checked that before I ordered. Glue seems good just not very much",
+    "expected-output": "The seller describes the Loctite Super Glue Power Gel as a versatile adhesive suitable for various materials, with a non-drip formula and high control for precise application. The buyer's review mentions that while the glue seems effective, they were surprised by the small size of the package. This is a case where the buyer's dissatisfaction stems from the product's size rather than its performance, and the buyer acknowledges that this could have been avoided by checking the product details before ordering. The fault lies with the buyer for not confirming the size, as the seller's description accurately conveyed the product's characteristics.",
+    "label": "-1: Buyer's opinion"
+}

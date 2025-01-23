@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/2690.jpg",
+    "seller_image": "data/seller_images/2690.jpg",
+    "seller_description": "The Auxter Black Gym Bag/Duffel Bag is crafted with premium leatherette fabric on the outside and soft polyester lining on the inside, measuring 43 cm x 23 cm x 23 cm (L x B x H) with a 23-liter capacity. It features a large double-zip closure main compartment for gym essentials like clothes, belts, gloves, towels, a shaker, and shoes, along with an external mesh organizer pocket for earphones, ID cards, sanitizers, keys, and fitness bands. Designed with a self-embossed logo on heavy-quality material, it includes a 3.8 cm wide, 125 cm long adjustable handle and double side carry handles for convenience. Proudly made in India by The Indian Karigar, it undergoes rigorous quality checks and comes with a 1-year warranty. Suitable for men, women, boys, and girls, it serves as a gym bag, day trip bag, travel bag, or casual round bag, and is also a trending gift option.",
+    "review": "The zipper on the bag broke on the very first use, and the overall material feels flimsy. Completely disappointed!",
+    "Expected-output": "The seller emphasizes the use of heavy-quality material and a durable design with a large double-zip compartment. The buyer's image shows a broken zipper, contradicting the durability claims in the seller's description. Although the external design aligns with the seller's images, the functional flaw points to a defect in manufacturing or material quality. The fault lies with the seller for not ensuring product functionality and quality.",
+    "label": "-1 buyers opinion"
+}

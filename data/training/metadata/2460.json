@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/2460.jpg",
+    "seller_image": "data/seller_images/2460.jpg",
+    "seller_description": "Keep track of your essentials effortlessly with the Tile Everything Tracker, designed to protect lost or stolen items and make everyday life more convenient. Attach it to keys, bags, water bottles, or other frequently misplaced items, and locate them using the free Tile app with a 350-foot Bluetooth range. Stay safe with the discreet SOS alert feature, letting you notify loved ones in unsafe situations. Misplaced your phone? Use your Tile to make it ring, even when it\u2019s on silent. Seamlessly integrate your Tiles with the Life360 app for a comprehensive family connection and safety map. Compatible with iOS and Android, the Tile tracker offers up to 3 years of battery life, is water-resistant (IP68 rated), and makes a practical, thoughtful gift for friends and family. Compact and durable, Tile ensures you always stay connected to the things that matter most.",
+    "review": "The packaging was torn and damaged upon arrival, which left a poor impression. It made me question the overall quality of the product.",
+    "Expected-output": "The seller's description emphasizes a durable and practical product, but the buyer's image of damaged packaging undermines the credibility of the product's quality and handling. This reflects a fault on the seller's side for inadequate shipping standards or quality checks.",
+    "label": "0:Here seller is at fault"
+}

@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1025.jpg",
+    "seller_image": "data/seller_images/1025.jpg",
+    "seller_description": "This stylish and functional backpack combines practicality with safety features, offering a soft mesh back with 8mm foam padding for comfort. It includes two main compartments, a slip-in pocket inside for organized storage, a printed design for added style, and a mesh bottle holder on the side for convenience. Measuring 35 x 13 x 46 cm, this backpack is designed for everyday use but is not water-resistant.",
+    "review": "Must buy the bagpack very good product by skybag, Amazon and affordable prices",
+    "expected-output": "The seller's description of the backpack aligns well with the buyer's experience as expressed in their review. The seller's description emphasizes the stylish design, soft mesh back padding, and functional features like two compartments, a slip-in pocket for organized storage, and a side mesh bottle holder. Additionally, the dimensions provided by the seller (35 x 13 x 46 cm) suggest practicality for everyday use. The buyer’s review is positive, describing the product as a must-buy, affordable, and of good quality, indicating satisfaction with the backpack. The images from both the seller and buyer show the product as described, with no visible discrepancies in appearance or design. Thus, the buyer’s satisfaction stems from the product meeting their expectations, and there are no faults attributable to the seller in this case.",
+    "label": "1:Here buyer agreed with seller"
+}

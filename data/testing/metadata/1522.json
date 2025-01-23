@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1522.jpg",
+    "seller_image": "data/seller_images/1522.jpg",
+    "seller_description": "This cat food is specifically formulated for house cats, promoting healthy skin and a beautiful coat. The bag packaging ensures convenience and freshness, providing your feline with the essential nutrients for a glossy, soft coat and overall wellness. Ideal for maintaining skin health and providing optimal nutrition.",
+    "review": "I have been buying it for years now, and my cats they always gobble it up. BTW, they are strays, still they sometimes do bring along their friends and family to eat. Dry cat food with Star shaped eatables. Doesn't smell, easy to handle and stays fresh for long.",
+    "expected-output": "The seller promotes the cat food as ideal for house cats, emphasizing nutritional benefits for healthy skin, a glossy coat, and overall wellness, with convenient bag packaging to ensure freshness. The buyer, who has been using the product for years to feed stray cats, is highly satisfied, noting the cats love it so much they often bring 'friends and family' to share. The star-shaped pieces are a fun and attractive design, and the food is praised for being odor-free, easy to handle, and staying fresh for a long time. The seller has successfully met their promises, delivering a product that is nutritious, convenient, and appealing to cats. To build on this success, the seller should continue maintaining quality, emphasize the fun design in marketing, and consider loyalty incentives for long-term customers.",
+    "label": "1:Here buyer agreed with the seller"
+}

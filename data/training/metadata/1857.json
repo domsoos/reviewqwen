@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1857.jpg",
+    "seller_image": "data/seller_images/1857.jpg",
+    "seller_description": "This adhesive tape offers excellent holding power, ensuring that the package stays securely sealed. It features a wide service temperature range, making it suitable for most applications, and adheres easily to even slightly irregular surfaces. Non-toxic and conforming to ASTM D-4236 standards, it provides a safe and reliable solution for a variety of packaging and sealing needs.",
+    "review": "It's so expensive so I switch my plan and I bought one tape roll in 40 rupees at hardware shop.",
+    "expected-output": "The seller's description emphasizes the adhesive tape's excellent holding power, wide service temperature range, and suitability for packaging and sealing needs. The tape is also non-toxic and conforms to ASTM D-4236 standards. The buyer\u2019s review expresses dissatisfaction, stating that the tape was expensive and that they switched their plan to buy a cheaper tape roll at a local hardware shop. The buyer is not unhappy with the product\u2019s functionality but with its price, which they felt was too high compared to alternatives available in the market. This seems to be a personal opinion on the cost rather than a product fault, as the seller's description accurately describes the tape\u2019s features. Therefore, the buyer's dissatisfaction is based on price perception rather than product quality.",
+    "label": "-1: Buyer's opinion"
+}

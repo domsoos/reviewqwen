@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1866.jpg",
+    "seller_image": "data/seller_images/1866.jpg",
+    "seller_description": "The tissue carrier enhances dimensional stability and improves conversions, offering better strength and increased efficiency. It is designed to perform well on multiple surfaces, ensuring reliable and consistent results across various applications.",
+    "review": "No primer only tape",
+    "expected-output": "The seller's description highlights the tape's dimensional stability, strength, and efficiency across various surfaces, but the buyer's review mentions a lack of primer, which was expected based on the product details or past experiences. This discrepancy suggests that the buyer's expectations were not met, as the absence of the primer was an important factor for them. The buyer seems dissatisfied because the product did not include all components as expected, particularly the primer, which could affect its performance. The fault appears to lie with the seller, as the product description may have led the buyer to expect the primer to be included.",
+    "label": "0:Here seller is at fault"
+}

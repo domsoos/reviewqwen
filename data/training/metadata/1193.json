@@ -1,0 +1,11 @@
+{
+    "buyer_image": "data/buyer_images/1193.jpg",
+    "seller_image": "data/seller_images/1193.jpg",
+    "seller_description": "This premium Acnos analog watch features a round design with a durable stainless steel band that combines style and comfort, fitting most wrists securely with a buckle clasp. Powered by reliable quartz movement, it offers precise timekeeping and water resistance up to 30 meters, making it suitable for daily wear. With a minimalist design featuring no bezel, it exudes understated elegance. Backed by a 1-year manufacturer warranty, this watch comes in a beautiful box, making it a perfect and classy gift option for girls.",
+    "review": "Waste of money.",
+    "expected-output":"The review reflects dissatisfaction due to the poor condition or quality of the watch received. The issue lies with the seller, as the product delivered does not align with the advertised durability and quality claims. The buyer’s broad statement of dissatisfaction as Waste of money is justified given the apparent physical defect.",
+    "label":"0: Here seller is at fault."
+ 
+
+
+}

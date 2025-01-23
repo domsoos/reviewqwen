@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/2703.jpg",
+    "seller_image": "data/seller_images/2703.jpg",
+    "seller_description": "Fast and powerful, this device offers a seamless HD streaming experience perfect for both new users and seasoned pros. Its quick guided setup lets you start streaming effortlessly\u2014just plug it into your TV, connect to the internet, and go, with no power adapter needed. Enjoy a massive selection of free, live, and premium TV, including over 400 free live TV channels. The included standard remote features only the essential buttons, including shortcuts to popular channels, making navigation simple. With automatic software updates, you\u2019ll always have access to the latest features, newest channels, and more.",
+    "review": "Life\u2019s simplest pleasures are often the most profound, like a fresh cup of coffee on a rainy day or discovering a product that works flawlessly. It\u2019s those tiny moments of joy that make everything worthwhile.",
+    "Expected_output": "The seller\u2019s description emphasizes the ease of use, essential functionality, and compatibility with major streaming platforms. The buyer's image verifies the product matches the seller's representation visually. In their review, the buyer mentions a minor concern about button placement but appreciates the overall design. This observation reflects a subjective viewpoint, as the product aligns with the seller\u2019s description in all essential aspects. The product is consistent with its advertised features, and the buyer\u2019s feedback is purely a matter of personal opinion.",
+    "label": "-1: buyers opinion"
+}

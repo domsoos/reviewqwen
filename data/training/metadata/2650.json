@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/2650.jpg",
+    "seller_image": "data/seller_images/2650.jpg",
+    "seller_description": "The Wipro LED Bulb offers a wide 220-degree light coverage, providing brighter illumination for your home. With a 10W wattage and cool day white (6500K) color, it delivers efficient lighting. The bulb features a B22 base, making it compatible with regular sockets. It operates within a wide voltage range of 150-300VAC and includes high voltage protection up to 400VAC, along with surge protection up to 4 kV, ensuring durability and longevity. Energy-efficient, the LED bulb saves up to 50% in energy costs compared to conventional lights. Equipped with LM 80 tested LEDs, it promises a long lifespan. Ideal for living rooms, corridors, bedrooms, kitchens, and shops, it comes with a 1-year warranty from the date of purchase.",
+    "review": "The bulb heats up excessively after just 10 minutes of use, which makes it unusable in my small room. This is not energy-efficient at all.",
+    "Expected-output": "The buyer's review mentions excessive heating of the bulb, contradicting the seller's description of energy efficiency and safety features like high voltage and surge protection. The seller's image does not depict any signs of heating issues. The buyer's image does not provide visual evidence of the issue but supports their dissatisfaction. The seller is at fault for the misleading description.",
+    "label": "-1 buyers opinion"
+}

@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1876.jpg",
+    "seller_image": "data/seller_images/1876.jpg",
+    "seller_description": "This protective eyewear is designed for maximum comfort and safety, featuring improved air circulation through strategically placed air vents and indirect porosity to enhance internal airflow. Made from durable polycarbonate aerospace material, it is heat-resistant, impact-resistant, and perfect for high-risk environments. The high-speed particle protection of the polycarbonate lenses can resist particles traveling at 45 m/s, safeguarding the eyes from steel filings, sand, gravel, and other debris. The high-definition clear lenses ensure excellent visibility in complex environments and can be worn over prescription glasses, meeting ANSI Z87.1 standards. Additionally, the unique anti-fog coating prevents water spray formation, while the four one-way vents allow ventilation without permitting splashes, offering protection against chemical splashes and enhancing overall safety during use.",
+    "review": "I like the clarity of the product, look, easy for use, Value for money & also comfort.",
+    "expected-output": "The seller describes the protective eyewear as durable, heat-resistant, and designed for comfort and safety, with features like high-speed particle protection, anti-fog coating, and ventilation. The buyer expresses satisfaction with the clarity, comfort, and overall value of the product. There are no discrepancies between the seller's description and the buyer's review. The buyer is satisfied with the product, and no issues are identified.",
+    "label": "1:Here buyer agreed with the seller"
+}

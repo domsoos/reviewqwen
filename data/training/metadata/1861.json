@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1861.jpg",
+    "seller_image": "data/seller_images/1861.jpg",
+    "seller_description": "The material offers excellent abrasion resistance, slip resistance, and is highly resistant to oil and acid, making it durable and reliable for use in challenging environments where protection against wear, slippery conditions, and harsh substances is essential.",
+    "review": "Bought 4 pair already. Quality and price is too good. Looks good light weight perfect fit and easy to use.",
+    "expected-output": "The seller's description emphasizes the material's durability, abrasion resistance, slip resistance, and resistance to oils and acids, indicating that it is suitable for challenging environments. The buyer's review, however, highlights satisfaction with the product's quality, price, appearance, lightweight design, perfect fit, and ease of use. There are no discrepancies between the seller's description and the buyer's review, as the buyer confirms the product's attributes align with the seller’s promises. The buyer is highly satisfied with the product, and there is no indication of fault with either the seller or the product itself.",
+    "label": "1:Here buyer agreed with the seller"
+}

@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/2636.jpg",
+    "seller_image": "data/seller_images/2636.jpg",
+    "seller_description": "The Control D Nebulizer is designed to provide effective nebulization for the entire family, featuring both adult and child-sized masks for easier inhalation. With a medication capacity of 5 ml and a power requirement of 230 V AC, 50 Hz, and 75 W power consumption, it ensures efficient atomization of medication into fine particles, allowing for more effective delivery to the respiratory tract. It does not work with water; instead, it converts medication into a mist that is inhaled at room temperature through the mask. The nebulizer comes with a 12-month warranty from the date of invoice. It\u2019s important to note that nebulizers convert medicine into mist, while steamers convert water into hot steam, and these two products should not be confused, as they serve different respiratory care purposes.",
+    "review": "The color of the nebulizer in real life looks slightly off-white compared to the images online, which feels misleading.",
+    "Expected-output": "The buyer points out a minor color difference between the product images and the actual product. The seller\u2019s description and images focus on functionality and do not emphasize specific color details. The product performs as described in the seller\u2019s description and matches the images in terms of features. The fault lies with the buyer\u2019s subjective expectations rather than the seller.",
+    "label": "-1 buyers opinion"
+}

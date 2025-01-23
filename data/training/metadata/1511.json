@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1511.jpg",
+    "seller_image": "data/seller_images/1511.jpg",
+    "seller_description": "This dog food is enriched with Omega 3 and 6 fatty acids to promote healthy skin and a shiny coat, while antioxidants help support a strong immune system. Probiotics in the dry formula aid in maintaining digestive health, and glucosamine helps maintain healthy joints and strong bones. It also provides essential vitamins and minerals for complete and balanced nutrition. Perfectly designed for dogs, this food comes in a convenient bag container for easy storage and serving.",
+    "review": "Received only one bag of MeatUp instead of 2. Please refund or send the missing bag.",
+    "expected-output": "The seller advertises the dog food as promoting healthy skin, a shiny coat, a strong immune system, digestive health, and joint strength, with essential vitamins and minerals for balanced nutrition, packaged conveniently for storage and serving. However, the buyer's dissatisfaction stems from receiving only one bag instead of the two they ordered, highlighting an issue with order fulfillment rather than product quality. The buyer is requesting a resolution through a refund or the delivery of the missing bag. This underscores the need for the seller to promptly address fulfillment errors by resolving the complaint and ensuring future orders are correctly packed. Maintaining a seamless fulfillment process alongside the product's positive attributes is essential for customer satisfaction and trust.",
+    "label": "0:Here seller is at fault"
+}

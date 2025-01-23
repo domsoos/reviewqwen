@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/2546.jpg",
+    "seller_image": "data/seller_images/2546.jpg",
+    "seller_description": "The 33KM/H Speedy 1:12 RC Car is an off-road monster truck that delivers thrilling racing experiences with its powerful RC 380 motor, reaching speeds of up to 33 km/h. It features a 2.4GHz remote controller with a control distance of 50 meters, ensuring a lag-free racing experience. The car's ABS chassis and aluminium alloy body provide exceptional durability, impact resistance, and reduced weight, making it perfect for rough terrain. Equipped with LED headlights and chassis lights, this realistic RC truck lights up the road for nighttime adventures. Powered by a 7.4V 1400mAh Li-ion rechargeable battery (2 batteries included), it offers up to 70 minutes of continuous playtime (35 minutes per battery). This RC car makes a perfect gift for birthdays and special occasions, offering endless fun for both kids and adults.",
+    "review": "The car's LED headlights stopped working after a few uses, and the overall build quality feels cheap despite the advertised durable aluminium alloy body.",
+    "Expected-output": "The buyer is dissatisfied because the product's durability and features, such as LED headlights, do not meet the seller's description, making the seller accountable for the shortcomings.",
+    "label": "0:Here seller is at fault"
+}

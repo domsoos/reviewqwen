@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1948.jpg",
+    "seller_image": "data/seller_images/1948.jpg",
+    "seller_description": "This set includes 10 grey shoe bags made from water-resistant and dirt-proof nonwoven material, ensuring your shoes stay protected during travel. The bags feature a transparent window design, allowing you to easily identify your shoes without rummaging through the bag. They help keep your shoes dust-free, trap odors, and prevent stains from transferring to other clothing, making them ideal for both home use and travel. Crafted from high-quality materials, these shoe bags are a must-have travel accessory, perfect for organizing and protecting your footwear on the go.",
+    "review": "I like the quality, price n size of the product, u can organize your foot wear n also used for travelling propose, u can buy it with out any second thought",
+    "expected-output": "The buyer's review reflects satisfaction with the product, noting that the quality, price, and size meet expectations. The buyer appreciates the bags' ability to organize footwear and their suitability for travel, recommending them without hesitation. This aligns well with the seller's description, which highlights the bags' durability, usefulness for travel, and ability to organize shoes. In this case, the buyer's positive experience supports the seller's claims, and there are no discrepancies or issues identified.",
+    "label": "1:Here buyer agreed with the seller"
+}

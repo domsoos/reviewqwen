@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1982.jpg",
+    "seller_image": "data/seller_images/1982.jpg",
+    "seller_description": "This leather wallet features 7 in-built credit card slots, 1 transparent ID window, 2 secret compartments, 2 money compartments, 1 zipper compartment, and a coin pocket, providing ample space and organization for all your essentials. It's designed for extra comfort, making it easy to carry all your needs in one stylish and functional wallet.",
+    "review": "This item is quality not properly west quality",
+    "expected-output": "The buyer's review indicates dissatisfaction with the quality of the leather wallet, describing it as not properly and west quality, which suggests poor workmanship or material. The seller's description emphasizes the wallet's organizational features and comfort, providing a functional and stylish product. However, the discrepancy between the buyer's expectations and the actual quality of the wallet highlights a mismatch. The issue seems to lie with the quality of the materials or construction, which does not meet the buyer\u2019s expectations. Therefore, the fault can be attributed to the seller for not delivering a product of satisfactory quality, as suggested by the buyer's experience.",
+    "label": "-1: Buyer's opinion"
+}

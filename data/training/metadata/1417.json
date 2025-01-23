@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1417.jpg",
+    "seller_image": "data/seller_images/1417.jpg",
+    "seller_description": "Experience breezy comfort and effortless style with Paragon men's flip-flop slippers, designed for easy walking and durability during the rainy season. Crafted by Paragon Polymer Products Private Limited, these lightweight slippers weigh just 336 g and measure 30 x 11.2 x 5 cm, ensuring a comfortable fit. Packaged as a single set, they are perfect for those seeking reliable, stylish footwear for wet weather.",
+    "review": "Nyc but white patty remove one month",
+    "expected-output": "The seller describes the Paragon men's flip-flop slippers as lightweight, durable footwear designed for comfort and reliability, especially during the rainy season. With specifications like a weight of 336 g and dimensions of 30 x 11.2 x 5 cm, the product emphasizes practicality and style. However, the buyer's review mentions that while the product is 'nice,' the white strap ('patty') detached within one month of use. This indicates dissatisfaction due to the durability not meeting the expectations set by the seller's description, which promised reliability and long-lasting comfort. The failure of the strap within a short time frame reflects a discrepancy between the seller's claims and the product's performance. The fault lies with the seller for not delivering a product that aligns with the advertised durability, leading to a subpar experience for the buyer.",
+    "label": "0: Here seller is at fault"
+}

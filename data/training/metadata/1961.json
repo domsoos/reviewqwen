@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1961.jpg",
+    "seller_image": "data/seller_images/1961.jpg",
+    "seller_description": "This lightweight luggage features a textured, scratch-resistant polycarbonate shell for durability and style. It comes equipped with a combination lock for added security and 8 wheels with smooth maneuverability, complemented by colored wheel caps that enhance its premium appearance. With dimensions of 65x45x30 cm, this suitcase meets most domestic check-in size requirements, making it a practical and stylish travel companion.",
+    "review": "I purchased it after reading all the good reviews and I had not disappointed me. It is a really good looking,affordable and sturdy bag. Can go for it without a doubt.",
+    "expected-output": "The buyer's review is highly positive, stating that the product met their expectations and was a good purchase based on the positive reviews they read. The seller's description also aligns with the buyer's experience, highlighting the durability, stylish appearance, and practicality of the suitcase. The buyer seems satisfied with the product, confirming that it lives up to the seller's claims and is a good, affordable option. There are no discrepancies between the product description and the buyer's review, indicating that the seller has delivered as promised.",
+    "label": "1:Here buyer agreed with the seller"
+}

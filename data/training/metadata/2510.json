@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/2510.jpg",
+    "seller_image": "data/seller_images/2510.jpg",
+    "seller_description": "Experience the water with the Intex Challenger K1 Kayak, a durable and lightweight option for solo adventurers. Crafted from SuperStrong enhanced molecular formulation PVC, this kayak boasts superior strength, impact resistance, and durability for long-lasting use. Its streamlined low-profile design ensures easy paddling in lakes and mild rivers, while the spacious cockpit features removable and adjustable seats for optimal comfort and ample legroom. The removable skeg provides excellent directional stability, making it easy to stay on course. Measuring 9 feet x 2.6 feet x 1.1 feet when inflated, it supports up to 220 pounds and conveniently folds into a carry bag for effortless transport. Ideal for 1-person use, this kayak is perfect for exploring the great outdoors.",
+    "Review": "The kayak\u2019s seams began leaking within a few hours, and it barely stayed inflated. Not usable for outdoor activities.",
+    "Expected-output": "The buyer's images depict leakage along the seams, which undermines the seller's assurance of a 'durable and lightweight' kayak. The discrepancy between the seller's promises and the delivered product indicates the fault lies with the seller for not ensuring the product's functionality.",
+    "label": "0:Here seller is at fault"
+}

@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1598.jpg",
+    "seller_image": "data/seller_images/1598.jpg",
+    "seller_description": "This kitten food features sardine, mackerel, and eggs as primary ingredients, providing high-quality protein, antioxidants, and essential nutrients that promote your kitten's health. Enriched with Omega-3 and Omega-6 fatty acids, it supports healthy skin and a lustrous coat, while promoting optimum growth, better digestibility, and overall well-being. Additionally, it helps control urinary pH, ensuring a balanced and healthy diet for your growing kitten.",
+    "review": "I am upset, I purchased this on second time but this time box received in damaged condition. No use of it.",
+    "expected-output": "The seller advertises kitten food made with sardine, mackerel, and eggs, offering high-quality protein and enriched with Omega-3 and Omega-6 fatty acids for healthy skin and a shiny coat. It claims to support optimum growth, better digestibility, and overall well-being while helping to control urinary pH. The buyer reported disappointment due to receiving the box in a damaged condition, rendering the product unusable. This issue points to problems with shipping and packaging rather than the product's quality. To address this, the seller should improve packaging, offer replacements or refunds for damaged goods, and enhance quality control during shipping to prevent similar issues.",
+    "label": "0:Here seller is at fault"
+}

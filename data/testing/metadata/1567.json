@@ -1,0 +1,9 @@
+{
+    "buyer_image": "data/buyer_images/1567.jpg",
+    "seller_image": "data/seller_images/1567.jpg",
+    "seller_description": "Whiskas Dry Cat Food provides complete and balanced nutrition for adult cats (1+ years), offering a delicious Tuna flavor that cats love. Made with quality ingredients, this nourishing food is packed with 41 essential nutrients, including 23 vitamins and minerals, to keep your cat lively and energetic. It contains antioxidants, Omega 6, and Zinc for a healthy coat, along with Vitamin A and Taurine for healthy eyesight. Additionally, Calcium, Phosphorus, and Vitamin D support strong teeth and bones, making it a well-rounded meal for your cat's overall health and well-being.",
+    "review": "My cat love this food. He only eats whiskas cat food. He eats all the flavours of this food. I'm buying this for my cat more than one year. After giving him this he is more energetic and active and he eats it well than other brand's food.",
+    "expected-output": "Seller's Description: Whiskas Dry Cat Food offers complete and balanced nutrition for adult cats (1+ years), available in Tuna flavor. It includes 41 essential nutrients, 23 vitamins and minerals, antioxidants, Omega 6, and Zinc for a healthy coat, Vitamin A and Taurine for eyesight, and Calcium, Phosphorus, and Vitamin D for strong teeth and bones.Buyer's Review: The buyer is highly satisfied, stating that their cat loves the food, is more energetic and active, and prefers it over other brands. They have been purchasing Whiskas for over a year and have seen positive health benefits in their cat.Analysis: The seller promises a complete and nutritious food for adult cats, supporting various aspects of health. The buyer’s experience aligns well with these claims, as the food has visibly benefited their cat’s energy levels and overall health.",
+    "label": "1:Here buyer agreed with the seller"
+
+}

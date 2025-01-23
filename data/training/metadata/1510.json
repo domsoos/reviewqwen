@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1510.jpg",
+    "seller_image": "data/seller_images/1510.jpg",
+    "seller_description": "This dog food is enriched with Omega 3 and 6 fatty acids to promote healthy skin and a shiny coat, while antioxidants help support a strong immune system. Probiotics in the dry formula aid in maintaining digestive health, and glucosamine helps maintain healthy joints and strong bones. It also provides essential vitamins and minerals for complete and balanced nutrition. Perfectly designed for dogs, this food comes in a convenient bag container for easy storage and serving.",
+    "review": "Very good product I purchased it for my stray dogs very good product",
+    "expected-output": "The seller advertises the dog food as providing complete and balanced nutrition, with Omega 3 and 6 for healthy skin and a shiny coat, antioxidants for a strong immune system, probiotics for digestive health, glucosamine for healthy joints and bones, and essential vitamins and minerals. The buyer describes the product as very good, using it to feed stray dogs, indicating satisfaction with its quality and suitability for animals with varied nutritional needs. No concerns or issues were raised regarding packaging, price, or performance, suggesting the product aligns well with the seller's claims. The positive feedback highlights the product’s reliability and quality. To build on this, the seller should continue maintaining high standards and encourage similar reviews to reinforce the product's reputation and customer trust.",
+    "label": "1:Here buyer agreed with the seller"
+}

@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/2613.jpg",
+    "seller_image": "data/seller_images/2613.jpg",
+    "seller_description": "This large storage bag, with a capacity of 69.55 liters and dimensions of 54 x 46 x 28 cm, is a versatile and space-saving solution for your wardrobe and household needs. It is foldable when not in use, collapsing flat to save precious storage space. Crafted from waterproof fabric, the bag combines durability with an elegant design, ensuring long-term and frequent use. The top zipper allows easy opening and closing, and it features a zippered pocket for added convenience. Ideal for storing clothes, bedding, and less frequently used items, it fits perfectly in storage beds, closets, and cabinets. Providing complete protection against dust and moisture, this bag is a reliable choice for organizing and safeguarding your belongings.",
+    "review": "The storage bag couldn't withstand being used as a tent for my pet rabbit. The material was chewed through within a day. Not suitable for animals.",
+    "Expected-output": "The review highlights a use case that is outside the intended purpose of the storage bag as described by the seller. The seller images and description promise a bag suitable for storing clothes, bedding, and similar items with protection against dust and moisture. However, the buyer used it for an unintended purpose, leading to dissatisfaction. This appears to be a personal opinion about the product and does not reflect a fault with the seller's item.",
+    "label": "-1 buyers opinion"
+}

@@ -1,0 +1,9 @@
+{
+    "buyer_image": "data/buyer_images/1547.jpg",
+    "seller_image": "data/seller_images/1547.jpg",
+    "seller_description": "Whiskas Adult Wet Cat Food, Chicken in Gravy, provides 100% complete and balanced nutrition for cats over 1 year of age. This high-moisture food is easy to eat and digest, supporting your cat's hydration needs. Made with real chicken, it offers a delicious gravy texture and aroma that appeals to even the fussiest eaters. Packed with vitamins, minerals, and quality protein, it promotes healthy muscles, while Omega-6 fatty acids and Zinc support a healthy skin and coat. Antioxidants help strengthen your cat's natural defenses, ensuring overall health and vitality.",
+    "review": "This has to be the worst delivery I've seen in my life. The box has a rotten stench, the packets were open and there were maggots! This was traumatic. Threw the complete box, hopefully replacement won't be same.",
+    "expected-output": "The seller describes Whiskas Adult Wet Cat Food as a nutritious and hydrating meal for adult cats, promising 100% complete and balanced nutrition with benefits like a healthy coat, better digestion, and enhanced muscle health. However, the buyer’s experience was highly negative, citing severe delivery issues with open packets, a rotten stench, and maggots in the product, leading them to discard the entire package. This indicates significant lapses in packaging or storage that failed to uphold the seller's quality promises. The fault lies with the seller for not ensuring proper handling and delivery conditions, leading to a disappointing customer experience",
+    "label": "0:Here seller is at fault"
+
+}

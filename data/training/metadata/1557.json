@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1557.jpg",
+    "seller_image": "data/seller_images/1557.jpg",
+    "seller_description": "Pedigree Puppy Dry Dog Food provides complete and balanced nutrition for growing puppies. The Chicken & Milk flavor is packed with delicious kibbles that your puppy will love. Made with high-quality ingredients, including chicken and milk, this food supports proper nutrition. Developed by experts, it contains 37 essential nutrients that aid in your puppy’s healthy growth. The food helps promote strong muscles and bones with high-quality protein and calcium, supports brain and vision development with DHA, and boosts natural defenses with Vitamin E and Selenium. Ideal for puppies, it comes in a convenient bag for easy storage.",
+    "review": "Last time I bought the same one from near by shop that was too good and our pet liked much. This one I see lot of size and color differences. It not crunchy my pet dislikes to eat. Also quantity is very very less.",
+    "expected-output": "The seller describes the product as high-quality, balanced puppy food with 37 essential nutrients to support healthy growth, strong muscles, and brain development, emphasizing its crunchiness and appeal to pets. The buyer, however, notes differences in size, color, texture, and quantity compared to a previous purchase from a local shop, stating that their pet dislikes this version. These discrepancies suggest the product delivered does not align with the seller's promises or the buyer's expectations.The buyer's dissatisfaction stems from the product not meeting the advertised qualities in terms of texture, quantity, and overall appeal, making the seller responsible for the shortcomings.",
+    "label": "0:Here seller is at fault"
+}

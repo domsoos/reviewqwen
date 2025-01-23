@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/2614.jpg",
+    "seller_image": "data/seller_images/2614.jpg",
+    "seller_description": "This large storage bag, with a capacity of 69.55 liters and dimensions of 54 x 46 x 28 cm, is a versatile and space-saving solution for your wardrobe and household needs. It is foldable when not in use, collapsing flat to save precious storage space. Crafted from waterproof fabric, the bag combines durability with an elegant design, ensuring long-term and frequent use. The top zipper allows easy opening and closing, and it features a zippered pocket for added convenience. Ideal for storing clothes, bedding, and less frequently used items, it fits perfectly in storage beds, closets, and cabinets. Providing complete protection against dust and moisture, this bag is a reliable choice for organizing and safeguarding your belongings.",
+    "review": "The storage bag doesn't fit my entire wardrobe, which includes over 100 dresses and suits. I expected it to be larger.",
+    "Expected-output": "The seller explicitly describes the kettle as having a stainless steel body, and the images clearly show the polished metallic finish. The buyer\u2019s expectation of a glass body is inconsistent with what was advertised. The buyer\u2019s images confirm that the kettle received matches the seller\u2019s description and images. The dissatisfaction here is due to a personal preference and not a misrepresentation by the seller",
+    "label": "-1 buyers opinion"
+}

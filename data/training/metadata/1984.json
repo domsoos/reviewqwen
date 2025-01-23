@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1984.jpg",
+    "seller_image": "data/seller_images/1984.jpg",
+    "seller_description": "This leather wallet features 7 in-built credit card slots, 1 transparent ID window, 2 secret compartments, 2 money compartments, 1 zipper compartment, and a coin pocket, providing ample space and organization for all your essentials. It's designed for extra comfort, making it easy to carry all your needs in one stylish and functional wallet.",
+    "review": "Very disappointed to get a totally different one compared to what has given in the original product photo. Based on the look i infact, referred to some of my friends, now I needn't caution them that this is fraud.",
+    "expected-output": "The buyer's review expresses clear dissatisfaction, stating that the product received is completely different from what was shown in the original product photo. This mismatch led to disappointment, as the buyer had even referred the product to friends, now feeling the need to caution them. The seller's description highlights the wallet's features and organization, but there is no mention of any potential differences in appearance or variations in the product\u2019s visual representation. The discrepancy here appears to be related to the product's appearance, as the buyer expected a different design or color. The fault lies with the seller, who did not accurately represent the product in the photos, leading to the buyer's dissatisfaction.",
+    "label": "-1: Buyer's opinion"
+}

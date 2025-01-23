@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1958.jpg",
+    "seller_image": "data/seller_images/1958.jpg",
+    "seller_description": "This lightweight luggage features a textured, scratch-resistant polycarbonate shell for durability and style. It comes equipped with a combination lock for added security and 8 wheels with smooth maneuverability, complemented by colored wheel caps that enhance its premium appearance. With dimensions of 65x45x30 cm, this suitcase meets most domestic check-in size requirements, making it a practical and stylish travel companion.",
+    "review": "Nice color. Same as shown. Smooth wheels. Good capacity than other trolley's in the same size. It's 90 ltrs. And others vary from 62 to 82 ltrs.",
+    "expected-output": "The buyer is satisfied with the product, highlighting that it matches the seller's description in terms of color, capacity, and smoothness of the wheels. The suitcase provides better capacity (90 liters) compared to others of similar size, which is an added benefit. The review indicates that the product aligns well with the seller's claims, and the buyer is happy with the quality and performance of the suitcase. No discrepancies are identified between the seller's description and the buyer's experience. The buyer appears fully satisfied with the purchase.",
+    "label": "1:Here buyer agreed with the seller"
+}

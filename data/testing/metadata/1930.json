@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1930.jpg",
+    "seller_image": "data/seller_images/1930.jpg",
+    "seller_description": "This neck pillow is designed for ultimate comfort and convenience. The cover is removable and machine washable for easy hygiene maintenance. Filled with polyfilling fiber, it offers a true neck fit, providing maximum support. Its ergonomic shape adjusts to the contours of your neck and head, ensuring optimal cushioning and pain relief. Portable and easy to carry, the pillow reduces to one-third of its size when packed, making it travel-friendly. Offering 360-degree support, it helps you rest comfortably and is a must-have for posture correction.",
+    "review": "Pillow is ok but didn't get earplug with it.",
+    "expected_output": "The seller’s image aligns with the description provided, showing a neck pillow designed for comfort, portability, and support with features like a removable, machine-washable cover and ergonomic shape. However, the buyer’s image doesn't reveal any new details about the missing earplugs. The seller describes the pillow as offering maximum support and pain relief, but the buyer expresses dissatisfaction with the absence of earplugs, which were presumably expected based on the product description or packaging. There is a discrepancy between the seller's description and the buyer’s review, as the earplugs were not included, which may be an oversight or a miscommunication. The fault appears to lie with the seller for not providing the earplugs as expected, though the pillow itself seems to meet the basic comfort requirements.",
+    "label": "0:Here seller is at fault"
+}

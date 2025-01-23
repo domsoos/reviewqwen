@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1593.jpg",
+    "seller_image": "data/seller_images/1593.jpg",
+    "seller_description": "Each pad measures 22x22 inches (LxW), with the center pad measuring 19x19 inches (LxW), featuring a 1.5-inch plastic border on all sides to prevent overflow. The super-absorbent core turns liquid to gel upon contact, while the leak-proof plastic lining safeguards floors from damage. The quick-dry surface, combined with a built-in attractant, makes these pads ideal for training puppies, assisting aging dogs, or providing an indoor alternative for dogs. Manufactured in China, they offer a convenient and hygienic solution for indoor pet care.",
+    "review": "Worst quality product. Though it's large in size but absorb nothing. In one P of 3 months old puppy, it doesn't able to absorb it and make your floor dirty and wet.I thought it's amazon brand, must be of good quality. Unfortunately can't return it else would have returned it",
+    "expected-output": "The seller advertises 22x22 inch pads with a plastic border to prevent overflow, a super-absorbent core, a leak-proof lining, a quick-dry surface, and a built-in attractant for puppy training and indoor use, made in China. However, the buyer reports the pad is large but fails to absorb liquid effectively, causing wet and dirty floors. Disappointed with the product's quality, they also mention frustration with the lack of a return option. To address these issues, the seller should improve the absorbency of the core, establish rigorous quality control processes, provide clear guidance on pad suitability for different pets, and offer a more flexible return policy to enhance customer satisfaction." ,
+    "label": "0:Here seller is at fault"
+}

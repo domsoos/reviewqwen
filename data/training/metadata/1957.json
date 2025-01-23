@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1957.jpg",
+    "seller_image": "data/seller_images/1957.jpg",
+    "seller_description": "This 360° spinner suitcase features 8 wheels for smooth and effortless sliding, ensuring easy maneuverability. Crafted from impact-resistant polypropylene, it includes a fixed three-digit combination lock for added security. The suitcase is fully lined with interiors and tie-down straps to keep your belongings secure during travel. Available in new vibrant colors, it comes with a 3-year global warranty, allowing you to travel worry-free.",
+    "review": "When I received the product, I had an issue with the battery, which was opened before and showed low battery after insertion. This type of cheating needs to be addressed and please make sure you should not repeat this to anyone. Otherwise, the weighing scale is absolutely fine for me.",
+    "expected-output": "The buyer reports an issue with the battery of the product, mentioning that it was opened before and showed low battery after insertion, which indicates that the item may have been tampered with or not properly checked before shipment. The buyer expresses dissatisfaction with this and emphasizes that such issues should be addressed to prevent them from recurring. Despite the battery issue, the buyer confirms that the weighing scale works fine once the battery problem is resolved. The fault lies with the seller, as the battery issue suggests either poor quality control or improper handling of the product. The seller should take responsibility for this and ensure that similar issues do not occur in the future.",
+    "label": "0:Here seller is at fault"
+}

@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/2491.jpg",
+    "seller_image": "data/seller_images/2491.jpg",
+    "seller_description": "Elevate your workspace and productivity with the VIVO Desk Riser, designed to provide on-demand standing throughout the day, helping to reduce muscle tension, alleviate stress, and enhance focus. Featuring a space-efficient 32 top surface, this desk riser offers ample room for dual monitors while the synchronized keyboard tray ensures ergonomic comfort. Its robust pneumatic spring lift supports up to 26 lbs, allowing smooth height adjustments from 4.8\u201d to 19.6\u201d with a simple touch mechanism. Crafted from high-grade alloy steel, this riser combines durability with a sleek design and is almost ready to use straight out of the box, requiring minimal assembly. Backed by a 3-year manufacturer warranty and friendly tech support, the VIVO Desk Riser is the ultimate solution for creating a versatile and comfortable workstation.",
+    "review": "The product arrived with visible damage, including chipped edges and poorly drilled holes, which made assembly nearly impossible. It\u2019s clear this was a quality control issue.",
+    "Expected-output": "The seller description highlights high-grade alloy steel and minimal assembly required, promising durability and ease. However, the buyer's images reveal severe damage to the product's edges and holes, contradicting the durability claims. The seller is at fault due to inadequate quality control and misleading expectations.",
+    "label": "0:Here seller is at fault"
+}

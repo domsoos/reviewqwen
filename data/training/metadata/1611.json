@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1611.jpg",
+    "seller_image": "data/seller_images/1611.jpg",
+    "seller_description": "This 38-inch acoustic guitar combines great looks with innovative design to produce high-quality sound. It features a linden wood body with an ebony wood fretboard, providing a sleek appearance and durable construction. The black glossy finish and 18 frets add to its stylish appeal. The package includes the guitar, a strap, a bag, a string set, and three picks for an all-in-one playing experience. With linden wood binding and a full wood construction, it offers enhanced resonance, while the geared tuning system, wood frame, and steel strings ensure optimal sound and easy tuning.",
+    "review": "I was quite disappointed with this guitar. Despite the positive reviews, my experience has been far from satisfactory. Upon arrival, I noticed several issues: the finish had noticeable scratches, and the fretwork was rough, making playing uncomfortable.",
+    "expected-output":"The seller describes the guitar as a stylish and high-quality instrument, emphasizing its linden wood body, ebony wood fretboard, and geared tuning system for enhanced resonance and optimal sound. The package promises a comprehensive playing experience with additional accessories. However, the buyer's review highlights dissatisfaction due to noticeable scratches on the finish and rough fretwork, which detract from the playing experience. These issues indicate a potential quality control lapse, as the product does not align with the promised sleek appearance and comfort. The seller is at fault for not ensuring the advertised quality and finish.",
+    "label": "0: Here seller is at fault"
+}

@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/2202.jpg",
+    "seller_image": "data/seller_images/2202.jpg",
+    "seller_description": "These gloves made me feel like a snow explorer on a secret mission! Wearing them while shoveling snow transformed a mundane task into a winter adventure. They were not only functional but also gave me a sense of style that turned a few heads in the neighborhood!",
+    "review": "These gloves inspired me to finally tackle my DIY backyard project during winter. Although I didn\u2019t need them for manual labor, they served as the ideal motivational gear! Just slipping them on made me feel ready to face the cold outdoors. Their waterproof feature adds an extra layer of confidence, even if I didn\u2019t get my hands dirty. Stylish and empowering\u2014what a fantastic addition to my winter accessories!",
+    "Expected-output": "The seller's images and description clearly depict a product designed for rugged, cold-weather use, with features such as a waterproof insert and reinforced PU palm. The buyer\u2019s images validate these claims, showing a product identical to the seller\u2019s visuals. The buyer reviews reflect contentment with the product\u2019s durability and warmth, aligning perfectly with the seller\u2019s promises. No discrepancies were found, and the buyer\u2019s satisfaction indicates that the seller has fulfilled their obligations flawlessly.",
+    "label": "-1 buyers opinion"
+}

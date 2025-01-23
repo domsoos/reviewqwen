@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1580.jpg",
+    "seller_image": "data/seller_images/1580.jpg",
+    "seller_description": "This dry kitten food, available in a fish flavor, is specially formulated to provide complete nutrition for baby house-cats of all breed sizes. It contains Taurine to support a healthy heart and is packed with high-quality protein, antioxidants, and essential nutrients to keep your kitten healthy and energetic. The food helps maintain a healthy digestive system, promotes healthy skin and a beautiful coat, and provides hair fall protection while controlling urinary pH. Available in a convenient bag, this kitten food ensures your furry friend receives the best care for a happy, healthy start in life.",
+    "review": "They both eat it but not likely loved to eat as much as whiskus is",
+    "expected-output": "The seller promotes the fish-flavored dry kitten food as a nutritious option for baby house cats of all breeds, featuring taurine for heart health, high-quality protein, antioxidants, and essential nutrients to support digestive health, a healthy coat, hair fall protection, and urinary pH control, packaged for convenience. The buyer reports that their kittens eat the food but do not enjoy it as much as Whiskas, suggesting that while the product meets nutritional claims, it may lack palatability for some kittens. To improve, the seller could introduce additional flavors and gather feedback to better cater to varying taste preferences, enhancing the product\u2019s appeal.",
+    "label": "-1: Buyer's opinion"
+}

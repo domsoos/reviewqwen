@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/2667.jpg",
+    "seller_image": "data/seller_images/2667.jpg",
+    "seller_description": "This Miniature Buddha Monk Set includes four beautifully handcrafted Buddha figurines, each depicting a unique expression. Meticulously designed, these ornaments make an ideal surprise gift for friends or loved ones, leaving a lasting impression. Perfect as a thoughtful gift for various occasions like birthdays, housewarmings, anniversaries, weddings, and festivals like Diwali, Rakhi, and Christmas, they are also excellent return gifts or tokens of appreciation. These versatile showpieces enhance home decor in living rooms, bedrooms, halls, cafes, or restaurants. Crafted as decorative idols, they embody feng shui principles for good luck and tranquility, making them a meaningful addition to your decor or a cherished gift for any occasion.",
+    "review": "One of the figurines had a chipped base, making it unstable and not usable as decor.",
+    "Expected-output": "The seller's description and images emphasize the durability and decorative utility of the figurines. The buyer's image highlights a physical defect (chipped base), which contradicts the promised quality. The seller is at fault for not ensuring proper quality control.",
+    "label": "-1 buyers opinion"
+}

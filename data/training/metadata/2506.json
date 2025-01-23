@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/2506.jpg",
+    "seller_image": "data/seller_images/2506.jpg",
+    "seller_description": "Protect your eyes in style with our blue light blocking glasses for men, offering UV400 protection to block 100% of harmful blue rays from computer screens, gaming, or TV. Designed to reduce eye strain, blurry vision, and sleep disruption, these glasses help improve focus and promote restful sleep. Crafted from durable TR90 material, the lightweight and trendy frame ensures all-day comfort, while high-transmittance polycarbonate HD lenses are anti-reflective and restore true color for a natural viewing experience. Each pair comes with a hard glasses case for secure storage, making them perfect for long-term wear and everyday use. Enjoy a risk-free purchase with prompt resolution for any issues, and experience the ultimate in eye comfort and protection.",
+    "review": "The glasses don't look as trendy as the pictures suggest. The design feels outdated, and the fit isn't as universal as advertised.",
+    "Expected-output": "The seller's images portray a trendy and universally fitting product, but the buyer's review points out discrepancies in design appeal and fit. The seller is at fault for misrepresenting the product's aesthetic and usability.",
+    "label": "0:Here seller is at fault"
+}

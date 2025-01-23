@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/2527.jpg",
+    "seller_image": "data/seller_images/2527.jpg",
+    "seller_description": "The MBNGF X9 ULTRA Cordless Vacuum Cleaner delivers unmatched cleaning power with its 35000PA high suction force, effortlessly removing dirt, dust, and debris from all surfaces, making it perfect for cars, homes, offices, and more. Featuring a long-lasting battery life, it provides up to 60 minutes of powerful cleaning on a single charge, ensuring uninterrupted performance. Its lightweight, cordless, and portable design, weighing just 2.5 pounds, allows for easy maneuverability and convenience. The vacuum also offers dual functionality with suction and blower modes, ideal for deep cleaning tight spaces or inflating air mattresses and toys. Equipped with a HEPA reusable filter, it ensures consistent performance and easy maintenance. With its easy installation and operation, the included accessory kit\u2014featuring various nozzles and brushes\u2014makes cleaning more efficient and versatile. Powered by an 18.5V battery, the MBNGF X9 ULTRA is the ultimate cleaning solution for any environment.",
+    "review": "The vacuum doesn't last anywhere near the promised 60 minutes of battery life. It barely works for 20 minutes before needing to be recharged.",
+    "Expected-output": "The buyer is dissatisfied as the battery life does not match the seller's description of up to 60 minutes. The seller image and description emphasize long-lasting performance, but the buyer's experience contradicts this claim. Here, the fault lies with the seller for overstating the battery capabilities.",
+    "label": "0:Here seller is at fault"
+}

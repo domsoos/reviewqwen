@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1537.jpg",
+    "seller_image": "data/seller_images/1537.jpg",
+    "seller_description": "Whiskas Dry Cat Food offers a complete and balanced meal for your cat, providing essential nutrients for overall health. The Ocean Fish Flavour features nourishing crunchy chunks with an irresistible taste that cats love. Made with high-quality ingredients, this food includes 41 essential nutrients, antioxidants, and 23 vitamins and minerals to keep your cat lively and energetic. It also contains Omega 6 and Zinc for a healthy coat, along with Vitamin A and Taurine to support healthy eyesight. Calcium, Phosphorus, and Vitamin D contribute to strong teeth and bones, promoting overall well-being.",
+    "review": "I wasn't prime when I ordered thi. Still got it the next day of ordering it. Before this I bought the chicken flavor that has weird smell but this one smells fishy fishy. My cat is crazy over it. He is healthier than before ",
+    "expected-output": "The seller advertises Whiskas Dry Cat Food as a complete and balanced meal, enriched with 41 essential nutrients, antioxidants, vitamins, and minerals for promoting overall cat health, including a healthy coat, eyesight, and strong teeth and bones. The buyer expresses satisfaction, noting that their cat enjoys the fish flavor, is healthier, and the quick delivery exceeded expectations despite not being a Prime member. While the strong fishy smell was mentioned, it did not detract from the overall positive experience.",
+    "label": "1:Here buyer agreed with the seller"
+}

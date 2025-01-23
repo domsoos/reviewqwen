@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/2480.jpg",
+    "seller_image": "data/seller_images/2480.jpg",
+    "seller_description": "Revolutionize your cooking experience with this innovative 11QT Dual Capacity Air Fryer, designed to offer versatility and efficiency in a compact design. Featuring a 6QT upper basket and a 5QT lower baking pan, it provides ample space for preparing family-sized meals while saving countertop space. With 8 versatile preset menus, including air fry, grill, dehydrate, bake, roast, broil, reheat, and toast, this air fryer handles all your culinary needs effortlessly. Its advanced cooking technology, equipped with 3 strategically placed heating tubes, ensures precise temperature control and even cooking for consistently delicious results. Stay connected with the MSmart App, offering access to over 50 recipes and remote monitoring for a seamless cooking experience. The Smart Sync Finish technology allows you to cook two different dishes simultaneously, ensuring both are served hot and fresh with minimal wait time. Crafted with durable stainless steel, glass, and plastic, this air fryer combines style, functionality, and convenience in one powerful appliance.",
+    "review": "The Smart Sync Finish feature did not work as expected. The upper basket's cooking time finished long before the lower basket, leaving the dishes improperly synchronized.",
+    "Expected-output": "The review points to a critical issue with the Smart Sync Finish feature, which is prominently advertised in the seller's description. The malfunction leads to uneven cooking and undermines the product's efficiency. This dissatisfaction is attributed to the seller as the feature did not perform as promised.",
+    "label": "0:Here seller is at fault"
+}

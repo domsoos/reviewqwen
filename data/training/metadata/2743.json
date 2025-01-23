@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/2743.jpg",
+    "seller_image": "data/seller_images/2743.jpg",
+    "seller_description": "These Bluetooth Noise-Cancelling Earphones are engineered for premium sound quality and versatility. With cutting-edge active noise cancellation (ANC) technology, they effectively block out background noise, providing an immersive audio experience perfect for music, calls, or focus in noisy environments. Built for durability, these waterproof earphones are resistant to sweat and light rain, making them ideal for workouts and outdoor activities. The snug, ergonomic design ensures all-day comfort and a secure fit during physical activities. Boasting superior Bluetooth connectivity, they offer a stable and quick pairing process with various devices, ensuring reliable performance. The long-lasting battery provides extended playtime on a single charge, complemented by a compact, portable charging case for additional power on the go. These earphones combine sleek aesthetics with high performance, making them a reliable choice for users seeking excellent sound quality, robust features, and everyday practicality.",
+    "review": "While the sound is clear and crisp, the earphones are slightly larger than expected, making them uncomfortable for prolonged use.",
+    "Expected_output": "The seller emphasizes ergonomic design for comfort during prolonged use. The buyer's feedback on discomfort suggests a mismatch in expectations regarding size, but the core functionality and sound quality meet the described standards. This appears to be a subjective opinion rather than a fault in the product.",
+    "label": "-1: buyers opinion"
+}

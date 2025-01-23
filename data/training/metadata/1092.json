@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1092.jpg",
+    "seller_image": "data/seller_images/1092.jpg",
+    "seller_description": "Graphite Isometric Skill Level: Beginner",
+    "review": "The quality of the badminton and the holder seem poor. The stitch on the holder zip was undone on one side.",
+    "expected-output":"The seller's description emphasizes the Yonex badminton racket as a Graphite Isometric model suitable for beginners, showcasing it as a high-quality product with a sleek design, accompanied by a branded holder in perfect condition, as depicted in the promotional image. However, the buyer's experience tells a different story, highlighting dissatisfaction with the poor quality of both the racket and the holder, specifically pointing out a defect in the holder's stitching, which is visibly undone on one side, as shown in the buyer's image. This clear discrepancy between the seller's promises and the buyer's experience suggests a failure in quality control, as the defective holder directly contradicts the durable and high-quality product implied by the seller. The buyer's dissatisfaction is valid, and the fault lies with the seller for not delivering a product that aligns with the expectations set by their description and promotional materials.",
+    "label": "0:Here seller is at fault"
+}

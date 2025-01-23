@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/2516.jpg",
+    "seller_image": "data/seller_images/2516.jpg",
+    "seller_description": "Elevate your home workouts with the BowFlex Adjustable Dumbbells, designed for versatility, convenience, and superior performance. These compact dumbbells adjust from 5 to 52.5 lbs. in 2.5 lb. increments up to 25 lbs., allowing you to customize your training with just the turn of a dial. Perfect for a wide range of exercises\u2014from heavy shrugs and lunges to lighter curls and raises\u2014these dumbbells eliminate the need for 15 separate sets, saving you space and simplifying your workout area. Crafted with durability and ease of use in mind, their sleek black, red, and grey design complements any fitness setup. Enjoy a 2-month free trial of the JRNY All-Access Membership for strength-training and bodyweight workouts accessible via your phone or tablet. Get total-body results with the BowFlex Adjustable Dumbbells, the ultimate space-efficient solution for your fitness goals.",
+    "review": "The dumbbells do not adjust smoothly as advertised. It often gets stuck, making it difficult to change weights during workouts. Very disappointed with the quality.",
+    "Expected-output": "The buyer's images show issues with the adjustment mechanism, as parts seem misaligned or worn, unlike the sleek and functional mechanism shown in the seller's images. The seller description highlights the 'ease of use' with the dial mechanism, but the buyer's review and images contradict this claim, indicating dissatisfaction. Fault: Seller.",
+    "label": "0:Here seller is at fault"
+}

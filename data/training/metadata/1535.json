@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1535.jpg",
+    "seller_image": "data/seller_images/1535.jpg",
+    "seller_description": "Pet Pattern cat litter is designed to provide a dust-free experience with 99.95% effectiveness, thanks to high-quality raw materials and leading production technology. The litter's perfect ball and column ratio ensures effective clumping while minimizing dust, which helps reduce respiratory issues such as sneezing, coughing, and tearing in cats. It is hypoallergenic and free from plant proteins, fragrances, and deodorants, making it safe for sensitive cats. The hard clumping, medium-grain clay absorbs moisture efficiently, keeping your cat's environment clean and healthy, and helping to prevent respiratory problems by controlling environmental factors.",
+    "review": "Nice product but supplied 570gms less Qty than my ordered Qty of 10kgs. Request for necessary needful action.",
+    "expected-output": "The seller describes the cat litter as 99.95% dust-free, hypoallergenic, and effective at clumping, with medium-grain clay for efficient moisture absorption, promising a clean and healthy environment for cats. The buyer finds the product nice and is generally satisfied with its quality but reports receiving 570g less than the 10kg quantity ordered. This discrepancy highlights an issue with order fulfillment rather than product performance. While the product meets expectations in terms of functionality, the seller failed to deliver the correct quantity, leading to buyer dissatisfaction.",
+    "label": "0:Here seller is at fault"
+}

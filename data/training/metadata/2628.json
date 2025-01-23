@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/2628.jpg",
+    "seller_image": "data/seller_images/2628.jpg",
+    "seller_description": "SOFTSPUN microfiber cloths are ultra-absorbent, lint- and scratch-free, and made from high-quality microfiber (70% polyester, 30% polyamide), offering superior performance and durability. These versatile cloths are ideal for cleaning car exteriors and interiors, bikes, kitchen surfaces, utensils, mirrors, electronic screens, DSLR lenses, and more without using chemicals. Designed with reinforced rounded corners to prevent unraveling, they deliver consistent high quality since 2015. Each pack includes 4 medium-sized cloths (16\u201d x 16\u201d), with additional size and combo options available to suit various cleaning needs. For best results, wash before use, avoid mixing with other fabrics, and refrain from ironing or using chemicals. These premium cloths ensure an efficient, streak-free cleaning experience.",
+    "review": "The packaging was damaged and dirty upon arrival, which was disappointing.",
+    "Expected-output": "The seller's images show neatly packaged microfiber cloths, but the buyer's image reveals a dirty and damaged package. While the seller's product quality might not be affected, the poor packaging does not align with the professional standards depicted in the seller's description and images. This indicates the seller is at fault for not ensuring proper packaging.",
+    "label": "-1 buyers opinion"
+}

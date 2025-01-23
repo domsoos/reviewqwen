@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1963.jpg",
+    "seller_image": "data/seller_images/1963.jpg",
+    "seller_description": "This lightweight luggage features a textured, scratch-resistant polycarbonate shell for durability and style. It comes equipped with a combination lock for added security and 8 wheels with smooth maneuverability, complemented by colored wheel caps that enhance its premium appearance. With dimensions of 65x45x30 cm, this suitcase meets most domestic check-in size requirements, making it a practical and stylish travel companion.",
+    "review": "I ordered a camouflage bag and I received a white and grey bag. I am disappointed as this bag is different to maintain the colour and cleanliness.",
+    "expected-output": "The buyer's review expresses clear dissatisfaction with the product, specifically with the color discrepancy between what was ordered (a camouflage bag) and what was received (a white and grey bag). The seller's description does not mention specific colors, and the buyer's expectation of receiving a camouflage bag was not met. This could be a case of either miscommunication or a mistake in fulfilling the order, as the product description lacks detailed color information. The fault in this situation lies with the seller, as they did not provide the correct color, which led to the buyer's dissatisfaction.",
+    "label": "0:Here seller is at fault"
+}

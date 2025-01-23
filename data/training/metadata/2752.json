@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/2752.jpg",
+    "seller_image": "data/seller_images/2752.jpg",
+    "seller_description": "These Handmade Hair Barrettes with alligator clips are a charming and versatile addition to your collection of hair accessories. Expertly hand-woven, each barrette showcases intricate craftsmanship, adding a unique touch of elegance and individuality to your hairstyle. Designed to secure various hair types, from fine to thick, the durable alligator clips ensure a comfortable and reliable hold throughout the day. These barrettes are perfect for enhancing everyday looks or completing formal attire with a delicate and sophisticated flair. Whether you\u2019re styling an updo, half-up look, or simply pinning back sections of hair, their lightweight design makes them easy to wear without causing discomfort. Ideal for gifting or personal use, these handmade accessories blend practicality with artistry, offering timeless beauty and functionality. Available in a variety of colors and patterns, they cater to diverse preferences and occasions, making them a must-have for hair enthusiasts.",
+    "review": "These barrettes are so elegant and beautifully crafted! They work well for small sections, but for thicker sections, they tend to slip off. Great for light styling, though.",
+    "Expected_output": "The buyer appreciates the aesthetic appeal and craftsmanship but mentions a minor limitation for thicker sections, expressing an opinion based on personal use.",
+    "label": "-1: buyers opinion"
+}

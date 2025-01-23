@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/2725.jpg",
+    "seller_image": "data/seller_images/2725.jpg",
+    "seller_description": "The Scented Candles Home Soy Wax Jar Candle is crafted from premium soy wax, ensuring a clean and eco-friendly burn. Infused with high-quality essential oils, it delivers a soothing and long-lasting fragrance, enhancing any living space. The candle is housed in a stylish glass jar, complementing various home d\u00e9cors. Equipped with a cotton wick, it minimizes soot and promotes an even burn, providing up to 35 hours of aromatic ambiance. This candle is ideal for relaxation, meditation, or as a thoughtful gift for loved ones.  ",
+    "review": "The Love Story candle doesn\u2019t just light up a room; it fills it with an enchanting narrative of warmth and elegance. Its sophisticated aroma and sleek design make it a must-have for creating cozy and romantic atmospheres.",
+    "Expected_output": "The seller describes the candle as crafted from eco-friendly soy wax, featuring a clean, non-toxic burn with a 30-35 hour runtime. It is infused with high-quality essential oils and housed in a reusable glass jar, promising both aesthetics and functionality. The vibrant pink label with golden typography and the wooden lid adds a modern touch. Buyer images support the product\u2019s visual representation, showcasing the candle as elegant and accurately aligned with the description. While the candle meets its functional and aesthetic promises, any buyer feedback likely reflects individual preferences for fragrance intensity or burn time rather than product defects. The product remains consistent with its description, serving as a stylish and aromatic addition to any space.",
+    "label": "-1: buyers opinion"
+}

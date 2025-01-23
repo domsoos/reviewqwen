@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1901.jpg",
+    "seller_image": "data/seller_images/1901.jpg",
+    "seller_description": "This lightweight luggage features a textured, scratch-resistant polypropylene shell, a fixed combination lock for added security, and 4 wheels for smooth maneuverability. With dimensions of 55x38x23 cm, it is designed to meet most domestic carry-on size requirements and comes in a sleek black color.",
+    "review": "Product is awesome,but logo Color should be bright or polarized pain",
+    "expected-output": "The seller's description of the luggage highlights its lightweight, scratch-resistant polypropylene shell, fixed combination lock, and smooth 4-wheel maneuverability. The buyer's review is largely positive, describing the product as awesome but suggesting that the logo color should be brighter or more polarized. The discrepancy in the review lies in the buyer's suggestion for the logo color, which is a personal preference and not a fundamental flaw in the product's design or functionality. The product aligns with the seller's description in terms of features and quality, with the buyer being satisfied with the overall performance, making the fault a matter of aesthetic preference rather than product quality. Therefore, the buyer is mostly satisfied, and the seller is not at fault, as the product meets the stated criteria.",
+    "label": "-1: Buyer's opinion"
+}

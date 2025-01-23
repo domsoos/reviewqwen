@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/2208.jpg",
+    "seller_image": "data/seller_images/2208.jpg",
+    "seller_description": "This men's beanie is crafted from 100% acrylic with stretchable rib-knit construction, providing warmth and a comfortable fit. The durable, stretchable fabric is designed to last, embodying classic Carhartt durability. Its versatile design pairs effortlessly with any outfit, making it a practical and stylish choice for everyday wear. Hand wash only for best care, this beanie combines functionality and timeless style.",
+    "review": "I couldn\u2019t resist putting this beanie on my dog for a snowy photo session. The stretchable knit fit perfectly, and the pictures turned out so adorable that they became instant social media hits!",
+    "Expected-output": "Both seller and buyer images show a high-quality product consistent with the advertised features, including its durability, stretchable rib-knit design, and versatile color options. The beanie is praised in reviews for its creative uses, which indirectly confirm its reliability and appeal. The alignment between the seller\u2019s promises and the buyer\u2019s satisfaction demonstrates that the seller delivered the product as described, with no discrepancies or issues reported.",
+    "label": "-1 buyers opinion"
+}

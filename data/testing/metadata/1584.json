@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1584.jpg",
+    "seller_image": "data/seller_images/1584.jpg",
+    "seller_description": "This dog food is specially designed to support your pet's overall health, with a combination of vitamins and organic minerals that help maintain healthy bones and stronger teeth. Packed with essential nutrients, it ensures your dog enjoys a balanced diet for improved strength and vitality. Available in a convenient bag, it's the ideal choice for dogs of all sizes.",
+    "review": "Bad food quality. It's not chicken. Very bad product and quality",
+    "expected-output": " The seller offers dog food designed to support overall health with a combination of vitamins and organic minerals, claiming it helps maintain healthy bones, stronger teeth, and promotes strength and vitality as part of a balanced diet suitable for dogs of all sizes. The buyer reports dissatisfaction, describing the food as of bad quality and not containing chicken as expected, contrary to the product description. This review highlights a significant discrepancy between the seller’s promises and the buyer’s experience, particularly regarding the quality and advertised ingredients. To address these concerns, the seller should enhance quality control measures to ensure the product aligns with the described claims, especially the presence of chicken. Accurate marketing and product descriptions should also be prioritized to prevent misunderstandings, while responsive customer support, including refunds or replacements, could help resolve dissatisfaction and maintain trust.",
+    "label": "0:Here seller is at fault"
+}

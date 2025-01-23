@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1447.jpg",
+    "seller_image": "data/seller_images/1447.jpg",
+    "seller_description": "Experience unmatched comfort and durability with these flip-flops, featuring long-lasting cushioning lab-tested to endure over a million steps, offering three times the longevity of standard products. The ultra-soft toe separator (Luppi) minimizes irritation and reduces the risk of toe rashes, ensuring all-day comfort. Incredibly lightweight, they feel almost weightless, even lighter than a T-shirt. Designed with superior anti-skid performance, these flip-flops provide a confident and secure walking experience, making them the perfect blend of functionality and comfort.",
+    "review": "It is very soft, light weight and comfortable. But after two days of wearing inside the house with clean feet it looks so dirty as if I walked in mud. The color wears of within a day.",
+    "expected-output": "The seller describes the flip-flops as comfortable and durable, with cushioning for a million steps, ultra-soft toe separators, lightweight design, and anti-skid performance. The buyer agrees they are soft, lightweight, and comfortable but notes they became dirty quickly even with indoor use, and the color faded within a day, indicating poor durability. The seller's image shows clean, vibrant flip-flops, while the buyer's image reveals a worn-out appearance after two days of use. The flip-flops match the comfort and lightweight claims but fail in durability and aesthetic quality, leading to buyer dissatisfaction. The seller overpromised on durability and appearance, though the comfort and anti-skid features were satisfactory.",
+    "label": "-1: Buyer's opinion"
+}

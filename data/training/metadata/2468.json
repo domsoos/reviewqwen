@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/2468.jpg",
+    "seller_image": "data/seller_images/2468.jpg",
+    "seller_description": "Stay powered on the go with the Sudrov 42800mAh Solar Power Bank, a high-capacity portable charger designed for reliability and convenience. Equipped with a premium Li-polymer battery and smart protection IC chip, it ensures long-lasting performance with over 1800+ charging cycles. Featuring 4 built-in charging cables (Type C, Lightning, Micro USB, and USB-A), this power bank eliminates the need for extra cords, while its Qi wireless charging capability supports all compatible smartphones, including iPhone and Samsung Galaxy models. With six outputs, it can charge up to six devices simultaneously, making it perfect for sharing power with family and friends. Built for outdoor use, it boasts waterproof, shockproof, and dustproof construction, dual bright LED flashlights with three modes (SOS, Strobe, Stable), a thermometer, and a red indicator light for emergencies. The package includes the power bank, USB-C cable, user manual, carabiner, and lifetime customer service for complete satisfaction.",
+    "review": "The solar charging functionality barely works, taking an entire day under direct sunlight to gain minimal charge. This renders the solar feature impractical for outdoor use.",
+    "Expected-output": "The seller\u2019s description emphasizes reliable solar charging, but the buyer\u2019s review highlights severe inefficiency, which is evident in the reported extended charging times. This discrepancy indicates the seller\u2019s description overstates the product's capabilities, placing fault on the seller.",
+    "label": "0:Here seller is at fault"
+}

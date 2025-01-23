@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1513.jpg",
+    "seller_image": "data/seller_images/1513.jpg",
+    "seller_description": "This wholesome dog food supports joint health with increased water content to maintain a healthy digestive system. The combination of vitamins and organic minerals promotes healthy bones and stronger teeth, while real chicken, liver, and eggs keep your pet active and agile throughout the day. Enriched with natural ingredients, it also supports healthy skin and a shiny coat. Ideal for dogs, this nutritious meal comes in a convenient bag container for easy storage and serving.",
+    "review": "The best dog food a company can give you.My Indian Street Dog and Labrador named Joey is perfect because I keep him at the health. This is a must-buy thing because it's my Joey's favorite food!",
+    "expected-output": "The seller advertises the dog food as promoting joint health, healthy bones, strong teeth, and a shiny coat through a blend of real chicken, liver, eggs, and natural ingredients. The buyer is highly satisfied, calling it the best dog food a company can give you and noting its positive effects on their Indian Street Dog and Labrador named Joey, who thrives on it and considers it a favorite. This strong endorsement highlights the food’s success in meeting health and taste expectations. The seller has clearly delivered on their promises, ensuring pet health and satisfaction. To build on this success, the seller should maintain high product quality, emphasize the health benefits in marketing, and consider loyalty programs or discounts to encourage repeat purchases from satisfied customers.",
+    "label": "1:Here buyer agreed with the seller"
+}

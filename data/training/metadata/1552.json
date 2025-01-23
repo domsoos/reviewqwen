@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1552.jpg",
+    "seller_image": "data/seller_images/1552.jpg",
+    "seller_description": "Whiskas Adult Wet Cat Food (1+ years) provides 100% complete and balanced nutrition for your cat. Available in a delicious Tuna in Jelly flavor, this cat food features a jelly texture and aroma that appeals to even the fussiest eaters. Made with real fish and enriched with healthy ingredients, vitamins, and minerals, it supports your cat’s overall health. With high moisture content, it helps keep your cat hydrated while being easy to eat and digest. Additionally, it contains quality protein for healthy muscles, Omega-6 and Zinc for a shiny coat, and antioxidants to support natural defense.",
+    "review": "I mix a little bit of this gravy with rice and milk preparation to feed the stray cats and dogs. They eat it very happily,biut i got chicken flavour but my cat liked it very much",
+    "expected-output": "The seller describes Whiskas Adult Wet Cat Food as a balanced, nutritious meal for cats aged 1+ years, offering benefits like high moisture for hydration, quality protein for muscle health, and Omega-6 for a shiny coat. The buyer used the product to feed stray cats and dogs, mixing it with rice and milk, and reported that the animals happily consumed it. This indicates the product is appealing and fulfills its promise of being easy to digest and flavorful. While the usage is unconventional, the buyer’s positive experience aligns with the seller's claims, demonstrating the food’s effectiveness and versatility.",
+    "label": "1:Here buyer agreed with the seller"
+}

@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/2536.jpg",
+    "seller_image": "data/seller_images/2536.jpg",
+    "seller_description": "The Dog's Balls XL Orthopedic Dog Bed is designed for all breed sizes, offering a comfortable and supportive resting solution for your dog. Featuring a 3.5 high-density orthopedic egg crate foam, it provides excellent support for active dogs and puppies, helping them rest and recover after an active day. The bed is equipped with waterproof, removable covers, which are easy to clean and quick-drying, making maintenance a breeze. One side of the foam promotes airflow for summer, while the other side provides warmth for winter. The bed also includes a waterproof mattress protector to protect against accidents, ensuring durability and comfort year-round. With an aesthetically pleasing design and a 1-year warranty for manufacturing defects, this orthopedic bed is an ideal choice for giving your dog a peaceful and supportive sleep.",
+    "review": "The waterproof cover does not fully prevent liquid from seeping into the foam, causing an odor issue after an accident.",
+    "Expected-output": "The buyer is dissatisfied because the waterproof cover fails to deliver on the seller's promise of protecting the foam from accidents. This mismatch between the description and functionality places the fault on the seller.",
+    "label": "0:Here seller is at fault"
+}

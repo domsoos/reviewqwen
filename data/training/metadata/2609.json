@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/2609.jpg",
+    "seller_image": "data/seller_images/2609.jpg",
+    "seller_description": "This 1.5-litre electric kettle combines a classic mirror-polished finish with a 360\u00b0 swivel base, making it both stylish and practical for any kitchen design. Its cordless pouring feature allows effortless filling and serving, accommodating both right- and left-handed users. Designed for convenience, this BPA-free kettle is easy to store and makes an elegant statement on your countertop or buffet. With a powerful 1500W concealed heating element, it boils water in just 5\u20137 minutes, perfect for preparing tea, coffee, or hot beverages quickly. Cleaning is simple using white vinegar, baking soda, and a microfiber cloth to maintain its sleek appearance. Note: This kettle does not include a water level indicator.",
+    "review": "The kettle does not come with an automatic tea brewing feature, which I think should be a standard inclusion for all kettles.",
+    "Expected-output": "The seller's description highlights the stainless steel body, 360\u00b0 swivel base, 1.5-litre capacity, and rapid boiling feature, but it does not mention or promise an automatic tea brewing feature. The buyer\u2019s dissatisfaction stems from an expectation that was never advertised or promised by the seller. The buyer's images show that the kettle matches the seller\u2019s images and description in all visible aspects. This dissatisfaction appears to be a subjective opinion rather than a failure to deliver on the part of the seller.",
+    "label": "-1 buyers opinion"
+}

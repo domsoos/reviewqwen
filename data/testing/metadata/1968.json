@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1968.jpg",
+    "seller_image": "data/seller_images/1968.jpg",
+    "seller_description": "This premium travel duffel bag is made from high-quality, durable material, ensuring long-lasting use. It features a separate shoes compartment with exterior zippers, keeping your shoes and sports gear clean and separate from your other belongings. Ideal for a variety of occasions, it's perfect for hiking, family holidays, sports, gym, or short trips. The adjustable shoulder straps provide comfort, while the large capacity and multiple compartments help keep your items organized. Whether used as a weekend bag, overnight bag, or gym bag, this duffel is a versatile and practical choice for any traveler.",
+    "review": "Bag is good, shoes and other accessories fit well. But stitches are very poor quality. I just carry a water bottle, shoes, gloves and wrist support but still strap is starting to tear.",
+    "expected-output": "The buyer's review expresses dissatisfaction with the stitching quality of the bag, despite appreciating its spaciousness and the functionality of the separate compartments for shoes and accessories. The seller’s description highlights the bag’s durability and practicality, but the buyer's experience contradicts this in terms of the stitching quality, as the strap began to tear despite carrying a relatively light load. This suggests that while the bag meets the functional and capacity expectations set by the seller, the quality of the stitching may not be up to the standard advertised. The issue with the strap seems to be a manufacturing flaw, indicating that the fault lies with the seller's product quality rather than the buyer’s expectations.",
+    "label": "0:Here seller is at fault"
+}

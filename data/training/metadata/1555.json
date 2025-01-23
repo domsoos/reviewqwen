@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1555.jpg",
+    "seller_image": "data/seller_images/1555.jpg",
+    "seller_description": "Pedigree Puppy Dry Dog Food provides complete and balanced nutrition for growing puppies. The Chicken & Milk flavor is packed with delicious kibbles that your puppy will love. Made with high-quality ingredients, including chicken and milk, this food supports proper nutrition. Developed by experts, it contains 37 essential nutrients that aid in your puppy’s healthy growth. The food helps promote strong muscles and bones with high-quality protein and calcium, supports brain and vision development with DHA, and boosts natural defenses with Vitamin E and Selenium. Ideal for puppies, it comes in a convenient bag for easy storage.",
+    "review": "I have two pet brothers and both of them love pedigree dry food a lot .",
+    "expected-output": "The seller describes Pedigree Puppy Dry Dog Food in Chicken & Milk flavor as a complete and balanced meal designed to support the growth, health, and development of puppies with essential nutrients, protein, calcium, and DHA. The buyer shares a positive experience, stating that their two puppies love the food, with no issues reported. This feedback aligns with the seller’s promises, confirming customer satisfaction with the product's quality and appeal. Maintaining consistency in quality and flavor while encouraging more customer reviews can further strengthen the product's reputation.",
+    "label": "1:Here buyer agreed with the seller"
+}

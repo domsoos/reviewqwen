@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1585.jpg",
+    "seller_image": "data/seller_images/1585.jpg",
+    "seller_description": "Whiskas Junior Kitten Wet Cat Food (Chicken in Gravy) provides 100% complete and balanced nutrition for kittens aged 2-12 months. Made with real chicken and high-quality ingredients, this delicious food has a gravy texture and aroma that appeals to your kitten’s palate. The high-moisture formula supports hydration, while Omega 6 and Zinc promote healthy skin and a shiny coat. DHA aids brain and eyesight development, and Taurine supports healthy vision. With 41 essential nutrients and quality protein, it ensures healthy growth and strong muscles for your growing kitten.",
+    "review": "My baby loved it very much.",
+    "expected-output": " The seller presents Whiskas Junior Kitten Wet Cat Food as a balanced and nutritious option designed for kittens aged 2-12 months, featuring chicken in gravy to provide hydration and appeal to taste. The product includes Omega 6 and Zinc for healthy skin and a shiny coat, DHA for brain and eyesight development, Taurine for vision health, and 41 essential nutrients along with quality protein for healthy growth and strong muscles. The buyer reports high satisfaction, mentioning that their kitten loved the food, confirming that the product meets its promises of providing palatable and beneficial nutrition for kittens. The seller successfully delivers on their claims, ensuring the product aligns with customer expectations and supporting continued quality to maintain positive feedback.",
+    "label": "1:Here buyer agreed with the seller"
+}

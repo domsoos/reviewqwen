@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1089.jpg",
+    "seller_image": "data/seller_images/1089.jpg",
+    "seller_description": "This round analog watch features a durable brass case with a 35mm diameter and a mineral dial glass for added protection. The stainless steel band enhances its sleek and elegant design, while the quartz movement ensures precise timekeeping. With a water resistance depth of up to 30 meters, it is suitable for everyday use. Backed by a 1-year manufacturer warranty against manufacturing defects, this watch combines style, functionality, and reliability.",
+    "review": "Watch look and feel is premium. Beige color with white dial and the design inside the dial is nice. But I could a rainbow colour of shade inside the dial when I tilt it on any side. If you look straight you find the shades.",
+    "expected-output":"The provided images and text descriptions align closely with the product's features and aesthetics. The seller's description highlights the durable brass case, elegant stainless steel band, and precise quartz movement, which are confirmed by the images showing a stylish, well-crafted watch. The buyer's review reinforces this alignment, praising the product's color, adjustable strap, and aesthetic appeal, which match the seller's promises. Both the seller's and buyer's images show consistency in product appearance and packaging. There are no discrepancies between the seller's claims and the buyer's feedback, and the buyer expresses satisfaction. Therefore, the seller fulfilled their promises, and there is no fault identified.",
+    "label": "0:Here seller is at fault"
+}

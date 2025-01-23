@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1912.jpg",
+    "seller_image": "data/seller_images/1912.jpg",
+    "seller_description": "The portable LCD electronic balance digital scale is small and lightweight, making it easy to carry and store in your pocket or tackle box. With a capacity of 110lb/50kg and an accuracy of 5g or 10g, the LCD screen displays weight in g, kg, lb, or oz. It features a convenient unit switch, data lock, overload indication, and auto power-off after 120 seconds of inactivity. The blue backlit LCD ensures easy readability both day and night, providing a user-friendly and reliable weighing solution.",
+    "review": "It's reliable for frequent travelers. The compact design fits easily in your bag, making it perfect for avoiding overweight baggage fees. Durable and easy to use.",
+    "expected_output": "The seller's image and description of the portable LCD electronic balance digital scale match the buyer's review in several aspects. The seller clearly highlights the scale's compact design, easy portability, and reliability, especially for frequent travelers aiming to avoid overweight baggage fees. The description mentions features like the backlit LCD, accuracy, and unit switch, which align with the buyer's positive comments on the product's durability and usefulness for travel. The buyer appreciates the scale’s convenience and compactness, confirming it fits well in their bag. There are no significant discrepancies between the seller's promises and the buyer's experience, and the buyer is satisfied with the product. Thus, no fault lies with the seller, and the buyer's experience aligns with the seller's claims.",
+    "label": "1:Here buyer agreed with the seller"
+}

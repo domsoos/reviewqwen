@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/0023.jpg",
+    "seller_image": "data/seller_images/0023.jpg",
+    "seller_description": "These standard-fit men's lounge joggers feature a 31 inseam and are made from soft 6.1 oz. cotton or a cotton blend, offering lightweight comfort for everyday wear. Designed with added comfort in mind, they include an internal drawcord for adjustability and a relaxed fit. The joggers also have two deep side pockets to hold lightweight tech, while the iconic C logo at the hip adds a signature touch (note: the C logo patch color may vary from the image). Perfect for lounging or casual wear, these joggers combine style and functionality.",
+    "review": "the joggers were very nice it does not fit for me.",
+    "expected-output": "The seller describes the men's lounge joggers as standard-fit with a 31-inch inseam, made from a soft cotton blend for lightweight comfort. Features include an internal drawcord for an adjustable fit, a relaxed style, deep side pockets, and the iconic C logo. They are promoted as ideal for lounging or casual wear. The buyer's review indicates satisfaction with the joggers' quality, stating they are very nice,but notes they do not fit properly. This feedback does not imply dissatisfaction with the product's quality or features but highlights an issue with sizing, which may be due to incorrect selection or a mismatch in expectations. The seller is not at fault, as the product appears to meet its described specifications. The buyer's comment reflects a personal sizing issue rather than a flaw in the joggers themselves.",
+    "label": "-1:Here seller delivered as expected but buyer not satisfied"
+}

@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/2473.jpg",
+    "seller_image": "data/seller_images/2473.jpg",
+    "seller_description": "The GMK CG6 Wireless Security Camera is your ultimate solution for indoor and outdoor monitoring, offering 2K ultra-clear live video and full-color night vision to capture every detail, even in low light. Equipped with a built-in rechargeable battery, this wireless camera is easy to install anywhere without the hassle of wires, supporting 2.4GHz WiFi for seamless connectivity. With smart PIR motion detection and instant alerts, it accurately identifies activity in real-time and sends notifications to your phone. Featuring two-way audio for live communication and an intelligent alarm system with flashing lights and sirens, it ensures maximum security. Enjoy free 3-day cloud video history storage with an optional 30-day advanced feature trial, including AI recognition and custom alarm zones. Designed with IP65 weatherproof technology, this camera stands up to rain, snow, and sunshine, keeping your home safe in all conditions. Perfect for baby monitoring, pet monitoring, and overall home security, the GMK CG6 offers convenience, reliability, and peace of mind.",
+    "review": "The mounting brackets provided are of very low quality, and one broke during installation.",
+    "Expected-output": "The seller description mentions an easy-to-install wireless system, but the broken bracket in the buyer's image contradicts this. The seller is at fault for providing substandard accessories.",
+    "label": "0:Here seller is at fault"
+}

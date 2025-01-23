@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/2240.jpg",
+    "seller_image": "data/seller_images/2240.jpg",
+    "seller_description": "Measuring 57.1 (146 cm) in length and 3.1 (8 cm) at its widest point, this necktie is crafted from 100% high-quality polyester with exquisite stitching and thread work for a polished finish. Its durable, waterproof design ensures long-lasting wear. Featuring a unique novelty pattern, it adds a touch of distinction to both formal and informal occasions, making it an excellent gift for husbands, fathers, or friends. The tie's soft texture and elegant, classic design make it a comfortable and stylish accessory for any wardrobe.",
+    "review": "If James Bond were a tie, this would be it. Sleek, stylish, and effortlessly charismatic. I walked into the room wearing this, and I swear, someone whispered, \u2018He\u2019s wearing THE tie.\u2019 Mission accomplished.",
+    "Expected-output": "The seller advertises a tie that is both durable and stylish, ideal for gifts and personal use. Seller images depict vibrant, well-stitched ties, while buyer images validate these claims by showing the tie\u2019s polished appearance and excellent fit. The seller\u2019s description of the tie being waterproof and comfortable for extended wear aligns with buyer reviews mentioning its practicality and ease of use. Overall, the product fulfills the expectations set by the seller\u2019s marketing, providing buyers with an accessory that is both functional and aesthetically pleasing.",
+    "label": "-1 buyers opinion"
+}

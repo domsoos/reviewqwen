@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1979.jpg",
+    "seller_image": "data/seller_images/1979.jpg",
+    "seller_description": "This suitcase features a boxy shape for maximum volume, providing ample space for your belongings. It comes with retractable top and side handles for added comfort during travel. The dual-textured matte finish not only enhances its sleek look but also includes a 3-digit fixed combination lock for extra security. The interior is designed with cross ribbons in the bottom compartment and a U-shaped pocket, allowing for optimal organization and packing. The suitcase is both sturdy and lightweight, equipped with 360-degree smooth rolling wheels for easy maneuverability. Its 50-50 packing design further simplifies organization and segregation of your items.",
+    "review": "It is a very good product at this price, I did not even expect it to be so good.",
+    "expected-output": "The buyer's review expresses satisfaction with the product, noting that it exceeded expectations given its price. The seller's description highlights the suitcase's ample space, organizational features, security with a 3-digit combination lock, and smooth maneuverability, all of which align with the buyer's positive experience. The buyer's statement, I did not even expect it to be so good, suggests that the product met or even surpassed expectations in terms of quality and functionality. There are no discrepancies between the seller's description and the buyer's experience, indicating that the seller delivered as promised. The buyer is satisfied with the product.",
+    "label": "1:Here buyer agreed with the seller"
+}

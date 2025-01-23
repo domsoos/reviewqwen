@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/2533.jpg",
+    "seller_image": "data/seller_images/2533.jpg",
+    "seller_description": "The Sepado Foldable Electric Bike offers a powerful and convenient solution for commuting, outdoor adventures, and daily rides. Equipped with a 750W peak motor, 14-inch tires, and a 36V/10.4Ah battery, it reaches speeds of up to 20mph and provides a range of 25 miles on pure electric or 40 miles with pedal assist. Its lightweight design (44.4 lbs without the battery) and compact foldable frame (302313 inches folded) make it easy to transport and store. Featuring three riding modes (Pure electric, pedal assist, and normal bike mode) and a smart display, this bike offers flexibility and convenience. It arrives 85% pre-assembled with a 1-year warranty and includes reliable customer support for installation and maintenance. Perfect for commuters and adventure seekers, the Sepado e-bike combines power, portability, and ease of use in one compact, eco-friendly package.",
+    "review": "The bike arrived with scratches on the frame, indicating poor packaging or handling during delivery.",
+    "Expected-output": "The buyer is dissatisfied because the product's condition does not match the seller's promise of a well-maintained and reliable product. The seller's image depicts a pristine bike, but the buyer's image of scratches highlights an issue with packaging or handling. The fault lies with the seller for not ensuring proper delivery.",
+    "label": "0:Here seller is at fault"
+}

@@ -1,0 +1,9 @@
+{
+    "buyer_image": "data/buyer_images/1577.jpg",
+    "seller_image": "data/seller_images/1577.jpg",
+    "seller_description": "Pedigree Wet Dog Food for Puppies (Chicken & Liver Chunks in Gravy) is a 100% complete and balanced meal made with real meat and high-quality protein, offering a delicious, gravylicious flavor that puppies love. The quality ingredients ensure your puppy stays healthy and energetic, while the high moisture content helps keep them hydrated. This nutritious food supports strong muscles and bones with protein and calcium, promotes brain and vision development with DHA, and boosts natural defense with Vitamin E and Selenium. Available in a convenient bag, it's the perfect meal for growing puppies.",
+    "review": "Nice product. Save the money. 🙂🙂🙂",
+    "expected-output": " The seller describes Pedigree Wet Dog Food as a complete and balanced meal made with real meat and high-quality protein, featuring a gravylicious flavor that puppies love. It is designed to maintain hydration with high moisture content, support strong muscles and bones with protein and calcium, promote brain and vision development with DHA, and enhance natural defense with Vitamin E and Selenium. The buyer provides a positive review, noting the product is nice and offers good value for money, using smiley faces to emphasize satisfaction. The seller's claims of nutrition and hydration benefits align with the buyer’s experience, reflecting the product's effectiveness and cost-efficiency. Recommendations for the seller include continuing to emphasize value in marketing, ensuring consistent product quality, and maintaining a competitive price to sustain buyer satisfaction.",
+    "label": "1:Here buyer agreed with the seller"
+
+}

@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1486.jpg",
+    "seller_image": "data/seller_images/1486.jpg",
+    "seller_description": "These lightweight and breathable shoes are crafted with durable materials and a flexible design that adjusts to your foot for an effortless walking experience. Featuring a non-slip and shockproof construction, they combine modern style with engineering that cushions the feet and reduces heel strain for long-term wear. The air-cushioned outsoles enhance shock absorption, provide slip resistance, and deliver exceptional comfort, relieving foot pain and pressure with every step.",
+    "review": "It is in a dirty condition and has been used by someone else and has not been cleaned",
+    "expected-output": "The seller advertises the shoes as lightweight, breathable, and made from durable materials, designed for comfort with a flexible fit, non-slip shockproof construction, and air-cushioned outsoles to enhance shock absorption and relieve foot pain for long-term wear. However, the buyer reports receiving the shoes in a dirty condition, suggesting they had been used and not cleaned before being shipped, directly contradicting the expectation of receiving a new product. While the images confirm the same shoe model, the buyer’s photo likely highlights the unclean state, validating their dissatisfaction. This represents a major discrepancy between the seller's claims and the buyer's experience, with the fault lying entirely with the seller for failing to ensure the product was new and in proper condition before delivery.",
+    "label": "0:Here seller is at fault"
+}

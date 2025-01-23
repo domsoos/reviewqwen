@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1978.jpg",
+    "seller_image": "data/seller_images/1978.jpg",
+    "seller_description": "This durable navy blue nylon travel bag features a hard-shell design with five compartments: one main compartment, two front pockets, and two side pockets, providing ample space for organization. With smooth-rolling wheels, it ensures easy maneuverability during travel. The bag is made from long-lasting nylon fabric, offering extra durability, while the additional side corner guards provide extra protection when the wheels are in use. Although it is water-resistant, it is not fully waterproof, making it a reliable choice for most weather conditions. The bag's dimensions are 56 cm x 28 cm x 33 cm (LxWxH), and it is not designed for laptop compatibility.",
+    "review": "Different material low quality febric",
+    "expected-output": "The buyer's review indicates dissatisfaction with the material, describing it as a low-quality fabric and implying that the product did not meet expectations. The seller's description highlights the durable nylon fabric used in the bag, emphasizing its resilience and smooth maneuverability, which is generally aligned with the bag's features. However, the buyer's complaint about the material suggests that the quality of the fabric may not be as described or as expected. This could be an issue with product quality control or misrepresentation in terms of the fabric’s quality in the images and description. The fault lies with the seller, as the product failed to meet the buyer's expectations regarding material quality.",
+    "label": "0:Here seller is at fault"
+}

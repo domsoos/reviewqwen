@@ -1,0 +1,9 @@
+{
+    "buyer_image": "data/buyer_images/1094.jpg",
+    "seller_image": "data/seller_images/1094.jpg",
+    "seller_description": "This footwear features a die-cut soft NR EVA sock liner laminated with polyester fabric, providing superior comfort and durability. The soft cushion NR EVA inner insole enhances cushioning for all-day wear. The upper is crafted from durable PVC synthetic leather combined with breathable mesh for ventilation. Reinforced toe forepart stitching on the sole lip adds extra support and durability to the toe area, ensuring reliable performance and comfort.",
+    "review": "Value for money. Lightweight and flexible but i have got the differnt color product.",
+    "expected-output":"The seller’s description accurately covers the shoe’s comfort and durability, citing a soft cushion insole, mesh for breathability, and reinforced stitching for longevity. The buyer’s own experience confirms that the footwear is indeed comfortable and lightweight, fulfilling the main promises of the seller. However, there is a clear visual mismatch between the color shown in the seller’s image and what the buyer received. While this discrepancy doesn’t affect the buyer’s satisfaction with the shoe’s performance, it indicates the seller provided a product inconsistent with the advertised design.",
+    "label": "0: Here seller is at fault."
+
+}

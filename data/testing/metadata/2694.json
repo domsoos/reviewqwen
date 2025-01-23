@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/2694.jpg",
+    "seller_image": "data/seller_images/2694.jpg",
+    "seller_description": "This set of two PVC hex dumbbells, each weighing 5 kg (total 10 kg), is perfect for resistance training and fitness routines at home or in classes. Made in India, these dumbbells feature an easy-grip, anti-slip design for comfortable use and are compact for convenient storage. Durable and versatile, they are ideal for aerobics, step workouts, and strength training to enhance intensity and resistance. Backed by a 6-month warranty for manufacturing defects, these dumbbells make a reliable addition to any fitness regimen.",
+    "review": "The packaging was inadequate, and one of the dumbbells was broken upon arrival. This is very disappointing as I was looking forward to using them.",
+    "Expected-output": "The seller's description and images emphasize durability and high-quality PVC material, ensuring the product is long-lasting. However, the buyer's images reveal broken dumbbells and poor packaging, which directly contradicts the seller's claims. This suggests a failure in quality control and inadequate packaging. Here, the seller is at fault for not ensuring secure packaging and product quality.",
+    "label": "-1 buyers opinion"
+}

@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/2290.jpg",
+    "seller_image": "data/seller_images/2290.jpg",
+    "seller_description": "This ergonomic home office desk chair provides lumbar support to reduce back strain during long working hours. The chair offers customized comfort with one-touch seat height adjustment and a 360-degree swivel, allowing for personalized seating and multitasking. It supports up to 275 pounds and features a polished chrome finish and a sturdy 5-point base for stability, making it a durable choice for your office setup. The chair is upholstered with polyurethane faux leather ribbed material, combining a sophisticated look with ergonomic design durability. Ideal for use at a computer desk, workstation, or conference room, it seamlessly fits into any office environment.",
+    "review": "This chair is a masterpiece of design and function! It\u2019s not just a seat; it\u2019s a commitment to your posture and productivity. The faux leather upholstery is as elegant as it is durable, while the adjustable height and smooth swivel keep you agile and efficient. Whether it's hours of meetings or creative brainstorming, this chair is your perfect companion.",
+    "Expected_output": "The seller\u2019s description outlines a chair built for both ergonomics and style, emphasizing lumbar support, weight capacity, and durable faux leather. If the buyer\u2019s images match this description, and the review mentions satisfaction with the chair\u2019s comfort and adjustability, it affirms the product's reliability. Should no defects or issues arise, there is no fault to assign. The seller successfully delivers on promises, and the buyer enjoys a well-designed product.",
+    "label": "-1: buyers opinion"
+}

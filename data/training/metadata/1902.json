@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1902.jpg",
+    "seller_image": "data/seller_images/1902.jpg",
+    "seller_description": "This lightweight luggage features a textured, scratch-resistant polypropylene shell, a fixed combination lock for added security, and 4 wheels for smooth maneuverability. With dimensions of 55x38x23 cm, it is designed to meet most domestic carry-on size requirements and comes in a sleek black color.",
+    "review": "Showing in image 3 bags and received only 2 bags what is this ? incomplete product received.. showing in image 3 size large mediums and cabin and received only 2 bags large and cabin.. where is my medium size bag",
+    "expected-output": "The seller's description highlights the lightweight design of the luggage, its scratch-resistant polypropylene shell, fixed combination lock for security, and smooth maneuverability with four wheels. It also mentions the product's dimensions and its suitability as a carry-on, providing a sleek black color.The buyer's review, however, indicates dissatisfaction, stating that the product received was incomplete, as they only received two bags (large and cabin size) instead of the three bags shown in the image (which included a medium-sized bag). The buyer is frustrated with the missing item and expresses disappointment in the order fulfillment.The discrepancy lies in the fact that the buyer received fewer items than expected, which is a fulfillment issue. The seller may be at fault here for not sending the full set as depicted in the images. Therefore, the buyer is dissatisfied, and the fault likely lies with the seller for the incomplete delivery.",
+    "label": "-1: Buyer's opinion"
+}

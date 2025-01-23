@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1955.jpg",
+    "seller_image": "data/seller_images/1955.jpg",
+    "seller_description": "This 360° spinner suitcase features 8 wheels for smooth and effortless sliding, ensuring easy maneuverability. Crafted from impact-resistant polypropylene, it includes a fixed three-digit combination lock for added security. The suitcase is fully lined with interiors and tie-down straps to keep your belongings secure during travel. Available in new vibrant colors, it comes with a 3-year global warranty, allowing you to travel worry-free.",
+    "review": "It is very comfortable and provide support to back.",
+    "expected-output": "The buyer expresses satisfaction with the comfort and back support provided by the suitcase, suggesting it meets their expectations in terms of usability and ergonomics. However, the review is vague and does not specifically address the other features described by the seller, such as the durability, locking mechanism, or wheel functionality. Given the lack of detailed feedback, it is clear that the buyer is content with the primary aspect of the suitcase, but a more thorough evaluation of its other features is not provided. There are no discrepancies between the seller’s description and the buyer’s experience based on the available information.",
+    "label": "1:Here buyer agreed with the seller"
+}

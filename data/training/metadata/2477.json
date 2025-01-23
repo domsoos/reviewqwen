@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/2477.jpg",
+    "seller_image": "data/seller_images/2477.jpg",
+    "seller_description": "Experience a new realm of possibilities with the Meta Quest 3S, where mixed reality seamlessly blends digital objects with your surroundings and amplifies VR immersion. Enjoy a $70 bonus value, including Batman: Arkham Shadow and a 3-month trial of Meta Quest+**. Connect with friends worldwide, attend live concerts, and share gameplay on TV. Transform any room into a personal theater with vibrant visuals, USB-C or 3.5mm headphone compatibility (adapter sold separately), and easy multitasking for browsing, streaming, and chatting. Stay active with wireless freedom and lightweight comfort for virtual workouts or immersive gaming. Powered by the Qualcomm Snapdragon XR2 Gen 2 platform, it delivers 2X the graphical performance of Meta Quest 2. Navigate with hand gestures or precise Touch Plus Controllers, while family-friendly features like parental controls, multi-user support, and content sharing ensure fun for everyone aged 10 and up. Redefine reality with Meta Quest 3S.",
+    "review": "The screen resolution is not as sharp as promised, and the visuals appear blurry.",
+    "Expected-output": "The buyer's review indicates dissatisfaction with the visual quality, which is claimed to be below the advertised 2X graphical performance of Meta Quest 2. The seller's images and description set high expectations for vibrant visuals, but this discrepancy points to the seller's failure in delivering the promised display quality.",
+    "label": "0:Here seller is at fault"
+}

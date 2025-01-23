@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1517.jpg",
+    "seller_image": "data/seller_images/1517.jpg",
+    "seller_description": "This eco-friendly cat litter is expertly crafted from white bentonite clay, catering to your cat's natural digging and burying instincts. Perfectly suited for all breeds, it provides a comfortable and familiar litter box experience. Designed for optimal odor control, it keeps your pet's habitat fresh with a soothing lavender scent. Featuring rapid moisture absorption and efficient clumping, it simplifies cleanup and maintenance. The paw-friendly granule texture is gentle on your cat’s paws, while the dust-free formulation ensures a clean and healthy environment for both pets and their owners.",
+    "review": "It's dusty and not effectively, size of beans are small",
+    "expected-output": "The seller advertises the cat litter as eco-friendly, made from white bentonite clay with a dust-free formulation, lavender scent for odor control, rapid moisture absorption, and paw-friendly granules for comfort. While the buyer appreciates the product’s affordability, clumping efficiency, and odor control, they express dissatisfaction with its dustiness, which contradicts the dust-free claim, and the small granule size, which may affect usability and comfort. These concerns highlight a gap between the product’s performance and the seller’s promises. To address this, the seller should improve the formulation to reduce dust, consider offering varied granule sizes, and engage with the buyer to resolve their concerns, potentially enhancing trust and customer satisfaction",
+    "label": "0:Here seller is at fault"
+}

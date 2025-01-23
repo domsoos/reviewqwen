@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1911.jpg",
+    "seller_image": "data/seller_images/1911.jpg",
+    "seller_description": "The portable LCD electronic balance digital scale is small and lightweight, making it easy to carry and store in your pocket or tackle box. With a capacity of 110lb/50kg and an accuracy of 5g or 10g, the LCD screen displays weight in g, kg, lb, or oz. It features a convenient unit switch, data lock, overload indication, and auto power-off after 120 seconds of inactivity. The blue backlit LCD ensures easy readability both day and night, providing a user-friendly and reliable weighing solution.",
+    "review": "Very bad quality of this product, even the product is broken, not useful. Please don't buy this kind of product. Amazon, it's a very bad product. Please don't trust these kinds of sellers. This will impact your business and customers.",
+    "expected_output": "The seller's description for the portable LCD electronic balance digital scale emphasizes a lightweight, portable design with a capacity of 110lb/50kg, an accuracy of 5g or 10g, and an easy-to-read blue backlit LCD screen. However, the buyer's review expresses significant dissatisfaction, stating that the product is of poor quality, broken, and not useful. This discrepancy suggests that either the product received by the buyer was defective or the seller's description may have been overly optimistic in representing its durability and functionality. Based on the review, the fault lies with the seller for providing a substandard product that did not meet the buyer's expectations or match the advertised quality, which ultimately led to the buyer's dissatisfaction.",
+    "label": "0:Here seller is at fault"
+}

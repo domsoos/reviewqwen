@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1959.jpg",
+    "seller_image": "data/seller_images/1959.jpg",
+    "seller_description": "This lightweight luggage features a textured, scratch-resistant polycarbonate shell for durability and style. It comes equipped with a combination lock for added security and 8 wheels with smooth maneuverability, complemented by colored wheel caps that enhance its premium appearance. With dimensions of 65x45x30 cm, this suitcase meets most domestic check-in size requirements, making it a practical and stylish travel companion.",
+    "review": "I received this trolley bag with a broken chain, and to make matters worse, it looks like it had already been used. There were clear signs of wear and tear, such as scratches on the surface or muddy body. I’m very disappointed with the quality control and the seller for sending a damaged, used item. I expected much better and would not recommend this product.",
+    "expected-output": "The buyer is dissatisfied with the product due to receiving a damaged and used trolley bag. The seller's description promised a new, lightweight suitcase with a scratch-resistant polycarbonate shell, but the buyer received a product with a broken zipper, visible wear and tear, and signs of prior use, including scratches and mud. This discrepancy between the seller's promises and the buyer's experience points to a quality control issue with the seller, and the fault lies with the seller for sending a defective item. The buyer has expressed disappointment and would not recommend the product.",
+    "label": "0:Here seller is at fault"
+}

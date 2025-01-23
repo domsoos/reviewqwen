@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/2318.jpg",
+    "seller_image": "data/seller_images/2318.jpg",
+    "seller_description": "SPORTAXIS Premium Cricket Batting Gloves for Batsman, Split Fingers, Stylish Design, Comfortable Grip, PVC Thumb Patch, & Breathable mesh for Ventilation, for Adults",
+    "review": "These gloves are made of with thick padding on the back side which protect from hitting with ball. The quality leather and the look good. Fits perfectly. I played couple of matches with them, the grip with the bat is perfect and they are very comfortable and breathable",
+    "Expected_output": "The analysis shows complete alignment between the seller's description, images, and the buyer's experience for the SPORTAXIS Premium Cricket Batting Gloves. The seller promises a stylish design, comfortable grip, protective thick padding, PVC thumb patch, and breathable mesh for ventilation. The images accurately depict the high-quality material and split-finger design with noticeable padding. Similarly, the buyer confirms these features in their review, noting the gloves' thick padding effectively protects against impacts, their perfect fit, excellent grip, and overall comfort during matches. The breathable mesh feature also aligns with the buyer's praise for comfort and ventilation. Both seller and buyer images depict a product that meets expectations, reflecting no discrepancies in quality or description. This harmonious alignment underscores the buyer's satisfaction, and no fault lies with the seller, as the product was delivered as promised and exceeded the buyer's expectations.",
+    "label": "1: Here buyer agreed with the seller"
+}

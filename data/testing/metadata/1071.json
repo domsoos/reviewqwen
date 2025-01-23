@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1071.jpg",
+    "seller_image": "data/seller_images/1071.jpg",
+    "seller_description": "Clean Pets, Clean House. emily cat & dog brush for shedding can easily remove loose hair, shedding mats, tangled hair, dander and dirt of your lovely pet, which not only keep your pet clean, but also provide you with a clean and hygienic home environment.",
+    "review": "It's not a long lasting product",
+    "expected-output": "The seller describes the product as a pet brush designed for shedding, capable of removing loose hair, mats, dander, and dirt, ensuring both a clean pet and a hygienic home. The seller\u2019s image displays a neatly packaged brush with a blue handle and white base, consistent with the description. The buyer\u2019s image also aligns with the seller\u2019s visual representation, but their review states the product is not a long-lasting product, highlighting an issue with durability. While the seller accurately describes the product's functionality and appearance, they do not make claims about durability, leaving this expectation unmet for the buyer. The buyer's dissatisfaction appears to stem from personal expectations rather than misleading information, making the fault primarily with the buyer for assuming durability claims not made by the seller.",
+    "label": "-1: Buyer's opinion"
+}

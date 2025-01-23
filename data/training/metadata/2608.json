@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/2608.jpg",
+    "seller_image": "data/seller_images/2608.jpg",
+    "seller_description": "These medium-sized garbage bags are perfect for home and kitchen use, offering convenience for clean-up and efficient garbage disposal. Designed for multifunctional use, they are ideal for offices, hotels, households, parties, disposing of baby diapers, and clearing pet litter. Each bag features a detachable tie-tape for securely tying the bag after use. With dimensions of 48 cm x 53 cm, the package includes 6 rolls of black garbage bags, with 30 bags per roll, ensuring an ample supply for various needs.",
+    "review": "The rolls were too tightly packed, making it difficult to unroll them without ripping the first bag. This is a design flaw in my opinion.",
+    "Expected-output": "The seller's description does not address the ease of unrolling the garbage bags, focusing instead on their dimensions and detachable tie-tapes. The buyer\u2019s images show the bags intact and matching the seller's images. The issue described appears to be a minor inconvenience rather than a fault in the product itself. The dissatisfaction here seems to be a subjective opinion rather than a delivery failure by the seller",
+    "label": "-1 buyers opinion"
+}

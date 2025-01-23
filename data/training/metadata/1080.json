@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1080.jpg",
+    "seller_image": "data/seller_images/1080.jpg",
+    "seller_description": "This vegetable and fruit chopper features a unique string function for effortless chopping and is made from durable, unbreakable ABS plastic for long-lasting use. Its sturdy 3-blade design, crafted from stainless steel, ensures efficient cutting. Eco-friendly in design, it combines functionality with a sleek and compact look, and is dishwasher-safe for easy cleaning.",
+    "review": "I have uesd this chopper once before also and that was soo good but this time the pull string gets stucked.",
+    "expected-output":"The seller describes the vegetable and fruit chopper as a durable and efficient tool made of unbreakable ABS plastic, featuring a unique string function for effortless chopping. It is highlighted as eco-friendly, dishwasher-safe, and designed with a sturdy 3-blade system for effective cutting. The seller’s images depict a sleek and compact design with detailed instructions for use, showcasing a reliable product. However, the buyer's review indicates dissatisfaction, stating that the pull string gets stuck, which hinders functionality. The buyer's image corroborates the issue, showing the damaged lid with the string visibly detached, directly contradicting the seller's claim of durability and unbreakable material. This discrepancy highlights a potential quality control issue or manufacturing defect. The fault lies with the seller for providing a product that failed to meet the advertised claims of durability and functionality. The buyer's dissatisfaction is justified as the defect impacts the primary purpose of the product, rendering it ineffective for use.",
+    "label": "0:Here seller is at fault"
+}

@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1999.jpg",
+    "seller_image": "data/seller_images/1999.jpg",
+    "seller_description": "This brown leather wallet is made with high-quality leather and weighs just 150 grams, with dimensions of 9 cm x 11 cm x 2 cm (LxWxH). It comes with a 6-month manufacturer warranty against manufacturing defects. Please note, due to variations in screen displays and lighting, the color may not be an exact match to what you see online. The product's photos are intended to provide a general guide to the color.",
+    "review": "I'm very unhappy with the product I received as the wallet is used product",
+    "expected-output": "The buyer expresses clear dissatisfaction, stating that the wallet received was used, which directly contradicts the seller's description of the product as new and of high-quality leather. The seller's description does not mention the possibility of receiving a used product, and the buyer's review highlights that the wallet does not meet the buyer's expectations of receiving a new item. This indicates a significant discrepancy between what was promised (a new, high-quality wallet) and what was delivered. In this case, the seller is at fault for sending a used product when the buyer expected a new one, violating the implied trust and expectations set by the product listing.",
+    "label": "0:Here seller is at fault"
+}

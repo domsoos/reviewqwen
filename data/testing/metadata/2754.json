@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/2754.jpg",
+    "seller_image": "data/seller_images/2754.jpg",
+    "seller_description": "The LEGO Decorative Heart (40638) is a charming and creative gift perfect for Valentine's Day or any occasion that calls for a heartfelt gesture. Designed with LEGO\u2019s iconic attention to detail, this buildable heart features vibrant red and pink bricks, symbolizing love and affection. Once assembled, the heart doubles as a decorative piece, ideal for displaying on desks, shelves, or any special place. The set includes a stand that allows the heart to be showcased at an angle, adding a unique touch to its presentation. Compact and easy to assemble, it\u2019s a fun activity for LEGO enthusiasts of all ages, providing a meaningful way to express love and appreciation. Whether as a thoughtful gift for a loved one or a delightful project for yourself, the LEGO Decorative Heart adds a creative twist to traditional tokens of affection, blending sentiment with the joy of building.",
+    "review": "The color combination of red and pink is vibrant and lovely, but I wish it included a few more decorative pieces to customize it further.",
+    "Expected_output": "The buyer admires the design but expresses a desire for more customization options, indicating a personal preference rather than a shortcoming.",
+    "label": "-1: buyers opinion"
+}

@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/0045.jpg",
+    "seller_image": "data/seller_images/0045.jpg",
+    "seller_description": "Feethit men's sneakers are designed for ultra breathability and lightweight support, featuring an upper made from breathable material with thousands of ventilated holes that enhance airflow. The soft foam-lined interior provides added comfort for all-day wear. These slip-on shoes eliminate the need for lacing up, thanks to an elastic topline at the back, making them easy to wear, with the shoelaces serving only as decorative elements. The anti-slip EVA outsole is high-elastic and soft, offering excellent support, traction, and impact cushioning, while the anti-skid grooves provide added stability and abrasion resistance. Equipped with a supportive insole, these shoes protect your ankles, toes, and feet while absorbing shock for long-lasting comfort. Perfect for a variety of activities, including jogging, biking, hiking, gym workouts, running, and casual outings, these sneakers are ideal for daily use and versatile enough for any occasion.",
+    "review": "it fits correctly i liked it",
+    "expected_output": "The seller describes the Feethit men's sneakers as highly breathable, lightweight, and designed for maximum comfort with features like a foam-lined interior, anti-slip EVA outsole, and supportive insoles. These sneakers are promoted as versatile for various activities and daily wear. The buyer’s review aligns with the seller’s claims, as they mention that the sneakers fit correctly and express satisfaction with the product. There are no discrepancies or negative remarks, indicating that the product meets the buyer’s expectations. ",
+    "label": "1:Here buyer agreed with the seller"
+}

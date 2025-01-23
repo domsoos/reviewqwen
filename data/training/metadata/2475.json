@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/2475.jpg",
+    "seller_image": "data/seller_images/2475.jpg",
+    "seller_description": "Experience a new realm of possibilities with the Meta Quest 3S, where mixed reality seamlessly blends digital objects with your surroundings and amplifies VR immersion. Enjoy a $70 bonus value, including Batman: Arkham Shadow and a 3-month trial of Meta Quest+**. Connect with friends worldwide, attend live concerts, and share gameplay on TV. Transform any room into a personal theater with vibrant visuals, USB-C or 3.5mm headphone compatibility (adapter sold separately), and easy multitasking for browsing, streaming, and chatting. Stay active with wireless freedom and lightweight comfort for virtual workouts or immersive gaming. Powered by the Qualcomm Snapdragon XR2 Gen 2 platform, it delivers 2X the graphical performance of Meta Quest 2. Navigate with hand gestures or precise Touch Plus Controllers, while family-friendly features like parental controls, multi-user support, and content sharing ensure fun for everyone aged 10 and up. Redefine reality with Meta Quest 3S.",
+    "review": "The device constantly overheats and becomes uncomfortable to use during extended gaming sessions.",
+    "Expected-output": "The buyer images reveal signs of overheating issues, as the headset appears discolored and worn. The seller's description did not mention potential overheating problems, which indicates a discrepancy between the product's performance and its advertised features. This dissatisfaction is likely caused by a failure in the product's cooling system, making the seller at fault for not addressing this issue in their description.",
+    "label": "0:Here seller is at fault"
+}

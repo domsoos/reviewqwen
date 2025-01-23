@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1558.jpg",
+    "seller_image": "data/seller_images/1558.jpg",
+    "seller_description": "Made with real chicken, this dog food is enriched with fish oil, essential amino acids, and 100% organic minerals to provide your pet with the best possible nutrition. With no added fillers (0%), it ensures your dog receives pure, high-quality ingredients. The high protein content promotes optimal growth and muscle development, making it an excellent choice for dogs in need of a nutrient-rich diet. Perfectly suited for all breeds, it supports overall health and vitality.",
+    "review": "Nothing is more satisfying than seeing my fur babies happy. The product is genuine and was of good quality. No moulds no insects no expired food. My dogs stayed healthy and enjoy it every single day. I’m absolutely satisfied with the purchase. I’m gonna repurchase it!",
+    "expected-output": "The seller describes the product as made with real chicken and fish oil, enriched with essential amino acids and organic minerals, and free of fillers. It promises high protein content for growth and muscle development and is suitable for all breeds. The buyer reports that the product is genuine, of good quality, with no spoilage or contamination issues, and that their dogs enjoy it daily, leading to full satisfaction and intent to repurchase. The product meets the seller's claims, and the buyer is highly satisfied with its quality and benefits.",
+    "label": "1:Here buyer agreed with the seller"
+}

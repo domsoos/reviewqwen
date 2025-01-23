@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1150.jpg",
+    "seller_image": "data/seller_images/1150.jpg",
+    "seller_description": "The Titan analog watch is an ideal gift option, combining style and functionality with its Quartz Analog Movement and durable battery for reliable timekeeping. Designed with a stainless steel strap, it ensures longevity by resisting corrosion and rust. Featuring a water resistance of up to 30 meters, it is suitable for everyday use and built with premium-quality machinery. The watch has a silver brass case measuring 45mm in length and 38mm in width, offering a sleek and sophisticated look. Backed by a 1-year warranty covering manufacturing defects, this watch is both elegant and dependable, making it a perfect accessory for yourself or a thoughtful gift for your loved ones.",
+    "review": "The dial size of the watch is too small overall quality is good",
+    "expected-output": "The seller describes the Titan analog watch as a stylish and functional timepiece with a durable stainless steel strap and a sleek silver brass case measuring 45mm in length and 38mm in width. The product is designed for everyday use with water resistance up to 30 meters and includes a 1-year warranty for manufacturing defects. The buyer\u2019s review acknowledges the watch\u2019s overall quality as good but expresses dissatisfaction with the dial size, stating it is too small.This indicates a partial misalignment between the seller's description and the buyer\u2019s expectations. While the seller accurately specifies the case dimensions in the description, the buyer\u2019s comment suggests that the visual representation or perception of the dial size did not meet their personal preference.",
+    "label": "-1: Buyer's opinion"
+}

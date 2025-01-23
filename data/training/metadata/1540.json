@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1540.jpg",
+    "seller_image": "data/seller_images/1540.jpg",
+    "seller_description": "Pedigree Dry Dog Food provides complete and balanced nutrition for adult dogs, ensuring they receive the essential nutrients they need. The Meat & Rice flavour is packed with mouth-watering kibbles that will delight your dog at every meal. Made with high-quality ingredients, including meat and rice, this food supports proper nutrition. Developed with experts, it contains 37 essential nutrients. When fed as recommended, this dry dog food helps support healthy muscles and bones with high-quality protein and calcium, promotes a healthy digestive system with dietary fibre, and contributes to a shinier coat with Omega 6 and Zinc. Available in a convenient bag.",
+    "review": "Product is very good, no doubt. Issue is with packaging. Please pack this in a box, even a slight mishandling then pedigree packet gets damaged. This is the 2 nd time it happened with me.Just one request pack this in a box .",
+    "expected-output": "The seller markets Pedigree Dry Dog Food as a high-quality, nutritious meal for adult dogs, enriched with 37 essential nutrients to support overall health. The buyer confirms satisfaction with the product's quality, validating its nutritional benefits. However, the recurring issue of damaged packaging during shipping diminishes the delivery experience. The buyer suggests using a box for improved protection, highlighting a need for better packaging to prevent damage. While the product meets nutritional promises, the packaging failure compromises the overall customer experience, making it an area for immediate improvement",
+    "label": "-1: Buyer's opinion"
+}

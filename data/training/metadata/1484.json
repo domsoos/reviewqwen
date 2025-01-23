@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1484.jpg",
+    "seller_image": "data/seller_images/1484.jpg",
+    "seller_description": "These walking shoes feature a breathable knitted vamp upper that promotes airflow, providing a second-skin feel for all-day comfort. The textured sole design ensures great grip and traction, offering safe steps on any surface. With their easy slip-on design, these shoes are perfect for an on-the-go lifestyle, while the modern and stylish look makes them suitable for everyday wear or occasional outfits. Plus, they are easy to maintain—just rinse in lukewarm water, and they’re ready for your next stroll!",
+    "review": "Value for money, looking good, little hard , grip is good, n nice fit , light weight",
+    "expected-output": "The seller markets these walking shoes as breathable, comfortable, and durable, featuring a textured sole for excellent grip and an easy slip-on design suitable for an active lifestyle. The shoes are promoted as lightweight, stylish, and easy to maintain. The buyer finds the shoes to be value for money, praising their appearance, fit, grip, and lightweight nature, while noting a slight hardness that contrasts with the seller's emphasis on comfort. Both the buyer’s and seller’s images confirm the product matches its advertised features. While the hardness may be a minor discrepancy in the comfort promised, the buyer is overall satisfied, viewing the shoes as a good purchase that aligns with their expectations for value and functionality.",
+    "label": "1:Here buyer agreed with the seller"
+}

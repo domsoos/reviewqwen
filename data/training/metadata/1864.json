@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1864.jpg",
+    "seller_image": "data/seller_images/1864.jpg",
+    "seller_description": "The tissue carrier enhances dimensional stability and improves conversions, offering better strength and increased efficiency. It is designed to perform well on multiple surfaces, ensuring reliable and consistent results across various applications.",
+    "review": "I used 20 rupees local tape to secure my power spike under my desk and it lasted 3 hours.. even using multiple strips it couldn’t hold it.. but this tape made my life simpler.. it comes with the primer and you can just tell it’s a quality product just by looking at it! Clean the surface before applying the primer on both items you want to stick and hold it for 2-4 mins and boom done",
+    "expected-output": "The seller's description highlights the tape's dimensional stability, strength, and efficiency, claiming it performs reliably on multiple surfaces. The buyer's review indicates a highly positive experience, noting that the tape was effective in securing a power spike under their desk, unlike a local 20-rupee tape. The buyer appreciates the quality of the tape, emphasizing the importance of cleaning the surface before use and applying the primer. The buyer's satisfaction aligns with the seller's description, suggesting that the product lived up to its promises. There are no discrepancies, and the buyer appears fully satisfied with the product.",
+    "label": "1:Here buyer agreed with the seller"
+}

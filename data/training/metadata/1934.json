@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1934.jpg",
+    "seller_image": "data/seller_images/1934.jpg",
+    "seller_description": "The Storite card holder in Silver Grey is crafted from faux leather, offering a sleek and stylish look. With a solid pattern, this card holder combines functionality and elegance, making it a great accessory for organizing your cards.",
+    "review": "Exactly what showing on website same thing delivered. Quality of product good",
+    "expected-output": "The seller's image and description of the Storite card holder in Silver Grey match the buyer's review. The seller highlights the faux leather material, sleek design, and functionality, which aligns with the buyer's satisfaction regarding the quality and accurate delivery of the product. The buyer confirms that the product received is exactly as shown on the website, suggesting no discrepancies between the seller's promises and the buyer's experience. The buyer appears satisfied, affirming the product's good quality and accurate representation.",
+    "label": "1:Here buyer agreed with the seller"
+}

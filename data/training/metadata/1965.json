@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1965.jpg",
+    "seller_image": "data/seller_images/1965.jpg",
+    "seller_description": "These eco-friendly and reusable kitchen grocery bags are made from high-quality cotton knit fabric and are fully biodegradable, helping you reduce waste. With no plastic or heavy metal closures, they can be used hundreds of times while maintaining their durability. The bags feature tare weight, making them food-safe and ideal for supermarket use. They are machine washable, breathable, and prevent fruit and vegetable rot by allowing ethylene gas to escape. Perfect for not only storing produce but also toys, cosmetics, and accessories, these versatile bags come in sizes L (25x35cm), M (25x30cm), and S (25x25cm), with 2 bags of each size per set.",
+    "review": "Size is small , good cotton quality but holes are big.",
+    "expected-output": "The buyer's review indicates mixed satisfaction with the eco-friendly kitchen grocery bags. They appreciated the good cotton quality but noted that the bags' size is small and the holes are too big. This suggests that the bags might not be as suitable for storing certain items, potentially leading to a mismatch with the buyer's expectations. The seller's description highlights the bags' food-safe design, versatility, and durability, but does not mention the specific issue of the holes being too large, which could be a potential discrepancy in product performance. While the cotton quality meets the buyer's expectations, the size and hole size may need improvement. The buyer seems somewhat dissatisfied due to these functional issues, suggesting that the seller might need to improve the design for better utility.",
+    "label": "-1: Buyer's opinion"
+}

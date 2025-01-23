@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1531.jpg",
+    "seller_image": "data/seller_images/1531.jpg",
+    "seller_description": "This dog jacket is designed to fit all dog breeds, including small, medium, and large dogs like Teddy, Chihuahua, Beagle, Poodle, Bulldog, Schnauzer, Labrador, and Golden Retriever. Made with a water-resistant outer layer and a soft, warm fleece inner lining, it offers both comfort and protection. The polyester and TC (terylene/cotton) material ensures durability, while the polyester fiber filling enhances warmth. Featuring creative design details like exquisite stitching and an easy hook-and-loop closure, it's comfortable to put on and take off. The lightweight, wind-proof, and water-repellent jacket is perfect for keeping your pet warm and stylish.",
+    "review": "Decent quality, fits perfectly and looks upmarket and classy. Max loves it, doen't bother about color it looks perfectly alright for my dog",
+    "expected-output": "The seller describes the dog jacket as a high-quality, stylish product designed to fit dogs of all sizes, featuring water-resistant material, a fleece lining, and durable construction. The buyer’s review confirms satisfaction with the jacket's quality, fit, and design, noting that it looks upmarket and is comfortable for their dog, Max. There are no discrepancies between the seller’s promises and the buyer’s experience, indicating that the product meets expectations. The buyer is fully satisfied with the purchase.",
+    "label": "1:Here buyer agreed with the seller"
+}

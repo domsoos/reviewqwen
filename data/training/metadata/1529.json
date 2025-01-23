@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1529.jpg",
+    "seller_image": "data/seller_images/1529.jpg",
+    "seller_description": "This dog food is made with real chicken, helping maintain lean muscles for optimal body condition. It features a great combination of ingredients, including vitamins and minerals that support strong bones and a healthy digestive system. Protein-enriched and carefully balanced with the right ratio of nutrients, it provides essential health benefits for your pet. The specially designed kibbles also help control tartar build-up. Ideal for all dog breeds, this food ensures complete nutrition and overall wellness for your furry friend.",
+    "review": "We received already opened bag which was sealed with cello tape & it weighs less as it should be 3kg but it weighs only 2.5kg.",
+    "expected-output": "The seller describes the dog food as a wholesome meal supporting joint health, strong bones, and a healthy coat. It is enriched with vitamins, minerals, and natural ingredients, promoting digestive health and overall wellness. However, the buyer reported receiving a tampered product with defective packaging, sealed with cello tape, and weighing 2.5kg instead of the advertised 3kg. This discrepancy highlights issues in quality control and packaging integrity. The buyer is dissatisfied due to tampering and incorrect weight, indicating a failure in maintaining product standards. The fault lies with the seller or logistics team for not ensuring the product’s advertised quality.",
+    "label": "0:Here seller is at fault"
+}

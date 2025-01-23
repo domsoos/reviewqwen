@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1433.jpg",
+    "seller_image": "data/seller_images/1433.jpg",
+    "seller_description": "These open-toe slippers, crafted with a synthetic outer material and a convenient slip-on closure, offer both style and comfort for everyday wear. Manufactured by BATA India Limited, they are lightweight at 500 g and have dimensions of 10 x 32 x 17 cm. Backed by a 90-day manufacturer warranty, they ensure quality and reliability. Ideal for casual use, these slippers combine durability and ease for a versatile footwear option.",
+    "review": "Permanant black stains are created on my foot when I wear this. Prefer to get a replacement nowslipper prefer to get a replacement please",
+    "expected-output": "The seller describes the open-toe slippers as lightweight, durable, and comfortable, made with synthetic material and backed by a 90-day warranty to ensure quality. However, the buyer reports dissatisfaction due to the slippers causing permanent black stains on their feet, leading to a request for replacement. This issue highlights a clear discrepancy between the seller's claim of quality and the buyer's experience, suggesting a material defect or improper dye usage. The flaw directly impacts the product's usability and contradicts the seller's assurances of reliability and comfort, making the seller responsible for not ensuring the materials used are safe and stain-free.",
+    "label": "0:Here seller is at fault"
+}

@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/0074.jpg",
+    "seller_image": "data/seller_images/0074.jpg",
+    "seller_description": "Recommended Uses For Product Trimming,Shaving,Grooming,Nose,Leg,Armpit,Back hair Color White Hair Type All Brand OLOV Power Source Corded Electric Product Dimensions : 3.15 x 1.18 x 1.18 inches; 12.31 ounces Item model number : Budhha Batteries : 2 AAA batteries required. (included)",
+    "review": "Dangerous - cuts the skin! This is a very misleading product description, this is far from being a safe intimate parts hair trimmer, very easily cuts the skin. Beware!",
+    "expected-output": "The review clearly expresses dissatisfaction with the product, citing a significant safety concern. The buyer warns that the trimmer is \"dangerous\" because it easily cuts the skin, which contradicts the seller's promises of safety. The buyer explicitly calls out the product for being unsuitable for sensitive areas, especially intimate parts, due to the risk of injury. This negative feedback suggests a serious flaw in the design or functionality of the trimmer. The fault lies with the seller, as the product’s performance does not align with the safety assurances provided in the description. The trimmer's design appears to be unsuitable for delicate areas, causing skin injuries, which directly contradicts the seller's claims of a \"safe and sharp\" experience. The safety issue indicates a potential defect in the product's design, leading to a significant discrepancy between the seller's promises and the buyer's experience.",
+    "label": "0:Here seller is at fault"
+}

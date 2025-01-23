@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1559.jpg",
+    "seller_image": "data/seller_images/1559.jpg",
+    "seller_description": "Made with real chicken, this dog food is enriched with fish oil, essential amino acids, and 100% organic minerals to provide your pet with the best possible nutrition. With no added fillers (0%), it ensures your dog receives pure, high-quality ingredients. The high protein content promotes optimal growth and muscle development, making it an excellent choice for dogs in need of a nutrient-rich diet. Perfectly suited for all breeds, it supports overall health and vitality.",
+    "review": "My German Shepard after eating 10mins vomited. The current back is having some trouble.Tried feed him next day, again vomited and now popping liquid. something is wrong with your March batch",
+    "expected-output": "The seller describes the dog food as made with real chicken, enriched with fish oil, essential amino acids, and organic minerals, ensuring high-quality ingredients free from fillers. It promises to promote optimal growth and muscle development, supporting overall health for all breeds. However, the buyer reports severe issues with the product, stating that their German Shepherd vomited 10 minutes after consuming it and experienced further health problems after trying the food again. The buyer suspects a problem with the specific March batch, indicating a potential issue with quality control.",
+    "label": "0:Here seller is at fault"
+}

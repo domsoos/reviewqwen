@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1975.jpg",
+    "seller_image": "data/seller_images/1975.jpg",
+    "seller_description": "This stylish, robust, and classy redwood-colored leather wallet is the perfect Diwali gift for men, adding a touch of sophistication to any occasion. Packaged in a sleek matte black box, it makes an ideal gift for men and boys of all age groups, perfect for Diwali, birthdays, weddings, anniversaries, and more. The bi-fold wallet features 6 card slots, 2 currency slots, 1 secret compartment, a coin pocket, and 3 transparent windows for IDs. The standout feature is the inside zippered compartment for extra storage. Additionally, the wallet is equipped with RFID blocking technology to protect against unauthorized scans, ensuring security for your cards and personal information. Made with top-quality polyester fabric lining, it combines style with durability. The wallet’s elegant brown color enhances its premium appeal.",
+    "review": "It’s very cheap quality product. Looking like its not a genuine leather. At offline market, product available at very low cost (around 100-120).",
+    "expected-output": "The buyer's review indicates significant dissatisfaction with the product. They describe it as being of cheap quality, and they suggest it is not genuine leather, which contradicts the seller's description. The buyer further claims that similar products are available in offline markets at a much lower price, implying that the product is overpriced. This dissatisfaction stems from the discrepancy in material quality and value for money, suggesting that the fault lies with the seller for misrepresenting the product's quality and failing to meet the buyer's expectations.",
+    "label": "0:Here seller is at fault"
+}

@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1953.jpg",
+    "seller_image": "data/seller_images/1953.jpg",
+    "seller_description": "This 360° spinner suitcase features 8 wheels for smooth and effortless sliding, ensuring easy maneuverability. Crafted from impact-resistant polypropylene, it includes a fixed three-digit combination lock for added security. The suitcase is fully lined with interiors and tie-down straps to keep your belongings secure during travel. Available in new vibrant colors, it comes with a 3-year global warranty, allowing you to travel worry-free.",
+    "review": "The dimension mentioned in the product is incorrect. In the attached pic you can see that the breadth of the luggage is 46 cm. Similarly the length is 75 cm and not 79cm.The actual dimension of the luggage is 46x75x30 cm",
+    "expected-output": "The buyer identifies a discrepancy between the dimensions mentioned in the seller's description and the actual measurements of the suitcase. The buyer notes that the breadth is 46 cm, the length is 75 cm, and the actual dimensions differ from the 79 cm length stated by the seller. This is a clear mismatch between the seller's description and the buyer's experience. The buyer seems dissatisfied due to this inaccuracy. It appears that the seller is at fault for providing incorrect product dimensions, which misled the buyer about the actual size of the suitcase.",
+    "label": "0:Here seller is at fault"
+}

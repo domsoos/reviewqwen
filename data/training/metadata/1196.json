@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1196.jpg",
+    "seller_image": "data/seller_images/1196.jpg",
+    "seller_description": "This stylish fashion watch for men features a unique round dial with a minimalist design and bold numbers for easy readability, showcasing a gentleman's refined taste. The thick solid stainless steel band, IP matte-plated watch case, and 3D glass mirror ensure durability and comfort, with a smooth, breathable surface for everyday wear. Offering multifunctional capabilities, it includes dual time, 50M water resistance, week display, alarm clock, date, chronograph, EL light, and 12/24-hour format, making it perfect for both indoor and outdoor activities. Powered by high-quality Japanese quartz movement for precise timekeeping, this versatile watch complements any outfit or occasion. Presented in an elegant SKMEI watch box, it makes a thoughtful gift for birthdays, weddings, anniversaries, graduations, Father's Day, business events, and more. With a stainless steel case measuring 36mm in diameter and 12mm in thickness, and a band width of 20mm, this watch combines functionality, style, and reliability.",
+    "review": "Fail watch",
+    "expected-output": "The review indicates dissatisfaction, but the lack of specific feedback makes it difficult to determine the exact nature of the issue. If the watch failed to perform as advertised, the seller is at fault for not meeting the product claims. However, if the dissatisfaction stems from subjective expectations not explicitly promised by the seller, the buyer’s review reflects a personal opinion. Given the vague nature of the feedback, the seller bears responsibility for potential misrepresentation or quality issues.",
+    "label": "0: Here seller is at fault."
+}

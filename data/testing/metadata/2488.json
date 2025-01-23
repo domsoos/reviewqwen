@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/2488.jpg",
+    "seller_image": "data/seller_images/2488.jpg",
+    "seller_description": "Achieve perfect cooking results every time with the Anova Precision Cooker, designed to circulate water at the exact temperature required for flawlessly cooked meals. Whether preparing chicken, fish, vegetables, eggs, beef, lamb, or pork, sous vide cooking locks in flavor and moisture, delivering unmatched texture and taste. This 1100-watt powerhouse heats water faster and maintains precise temperatures, making it ideal for both simple meals and extravagant feasts. Its adjustable clamp easily attaches to any stock pot or container, and its water-resistant design ensures durability in busy kitchens. With a flow rate of 8 liters per minute, the cooker offers unparalleled efficiency. The free Anova app provides access to thousands of recipes crafted by award-winning chefs and home cooks, while the optional subscription unlocks premium educational content and personalized cooking guides for just $1.99/month or $9.99/year. Designed in San Francisco, the Anova Precision Cooker is the ultimate tool for cooks of all skill levels, combining innovation and convenience for consistently exceptional results.",
+    "review": "The adjustable clamp does not fit securely on my stock pot, causing the cooker to slip during operation. It\u2019s a frustrating design flaw.",
+    "Expected-output": "The buyer's review highlights a problem with the adjustable clamp, which contradicts the seller's description of compatibility with any stock pot. The seller's promise of convenience and secure attachment was not met, placing the fault with the seller's product design.",
+    "label": "0:Here seller is at fault"
+}

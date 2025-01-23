@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/2724.jpg",
+    "seller_image": "data/seller_images/2724.jpg",
+    "seller_description": "The Paris Hilton Enameled Cast Iron Dutch Oven is a charming 2-quart, heart-shaped pot designed for both functionality and aesthetic appeal. Crafted from durable cast iron, it ensures superior heat retention and even distribution, making it ideal for various cooking methods. The pink enameled finish adds a touch of elegance to any kitchen, while the dual handles provide a secure grip for easy transport. Compatible with all stovetops and oven safe up to 500\u00b0F, this versatile Dutch oven is perfect for preparing and serving meals for two or side dishes.  ",
+    "review": "The Paris Hilton Heart-Shaped Dutch Oven is a statement piece that adds elegance and personality to your kitchen. Its flawless craftsmanship and reliable performance create an experience where cooking meets artistry.",
+    "Expected_output": "The seller\u2019s description captures the essence of this Dutch oven with its emphasis on durability, even heat distribution, and aesthetic appeal. Buyer images affirm the heart-shaped design, pink enamel finish, and sturdy handles, confirming its suitability for both cooking and serving. The product\u2019s features, such as compatibility with all stovetops and oven safety, align with the description, leaving room for buyer opinions to reflect preferences about size or specific cooking needs rather than dissatisfaction. The Dutch oven upholds the seller\u2019s claims and stands out as a versatile and visually appealing kitchen tool. ",
+    "label": "-1: buyers opinion"
+}

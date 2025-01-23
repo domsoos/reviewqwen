@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1856.jpg",
+    "seller_image": "data/seller_images/1856.jpg",
+    "seller_description": "This adhesive tape offers excellent holding power, ensuring that the package stays securely sealed. It features a wide service temperature range, making it suitable for most applications, and adheres easily to even slightly irregular surfaces. Non-toxic and conforming to ASTM D-4236 standards, it provides a safe and reliable solution for a variety of packaging and sealing needs.",
+    "review": "Delivered product is a transparent tape while the product description as per the picture was not.",
+    "expected-output": "The seller's description states that the adhesive tape offers excellent holding power, is suitable for various applications, and adheres to slightly irregular surfaces. It is non-toxic and conforms to ASTM D-4236 standards, providing a safe and reliable solution for packaging and sealing. The buyer's review expresses dissatisfaction, stating that the delivered product was a transparent tape, while the product description and image suggested something different. This discrepancy suggests that the buyer expected a product that matched the visual representation in the listing but received something else. The buyer appears dissatisfied due to this mismatch, and the fault seems to lie with the seller’s misleading product image or description.",
+    "label": "0:Here seller is at fault"
+}

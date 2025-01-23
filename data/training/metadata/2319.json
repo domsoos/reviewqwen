@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/2319.jpg",
+    "seller_image": "data/seller_images/2319.jpg",
+    "seller_description": "SPORTAXIS Premium Cricket Batting Gloves for Batsman, Split Fingers, Stylish Design, Comfortable Grip, PVC Thumb Patch, & Breathable mesh for Ventilation, for Adults",
+    "review": "These are nice cricket gloves. I liked the look and grip of them. They have a nice feel and strong grip on the bat. Small Stichting what you can see on one of the pictures is little off but i would recommend this product. I haven\u2019t had these gloves for long but so far pretty satisfied",
+    "Expected_output": "The seller's description of the SPORTAXIS Premium Cricket Batting Gloves highlights key features such as split fingers for movement, a stylish design, a comfortable grip, a PVC thumb patch, and breathable mesh for ventilation. The buyer review confirms satisfaction with the gloves' grip, feel, and batting performance. However, the buyer mentions a minor stitching issue visible in their image, which deviates slightly from the premium quality implied by the seller's description. The seller's images align well with the buyer's photographs, showcasing the gloves' design and padding accurately. Despite the stitching flaw, the buyer expresses overall satisfaction, recommending the product for its functionality and comfort. The fault for the minor stitching issue lies with the seller, as it reflects a slight quality control lapse, though it does not detract significantly from the buyer's positive experience.",
+    "label": "1: Here buyer agreed with the seller"
+}

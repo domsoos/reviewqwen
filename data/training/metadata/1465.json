@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1465.jpg",
+    "seller_image": "data/seller_images/1465.jpg",
+    "seller_description": "These lace-up running shoes feature a durable textile outer material and a comfortable round-toe design, making them ideal for active wear. Manufactured by Lancer Footwear (Klick) India Pvt. Ltd. in Bahadurgarh, Haryana, and packed by Styleshore Emarketing Pvt. Ltd. in New Delhi, they weigh 450 g and measure 29 x 15 x 10 cm. Backed by a 15-day manufacturer warranty, this pair of running shoes combines quality and style, perfect for casual and athletic use. Sold as a set of two, they ensure functionality and comfort for everyday performance.",
+    "review": "Shoes is very lightweight comfortable and useful running walking and yoga.",
+    "expected-output": "The seller describes these lace-up running shoes as durable, lightweight, and suitable for both casual and athletic use, featuring a textile outer material, round-toe design, and a 15-day warranty. The buyer praises the shoes for their comfort and versatility in activities like running, walking, and yoga, expressing high satisfaction. Both seller and buyer images align, showing the product as described, with no discrepancies noted. The shoes meet the advertised features and performance expectations, validating the sel",
+    "label": "1:Here buyer agreed with the seller"
+}

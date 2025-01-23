@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1589.jpg",
+    "seller_image": "data/seller_images/1589.jpg",
+    "seller_description": "This cat food is specially formulated to provide healthy skin and a beautiful coat, while controlling urinary pH and protecting against hairball formation. Enriched with Taurine, it supports a healthy heart, ensuring your house-cat thrives with optimal well-being. Available in a convenient bag, it offers a complete nutritional solution for your feline friend.",
+    "review": "I don't like it's smell and size is big . It's not flavourful.",
+    "expected-output": " The seller advertises the cat food as specially formulated to promote healthy skin, a beautiful coat, urinary pH control, and hairball prevention. Enriched with Taurine, it supports a healthy heart and offers complete nutrition for feline well-being. However, the buyer expressed dissatisfaction with the product, citing an unpleasant smell, large food size, and lack of flavor, which contrasts with the seller's claims of quality and appeal. Recommendations for the seller include addressing the food's size, improving flavor and aroma, and gathering more customer feedback to enhance product satisfaction and align with consumer expectations.",
+    "label": "-1: Buyer's opinion"
+}

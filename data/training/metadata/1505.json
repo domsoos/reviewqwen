@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1505.jpg",
+    "seller_image": "data/seller_images/1505.jpg",
+    "seller_description": "These cat treats are designed for house cats, promoting healthy skin and a beautiful coat. They come in a convenient bag container, making them easy to store and serve. Perfect for maintaining your cat's overall well-being and coat appearance.",
+    "review": "Please don't buy it . It is not good for your pets helth. I purchased it and I give it to my two cats after eating this the two of them were dead due to this bad quality cat food. My cats vet Said they die for this bad cat food so don't buying",
+    "expected-output": "The analysis reveals a severe misalignment between the seller's promises and the buyer's experience. The seller advertises the cat treats as promoting healthy skin, a beautiful coat, and overall well-being, packaged conveniently for house cats. However, the buyer reports a catastrophic outcome, stating that their two cats died after consuming the treats, with a veterinarian confirming the cause as bad quality cat food. This directly contradicts the seller’s claims of promoting health and raises serious concerns about the product’s safety. The buyer strongly advises against purchasing the product, citing health risks. The seller must urgently investigate the product’s quality and safety, ensure thorough testing for harmful ingredients or contamination, and provide transparency about safety measures. Addressing this incident with the buyer and relevant authorities is critical, and the seller should consider a product recall if necessary to prevent further harm. This situation highlights a potential safety issue requiring immediate and decisive action.",
+    "label": "0:Here seller is at fault"
+}

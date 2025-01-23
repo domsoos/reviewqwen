@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1279.jpg",
+    "seller_image": "data/seller_images/1279.jpg",
+    "seller_description": "Steering have lights and sound",
+    "review": "Very nice light weight, durable product. My kid loves to ride this. Apt for 1.5yrs+ babies. Instructions are clear and easy to assemble. Go for it..!",
+    "expected-output": "Seller's Description Analysis:The seller briefly describes the product, emphasizing:  The steering has lights and sound. Buyer's Review Analysis: The buyer expresses high satisfaction, mentioning: The product is lightweight and durable. It is suitable for children aged 1.5 years and above. Their child enjoys riding it.  Clear instructions make it easy to assemble. Strong recommendation with positive remarks.Analysis of the Images:The seller's image likely highlights the product's design, including the steering with lights and sound. The buyer's image should confirm the product's overall condition and features aligning with the seller's description.Discrepancies Identified: No discrepancies are noted. The buyer's positive review confirms the product meets the seller's description and expectations.Conclusion: The buyer is highly satisfied with the product, praising its lightweight design, durability, and ease of assembly. The seller has delivered on the promised features, resulting in a successful transaction. No faults are identified.",
+    "label": "1:Here buyer agreed with the seller"
+}

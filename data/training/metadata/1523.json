@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1523.jpg",
+    "seller_image": "data/seller_images/1523.jpg",
+    "seller_description": "This cat food is specifically formulated for house cats, promoting healthy skin and a beautiful coat. The bag packaging ensures convenience and freshness, providing your feline with the essential nutrients for a glossy, soft coat and overall wellness. Ideal for maintaining skin health and providing optimal nutrition.",
+    "review": "Product is good my cats love to eat, only disappointed by the packe was torn damage so the food cannot be fresh.",
+    "expected-output": "The seller describes the cat food as formulated for house cats, promoting healthy skin and a beautiful coat, with bag packaging that ensures convenience and freshness. It is designed to provide essential nutrients for a glossy, soft coat and overall wellness, making it ideal for maintaining skin health and providing optimal nutrition. The buyer notes that their cats love the food, indicating its appeal and nutritional value, but they express disappointment due to damaged packaging, which affects the freshness of the food. While the product meets its nutritional promises, packaging issues during shipping have negatively impacted the buyer's experience. To improve, the seller could focus on enhancing packaging durability to maintain product integrity, collaborate with shipping partners to reduce transit damage, and offer responsive customer service to address any concerns, including replacements or refunds, ensuring customer satisfaction and trust.",
+    "label": "0:Here seller is at fault"
+}

@@ -1,0 +1,8 @@
+{
+    "buyer_image": "data/buyer_images/1448.jpg",
+    "seller_image": "data/seller_images/1448.jpg",
+    "seller_description": "Experience unmatched comfort and durability with these flip-flops, featuring long-lasting cushioning lab-tested to endure over a million steps, offering three times the longevity of standard products. The ultra-soft toe separator (Luppi) minimizes irritation and reduces the risk of toe rashes, ensuring all-day comfort. Incredibly lightweight, they feel almost weightless, even lighter than a T-shirt. Designed with superior anti-skid performance, these flip-flops provide a confident and secure walking experience, making them the perfect blend of functionality and comfort.",
+    "review": "Colour is good .But is not comfortable at all at thumb and pinches below the thumb.",
+    "expected-output": "The seller describes the flip-flops as comfortable and durable, with long-lasting cushioning, a soft toe separator, lightweight design, and anti-skid features. The buyer likes the color but finds them uncomfortable, with the toe separator causing pinching near the thumb. The seller's image shows lightweight and soft flip-flops, but the buyer's experience contradicts the comfort claim. The discrepancy lies in the design, leading to discomfort and buyer dissatisfaction, which the seller should address.",
+    "label": "0:Here seller is at fault"
+}
